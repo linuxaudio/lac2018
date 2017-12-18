@@ -1,7 +1,7 @@
 .. title: LAC 2018 is happening in Berlin
 .. slug: lac-2018-is-happening-in-berlin
 .. date: 2017-12-18 20:43:55 UTC+01:00
-.. tags: 2018 c-base tu-berlin
+.. tags: 2018, c-base, tu-berlin
 .. category: 
 .. link: 
 .. description: LAC 2018 announcement
