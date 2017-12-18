@@ -9,13 +9,13 @@
 
 Hey all, we have some good news!
 
-Linux Audio Conference 2018 will be hosted at |c-base| again in 2018 and we even
-have a date for it already!
+Linux Audio Conference 2018 will be hosted at |c-base| - in partnership with
+the |electronic-studio| - again in 2018 and we even have a date for it already!
 
 **7th - 10th June 2018**
 
 We will have a *Call for Papers* and a *Call for Submissions* in the beginning
-of next year, as we're partnering up with the |electronic-studio|.
+of next year.
 
 More information will follow in the coming weeks.
 
