@@ -134,6 +134,10 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/pages/cfp", "CfP"),
+        ("/pages/templates", "Templates"),
+        ("/openconf", "Submit"),
+        ("/pages/contact", "Contact"),
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS feed"),
