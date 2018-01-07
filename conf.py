@@ -139,8 +139,7 @@ NAVIGATION_LINKS = {
         ("/openconf", "Submit"),
         ("/pages/contact", "Contact"),
         ("/pages/travel-stay", "Travel&Stay"),
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
+        ("/pages/about", "About"),
         ("/rss.xml", "RSS feed"),
     ),
 }
