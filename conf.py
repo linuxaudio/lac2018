@@ -138,8 +138,7 @@ NAVIGATION_LINKS = {
         ("/pages/templates", "Templates"),
         ("/openconf", "Submit"),
         ("/pages/contact", "Contact"),
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
+        ("/pages/about", "About"),
         ("/rss.xml", "RSS feed"),
     ),
 }
