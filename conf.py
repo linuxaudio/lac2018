@@ -138,7 +138,7 @@ NAVIGATION_LINKS = {
         ("/pages/templates", "Templates"),
         ("/openconf", "Submit"),
         ("/pages/contact", "Contact"),
-        ("/pages/travel-stay", "Travel&Stay"),
+        ("/pages/travel-and-stay", "Travel & Stay"),
         ("/pages/about", "About"),
         ("/rss.xml", "RSS feed"),
     ),
