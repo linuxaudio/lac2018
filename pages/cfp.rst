@@ -80,8 +80,8 @@ Workshops
 How to submit?
 --------------
 
-* The deadline for papers, posters, workshops and speed geeking submission is
-  **Friday, February 28th, 2018 (23:59 UTC)**.
+* The deadline for papers, posters, and workshop submission is **Friday,
+  February 28th, 2018 (23:59 UTC)**.
 * The required file format is PDF, formatted for A4 paper.
   Authors are required to use the |templates| for paper formatting available as
   download page of the conference website.
@@ -90,8 +90,8 @@ How to submit?
 Call for Music / Multimedia Installations
 _________________________________________
 
-| LAC 2018 invites also submissions of Electroacoustic Works and Multimedia
-  Installation.
+| LAC 2018 also invites submissions of Electroacoustic Works and Multimedia
+  Installations.
 
 | A jury will select the compositions and installations to be included in the
  conference program according to artistic merit and technical feasibility.
