@@ -109,7 +109,7 @@ _________________________________________
   following categories:
 
 * Electronic Music
-* Acousmatic Music
+* Electroacoustic Music
 * Mixed Music
 * Acoustic Music
 * Sound installation
@@ -121,9 +121,16 @@ _________________________________________
 Available Setups
 ----------------
 
-* 8channel - speaker setup
-* Stereo setup + video projection
+For concerts, the LAC will provide
+the following equipment:
 
+* 8channel - speaker setup
+* stereo setup + video projection
+* digital mixing desk
+
+Additional requests can not be guaranteed.
+
+  
 How to submit?
 --------------
 
