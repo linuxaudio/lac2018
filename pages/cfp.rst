@@ -63,14 +63,17 @@ Papers
 Posters
 -------
 
-The poster presentation should be 1 page, with up to 5 keywords and an abstract
-of up to 200 words. The abstract will be published on the conference website
-once the poster has been accepted. All posters are peer reviewed by a committee
-of experts in different disciplines. The reviewers may suggest improvements to
-the author(s), or require changes in order for the poster to be accepted.
+| The poster presentation should be 2 pages, with up to 5 keywords and an
+  abstract of up to 150 words.
+| The abstract will be published on the conference
+  website once the poster has been accepted.
+| All posters are peer reviewed by a committee of experts in different
+  disciplines. The reviewers may suggest improvements to the author(s), or
+  require changes in order for the poster to be accepted.
 
 Workshops
 ---------
+
 | The workshop presentation (max duration of 2h) should be 1 page, with up to 5
   keywords, and an abstract of up to 300 words to be published on the conference
   website.
