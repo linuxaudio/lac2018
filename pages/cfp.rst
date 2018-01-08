@@ -52,7 +52,7 @@ Papers
 | Papers must be written and presented in English. The length of the talks is
   25 minutes.
 | The length of papers is 4 to 8 pages, with up to 5 keywords, and an abstract
-  of up to 300 words. The abstract will be published on the conference website
+  of up to 200 words. The abstract will be published on the conference website
   once the paper has been accepted. The full paper will be available on the
   website during and after the conference.
 | All papers are peer reviewed by a committee of experts from different
@@ -64,7 +64,7 @@ Posters
 -------
 
 The poster presentation should be 1 page, with up to 5 keywords and an abstract
-of up to 300 words. The abstract will be published on the conference website
+of up to 200 words. The abstract will be published on the conference website
 once the poster has been accepted. All posters are peer reviewed by a committee
 of experts in different disciplines. The reviewers may suggest improvements to
 the author(s), or require changes in order for the poster to be accepted.
