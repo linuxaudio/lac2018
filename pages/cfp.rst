@@ -137,13 +137,13 @@ Additional requests can not be guaranteed.
 How to submit?
 --------------
 
-* use the |openconf| online submission tool
-* select the topic **'_ WORKS _'**
+* Use the |openconf| online submission tool
+* Select the topic **_ PERFORMANCE _**
 * The required file format is PDF, formatted for A4 paper. It includes:
 
-  * description of the project program notes
-  * link to video or audio demonstration of the project
-  * technical rider of the work
+  * Description of the project program notes
+  * Link to video or audio demonstration of the project
+  * Technical rider of the work
 
 Important Dates
 _______________
