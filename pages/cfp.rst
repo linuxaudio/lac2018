@@ -84,8 +84,8 @@ How to submit?
 
 * The deadline for papers, posters, and workshop submission is **Friday,
   February 28th, 2018 (23:59 UTC)**.
-* Chose the relevant submissoin type (_ PAPER _, _ POSTER _ or  _ WORKSHOP _)
-  in addition to your 5 categories
+* Choose the relevant submission type (**_ PAPER _**, **_ POSTER _** or **_
+  WORKSHOP _**) in addition to your 5 categories
 * The required file format is PDF, formatted for A4 paper.
   Authors are required to use the |templates| for paper formatting available as
   download page of the conference website.
@@ -134,12 +134,11 @@ the following equipment:
 
 Additional requests can not be guaranteed.
 
-  
 How to submit?
 --------------
 
 * use the |openconf| online submission tool
-* select the topic **'_ CALL FOR WORKS  _'**
+* select the topic **'_ WORKS _'**
 * The required file format is PDF, formatted for A4 paper. It includes:
 
   * description of the project program notes
