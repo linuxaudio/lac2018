@@ -137,7 +137,7 @@ How to submit?
 --------------
 
 * Use the |openconf| online submission tool
-* Select the topic **_ PERFORMANCE _**
+* Select the submission type **_ PERFORMANCE _**
 * The required file format is PDF, formatted for A4 paper. It includes:
 
   * Description of the project program notes
