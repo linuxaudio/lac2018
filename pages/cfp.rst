@@ -63,7 +63,7 @@ Papers
 Posters
 -------
 
-| The poster presentation should be 2 pages, with up to 5 keywords and an
+| The poster presentation should be 2-4 pages, with up to 5 keywords and an
   abstract of up to 150 words.
 | The abstract will be published on the conference
   website once the poster has been accepted.
