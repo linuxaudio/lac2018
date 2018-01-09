@@ -49,8 +49,7 @@ _____________________________________
 Papers
 ------
 
-| Papers must be written and presented in English. The length of the talks is
-  25 minutes.
+| Papers must be written and presented in English.
 | The length of papers is 4 to 8 pages, with up to 5 keywords, and an abstract
   of up to 200 words. The abstract will be published on the conference website
   once the paper has been accepted. The full paper will be available on the
