@@ -1,4 +1,4 @@
-.. title: Call for Papers / Posters / Workshops/ Music / Multimedia Installations
+.. title: Call for Papers / Posters / Workshops/ Music Performances/ Multimedia Installations
 .. slug: cfp
 .. date: 2018-01-07 17:47:02 UTC+01:00
 .. tags: call for papers, call for works, submission
@@ -73,9 +73,9 @@ Posters
 Workshops
 ---------
 
-| The workshop presentation (max duration of 2h) should be 1 page, with up to 5
-  keywords, and an abstract of up to 300 words to be published on the conference
-  website.
+| The workshop presentation (max duration of 2h) should be 1-4 pages, with up
+  to 5 keywords, and an abstract of up to 150 words to be published on the
+  conference website.
 | Submit a brief description of the workshop including URL (if
   available).
 
