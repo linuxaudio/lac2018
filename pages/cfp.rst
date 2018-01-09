@@ -25,7 +25,6 @@ _____________________________________
 * Audio and Music Languages
 * Audio Hardware Support
 * Audio Plugins
-* Realtime Kernel and Linux Distributions
 * Drivers, System and Sound Architecture
 * Education and E-Learning
 * Games
@@ -36,14 +35,15 @@ _____________________________________
 * Media Art
 * MIDI,OSC...
 * Mobile Audio
+* Music Composition
 * Music Production
-* Music Production Tools
 * Networked Audio
 * Physical Computing
 * Projects Realized using Linux Audio
+* Realtime Kernel and Linux Distributions
 * Signal Processing and Sound Synthesis
-* Sound Spatialization 
-* Standards and Protocols 
+* Sound Spatialization
+* Standards and Protocols
 * Video
 
 Papers
