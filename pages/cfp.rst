@@ -84,6 +84,8 @@ How to submit?
 
 * The deadline for papers, posters, and workshop submission is **Friday,
   February 28th, 2018 (23:59 UTC)**.
+* Chose the relevant submissoin type (_ PAPER _, _ POSTER _ or  _ WORKSHOP _)
+  in addition to your 5 categories
 * The required file format is PDF, formatted for A4 paper.
   Authors are required to use the |templates| for paper formatting available as
   download page of the conference website.
