@@ -9,7 +9,7 @@
 
   .. note::
 
-    | Deadline for all submissions: **Friday, February 28th, 2018 (23:59 UTC)**.
+    | Deadline for all submissions: **February 28th, 2018 (23:59 UTC)**.
     | Online (only) submission through |openconf|.
 
 Call for Papers / Posters / Workshops
