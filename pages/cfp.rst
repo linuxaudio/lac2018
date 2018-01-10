@@ -147,7 +147,7 @@ How to submit?
 Important Dates
 _______________
 
-* Deadline for submissions: **Friday, February 28th, 2018 (23:59 UTC)**
+* Deadline for submissions: **February 28th, 2018 (23:59 UTC)**
 * Acceptance notification: **March 31st, 2018**
 * Final deadline for 'camera ready' paper: **April 15th, 2018**
 * Author registration deadline: **April 15th, 2018**
