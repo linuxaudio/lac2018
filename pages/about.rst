@@ -8,7 +8,7 @@
 .. type: text
 
 | The Linux Audio Conference 2018 takes place **June 7th - 10th** at |c-base| and
-  other locations, that will be announced in the final schedule.
+  other locations, which will be announced in the final schedule.
 | The involved institutions can be found in the footer of this website.
 
 | Relevant information about the conference can be found on the pages for the

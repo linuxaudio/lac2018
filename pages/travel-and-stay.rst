@@ -1,3 +1,12 @@
+.. title: Travel & Stay
+.. slug: travel-and-stay
+.. date: 2018-01-07 20:56:42 UTC+01:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
 Public transport
 ----------------
 

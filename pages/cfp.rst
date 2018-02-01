@@ -1,4 +1,4 @@
-.. title: Call for Papers / Posters / Workshops/ Music / Multimedia Installations
+.. title: Call for Papers / Posters / Workshops/ Music Performances/ Multimedia Installations
 .. slug: cfp
 .. date: 2018-01-07 17:47:02 UTC+01:00
 .. tags: call for papers, call for works, submission
@@ -9,7 +9,7 @@
 
   .. note::
 
-    | Deadline for all submissions: **Friday, February 28th, 2018 (23:59 UTC)**.
+    | Deadline for all submissions: **February 28th, 2018 (23:59 UTC)**.
     | Online (only) submission through |openconf|.
 
 Call for Papers / Posters / Workshops
@@ -25,7 +25,6 @@ _____________________________________
 * Audio and Music Languages
 * Audio Hardware Support
 * Audio Plugins
-* Realtime Kernel and Linux Distributions
 * Drivers, System and Sound Architecture
 * Education and E-Learning
 * Games
@@ -36,23 +35,23 @@ _____________________________________
 * Media Art
 * MIDI,OSC...
 * Mobile Audio
+* Music Composition
 * Music Production
-* Music Production Tools
 * Networked Audio
 * Physical Computing
 * Projects Realized using Linux Audio
+* Realtime Kernel and Linux Distributions
 * Signal Processing and Sound Synthesis
-* Sound Spatialization 
-* Standards and Protocols 
+* Sound Spatialization
+* Standards and Protocols
 * Video
 
 Papers
 ------
 
-| Papers must be written and presented in English. The length of the talks is
-  25 minutes.
+| Papers must be written and presented in English.
 | The length of papers is 4 to 8 pages, with up to 5 keywords, and an abstract
-  of up to 300 words. The abstract will be published on the conference website
+  of up to 200 words. The abstract will be published on the conference website
   once the paper has been accepted. The full paper will be available on the
   website during and after the conference.
 | All papers are peer reviewed by a committee of experts from different
@@ -63,25 +62,29 @@ Papers
 Posters
 -------
 
-The poster presentation should be 1 page, with up to 5 keywords and an abstract
-of up to 300 words. The abstract will be published on the conference website
-once the poster has been accepted. All posters are peer reviewed by a committee
-of experts in different disciplines. The reviewers may suggest improvements to
-the author(s), or require changes in order for the poster to be accepted.
+| The poster presentation should be 2-4 pages, with up to 5 keywords and an
+  abstract of up to 150 words.
+| The abstract will be published on the conference
+  website once the poster has been accepted.
+| All posters are peer reviewed by a committee of experts in different
+  disciplines. The reviewers may suggest improvements to the author(s), or
+  require changes in order for the poster to be accepted.
 
 Workshops
 ---------
-| The workshop presentation (max duration of 2h) should be 1 page, with up to 5
-  keywords, and an abstract of up to 300 words to be published on the conference
-  website.
+
+| The workshop presentation (max duration of 2h) should be 1-4 pages, with up
+  to 5 keywords, and an abstract of up to 150 words to be published on the
+  conference website.
 | Submit a brief description of the workshop including URL (if
   available).
 
 How to submit?
 --------------
 
-* The deadline for papers, posters, workshops and speed geeking submission is
-  **Friday, February 28th, 2018 (23:59 UTC)**.
+* Use the |openconf| online submission tool
+* Choose the relevant submission type (**_ PAPER _**, **_ POSTER _** or **_
+  WORKSHOP _**) in addition to your 5 categories
 * The required file format is PDF, formatted for A4 paper.
   Authors are required to use the |templates| for paper formatting available as
   download page of the conference website.
@@ -90,8 +93,8 @@ How to submit?
 Call for Music / Multimedia Installations
 _________________________________________
 
-| LAC 2018 invites also submissions of Electroacoustic Works and Multimedia
-  Installation.
+| LAC 2018 also invites submissions of Electroacoustic Works and Multimedia
+  Installations.
 
 | A jury will select the compositions and installations to be included in the
  conference program according to artistic merit and technical feasibility.
@@ -109,7 +112,7 @@ _________________________________________
   following categories:
 
 * Electronic Music
-* Acousmatic Music
+* Electroacoustic Music
 * Mixed Music
 * Acoustic Music
 * Sound installation
@@ -121,24 +124,30 @@ _________________________________________
 Available Setups
 ----------------
 
+For concerts, the LAC will provide
+the following equipment:
+
 * 8channel - speaker setup
-* Stereo setup + video projection
+* stereo setup + video projection
+* digital mixing desk
+
+Additional requests can not be guaranteed.
 
 How to submit?
 --------------
 
-* use the |openconf| online submission tool
-* select the topic **'_ CALL FOR WORKS  _'**
+* Use the |openconf| online submission tool
+* Select the submission type **_ PERFORMANCE _**
 * The required file format is PDF, formatted for A4 paper. It includes:
 
-  * description of the project program notes
-  * link to video or audio demonstration of the project
-  * technical rider of the work
+  * Description of the project program notes
+  * Link to video or audio demonstration of the project
+  * Technical rider of the work
 
 Important Dates
 _______________
 
-* Deadline for submissions: **Friday, February 28th, 2018 (23:59 UTC)**
+* Deadline for submissions: **February 28th, 2018 (23:59 UTC)**
 * Acceptance notification: **March 31st, 2018**
 * Final deadline for 'camera ready' paper: **April 15th, 2018**
 * Author registration deadline: **April 15th, 2018**
