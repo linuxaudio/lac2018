@@ -317,6 +317,8 @@ COMPILERS = {
 # The URL may be relative to the site root.
 # LOGO_URL = ''
 
+LOGO_URL = 'images/tux_small.png'
+
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
 # SHOW_BLOG_TITLE = True
