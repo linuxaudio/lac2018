@@ -8,7 +8,7 @@
 .. type: text
 
 | You might be happy to hear, that we have just extended the submission deadline
-  by two weeks (**March 14th, 2018**)!
+  by two weeks (**March 15th, 2018**)!
 | Due to |unforseen_circumstances| the past few weeks have been quite bumpy.
 | All the more reason to give everyone a little more time!
 

@@ -9,7 +9,7 @@
 
   .. note::
 
-    | Deadline for all submissions: **March 14th, 2018 (23:59 UTC)**.
+    | Deadline for all submissions: **March 15th, 2018 (23:59 UTC)**.
     | Online (only) submission through |openconf|.
 
 Call for Papers / Posters / Workshops
@@ -155,7 +155,7 @@ How to submit?
 Important Dates
 _______________
 
-* Deadline for submissions: **March 14th, 2018 (23:59 UTC)**
+* Deadline for submissions: **March 15th, 2018 (23:59 UTC)**
 * Acceptance notification: **March 31st, 2018**
 * Final deadline for 'camera ready' paper: **April 15th, 2018**
 * Author registration deadline: **April 15th, 2018**
