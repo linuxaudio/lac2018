@@ -35,9 +35,6 @@ What to expect
 | The conference team uses an |issue_tracker|, in case you would like to get
   involved.
 
-| The conference team uses an |issue_tracker|, in case you would like to get
-  involved.
-
 | Relevant information about the conference can be found on the pages for the
   |cfp|, |travelandstay| and |contact|.
 
