@@ -32,6 +32,8 @@ What to expect
 -    Excursions
 
 | The involved institutions can be found in the footer of this website.
+| The conference team uses an |issue_tracker|, in case you would like to get
+  involved.
 
 | The conference team uses an |issue_tracker|, in case you would like to get
   involved.

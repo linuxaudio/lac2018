@@ -317,7 +317,7 @@ COMPILERS = {
 # The URL may be relative to the site root.
 # LOGO_URL = ''
 
-LOGO_URL = 'images/tux_small.png'
+LOGO_URL = ''
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
@@ -637,7 +637,12 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = {
     'default': [
-        "rsync -rav --delete output/ lac@linuxaudio.org:/home/sites/lac.linuxaudio.org/2018/docroot",
+        "rsync -rav --delete output/ lac2018@linuxaudio.org:/home/sites/lac.linuxaudio.org/2018/docroot",
+    ],
+    'rsync_dave': [
+        "ssh dvzrv@linuxaudio.org \"sudo chown -R dvzrv. /home/sites/lac.linuxaudio.org/2018/docroot\" && \
+                rsync -rav --delete output/ dvzrv@linuxaudio.org:/home/sites/lac.linuxaudio.org/2018/docroot && \
+                ssh dvzrv@linuxaudio.org \"sudo chown -R lac2018:lac2018 /home/sites/lac.linuxaudio.org/2018/docroot\"",
     ]
 }
 

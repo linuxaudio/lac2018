@@ -9,7 +9,7 @@
 
   .. note::
 
-    | Deadline for all submissions: **February 28th, 2018 (23:59 UTC)**.
+    | Deadline for all submissions: **March 15th, 2018 (23:59 UTC)**.
     | Online (only) submission through |openconf|.
 
 Call for Papers / Posters / Workshops
@@ -88,6 +88,10 @@ How to submit?
 * The required file format is PDF, formatted for A4 paper.
   Authors are required to use the |templates| for paper formatting available as
   download page of the conference website.
+
+  .. note::
+
+    Upload is only possible **after** creating the submission!
 * Please notify us if you need a special technical setup for your presentation.
 
 Call for Music / Multimedia Installations
@@ -144,10 +148,14 @@ How to submit?
   * Link to video or audio demonstration of the project
   * Technical rider of the work
 
+    .. note::
+
+      Upload is only possible **after** creating the submission!
+
 Important Dates
 _______________
 
-* Deadline for submissions: **February 28th, 2018 (23:59 UTC)**
+* Deadline for submissions: **March 15th, 2018 (23:59 UTC)**
 * Acceptance notification: **March 31st, 2018**
 * Final deadline for 'camera ready' paper: **April 15th, 2018**
 * Author registration deadline: **April 15th, 2018**
