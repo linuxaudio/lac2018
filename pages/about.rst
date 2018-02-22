@@ -10,13 +10,21 @@
 | The Linux Audio Conference 2018 takes place **June 7th - 10th** at |c-base| and
   other locations, which will be announced in the final schedule.
 | The involved institutions can be found in the footer of this website.
+| The conference team uses an |issue_tracker|, in case you would like to get
+  involved.
 
 | Relevant information about the conference can be found on the pages for the
   |cfp|, |travelandstay| and |contact|.
 
+| This website is static HTML. Its repository can be found |here|.
+
 .. |c-base| raw:: html
 
   <a href="https://c-base.org" target="_blank">c-base</a>
+
+.. |issue_tracker| raw:: html
+
+  <a href="https://github.com/linuxaudio/conference2018" target="_blank">issue tracker</a>
 
 .. |cfp| raw:: html
 
@@ -29,4 +37,8 @@
 .. |contact| raw:: html
 
   <a href="/pages/contact" target="_blank">contact</a>
+
+.. |here| raw:: html
+
+  <a href="https://github.com/linuxaudio/lac2018" target="_blank">here</a>
 
