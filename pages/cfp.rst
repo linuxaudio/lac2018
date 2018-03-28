@@ -156,9 +156,9 @@ Important Dates
 _______________
 
 * Deadline for submissions: **March 15th, 2018 (23:59 UTC)**
-* Acceptance notification: **March 31st, 2018**
-* Final deadline for 'camera ready' paper: **April 15th, 2018**
-* Author registration deadline: **April 15th, 2018**
+* Acceptance notification: **April 14th, 2018**
+* Final deadline for 'camera ready' paper: **April 28th, 2018**
+* Author registration deadline: **April 29th, 2018**
 * Final program: **May 1st, 2018**
 
 .. |openconf| raw:: html
