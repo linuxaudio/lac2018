@@ -8,17 +8,26 @@
 .. type: text
 
 
-| The Linux Audio Conference (LAC) is the international conference about Free/Open-Source
-  Software for music, sound and other media with GNU/Linux as the main platform.
-| The 2018 edition (the sixteenth installment of the conference) will take place **June 7th - 10th** at |c-base| and
-  other locations, which will be announced in the final schedule.
+| The Linux Audio Conference (LAC) is the international conference about
+  Free/Open-Source Software for music, sound and other media with GNU/Linux as
+  the main platform.
+| The 2018 edition (the sixteenth installment of the conference) will take
+  place **June 7th - 10th** at |c-base| and other locations, which will be
+  announced in the final schedule.
+| The LAC is a not-for-profit (and free for all) conference, that is organized
+  by individuals, institutions and associations on a volunteer basis.
+| Due to its nature and its non-static location, the LAC is not able to provide
+  compensation for travel or stay of any participant, nor is it able to
+  commission or provide a budget for works performed or installed during the
+  conference.
 
 Target audience
 ---------------
 
-| The Linux Audio Conference brings together musicians, composers, sound artists, software developers,
-  researchers and engineers working with Linux as an open, stable, professional platform for
-  audio and media research and music production.
+| The Linux Audio Conference brings together musicians, composers, sound
+  artists, software developers, researchers and engineers working with Linux as
+  an open, stable, professional platform for audio and media research and music
+  production.
 
 What to expect
 --------------
