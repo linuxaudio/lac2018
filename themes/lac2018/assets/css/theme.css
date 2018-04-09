@@ -220,9 +220,15 @@ article.post-micro {
   list-style-type: none;
   padding: 0;
   margin: 0;
-  height: 150px;
+  float: left;
 }
 
 #supporter-logos li{
+  float: left;
+  padding: 10px 4px;
+}
+
+div#content_footer{
+  padding: 20px 0;
   float: left;
 }
