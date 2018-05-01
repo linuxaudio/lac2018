@@ -1,0 +1,23 @@
+.. title: Welcome Speech
+.. slug: 100
+.. date: 
+.. tags: None
+.. category: Informal
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Informal
+
+**Day**: 2018-06-07
+
+**Time**: 18:00 - 18:30
+
+**Author(s)**: LAC team
+
+**Keywords**: None
+
+**Abstract**: 
+A short welcome speech by the team.
+
+**Downloads**: `pdf </files/pdf/100.pdf>`_ 

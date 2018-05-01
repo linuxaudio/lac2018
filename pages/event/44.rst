@@ -1,0 +1,23 @@
+.. title: Creating audio plugins with Pure Data
+.. slug: 44
+.. date: 
+.. tags: Pure Data, Plugin, DAW, VST, Audio Unit
+.. category: Paper
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Paper
+
+**Day**: 2018-06-09
+
+**Time**: 13:00 - 13:30
+
+**Author(s)**: Pierre Guillot
+
+**Keywords**: Pure Data, Plugin, DAW, VST, Audio Unit
+
+**Abstract**: 
+Camomile is an audio plugin with Pure Data embedded allowing to create original and cross-platform audio plugins using patches and that could run in any digital audio workstation that accepts the VST or Audio Unit formats. The paper presents an overview of the current functionalities of Camomile and the possibilities offered by this tool. Following this, the main lines of the future developments are exposed.
+
+**Downloads**: `pdf </files/pdf/44.pdf>`_ 

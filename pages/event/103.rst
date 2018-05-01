@@ -1,0 +1,23 @@
+.. title: Lightning Talks
+.. slug: 103
+.. date: 
+.. tags: None
+.. category: Lightning Talks
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Lightning Talks
+
+**Day**: 2018-06-09
+
+**Time**: 15:00 - 16:30
+
+**Author(s)**: LAC team
+
+**Keywords**: None
+
+**Abstract**: 
+A set of lightning talks by you!
+
+**Downloads**: `pdf </files/pdf/103.pdf>`_ 

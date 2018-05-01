@@ -1,0 +1,32 @@
+.. title: Open Hardware Multichannel Sound Interface for Hearing Aid Research on BeagleBone Black with openMHA: Cape4all
+.. slug: 35
+.. date: 
+.. tags: Hearing aids, audio signal processing, sound hardware
+.. category: Paper
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Paper
+
+**Day**: 2018-06-08
+
+**Time**: 12:00 - 12:30
+
+**Author(s)**: Tobias Herzke
+
+**Keywords**: Hearing aids, audio signal processing, sound hardware
+
+**Abstract**: 
+The paper describes a new multichannel sound interface for the
+BeagleBone Black, "Cape4all".
+The sound interface has 6 input channels with optional microphone
+pre-amplifiers and between 4 and 6 output channels.
+The multichannel sound extension cape for the BeagleBone
+Black is designed and produced.
+An ALSA driver is written for it.
+It is used with the openMHA hearing aid research software to perform
+hearing aid signal processing on the BeagleBone Black with a
+customized Debian distribution tailored to real-time audio signal processing.
+
+**Downloads**: `pdf </files/pdf/35.pdf>`_ 

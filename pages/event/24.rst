@@ -1,0 +1,24 @@
+.. title: Carla Plugin Host - Feature overview and workflows
+.. slug: 24
+.. date: 
+.. tags: Plugin, Host, Modular, MIDI, OSC, Rack, Patchbay
+.. category: Workshop
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Workshop
+
+**Day**: 2018-06-08
+
+**Time**: 23:30 - 01:00
+
+**Author(s)**: Filipe Coelho
+
+**Keywords**: Plugin, Host, Modular, MIDI, OSC, Rack, Patchbay
+
+**Abstract**: 
+Carla is a fully-featured audio plugin host with support for many plugin formats, featuring automation of plugin parameters via MIDI CC, remote control over OSC, among others.
+This workshop plans to give a quick overview of Carla and go through some workflows together with the audience.
+
+**Downloads**: `pdf </files/pdf/24.pdf>`_ 

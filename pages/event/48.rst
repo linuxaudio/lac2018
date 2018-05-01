@@ -1,0 +1,23 @@
+.. title: Spycher
+.. slug: 48
+.. date: 
+.. tags: Csound Tape Space
+.. category: Performance
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Performance
+
+**Day**: 2018-06-08
+
+**Time**: 23:30 - 23:40
+
+**Author(s)**: Michele Del Prete
+
+**Keywords**: Csound Tape Space
+
+**Abstract**: 
+tape 8 ch
+
+**Downloads**: `pdf </files/pdf/48.pdf>`_ 

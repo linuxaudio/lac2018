@@ -1,0 +1,23 @@
+.. title: LMMS 1.2: Changes and Improvements
+.. slug: 36
+.. date: 
+.. tags: LMMS, Open Software, Music Production, GUI design
+.. category: Workshop
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Workshop
+
+**Day**: 2018-06-10
+
+**Time**: 16:00 - 17:00
+
+**Author(s)**: Uroš Maravić & Tres Finocchiaro
+
+**Keywords**: LMMS, Open Software, Music Production, GUI design
+
+**Abstract**: 
+A workshop focused on showcasing the new features and improvements of LMMS version 1.2 as well as an open discussion on the future of the software itself. The workshop is suitable for musicians and developers alike.
+
+**Downloads**: `pdf </files/pdf/36.pdf>`_ 

@@ -1,0 +1,23 @@
+.. title: Chrysalis - Interactive Sound Sculpture
+.. slug: 9
+.. date: 
+.. tags: Sound Sculpture, Pure Data, Raspberry Pi, Arduino
+.. category: Poster
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Poster
+
+**Day**: 2018-06-09
+
+**Time**: 14:30 - 15:00
+
+**Author(s)**: Ezequiel Abregu
+
+**Keywords**: Sound Sculpture, Pure Data, Raspberry Pi, Arduino
+
+**Abstract**: 
+Chrysalis is an interactive sound sculpture that relates sustainability, the link of the human being with his environment and the processes that it generates through time. The authors are Carla Colombini (sculptor), Martin Matus and Ezequiel Abregu (sound artists). The sound production system comprises three stages: Input - Process - Feedback. In this work are exposed the technical details of the sound device of the sculpture and the different stages implemented using, mostly, free software and open hardware.
+
+**Downloads**: `pdf </files/pdf/9.pdf>`_ 

@@ -1,0 +1,27 @@
+.. title: mathr performs with Clive
+.. slug: 22
+.. date: 
+.. tags: audio, live-coding, performance, C
+.. category: Performance
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Performance
+
+**Day**: 2018-06-09
+
+**Time**: 23:00 - 23:20
+
+**Author(s)**: Claude Heiland-Allen
+
+**Keywords**: audio, live-coding, performance, C
+
+**Abstract**: 
+Claude Heiland-Allen (https://mathr.co.uk) is an artist from London interested in the complex emergent behaviour of simple systems, unusual geometries, and mathematical aesthetics.
+
+Clive is an audio live-coding skeleton, implemented in C. It supports a two-phase edit-commit coding cycle allowing long-lived signal processing graphs to be modified without interrupting the sound.
+
+Performance with Clive usually involves pre-preparation, from simple unit generators up to more complete compositions. The live-coding aspect involves editing a file in the performer’s favourite text editor, with the act of saving with Ctrl-S or other shortcut being timed to allow the new code to start executing in sync after the latency of compilation.
+
+**Downloads**: `pdf </files/pdf/22.pdf>`_ 

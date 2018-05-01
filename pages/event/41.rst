@@ -1,0 +1,23 @@
+.. title: Ziggurat: A Step Sequencer for Linux
+.. slug: 41
+.. date: 
+.. tags: Sequencing, MIDI, Generative Music, RtMidi
+.. category: Poster
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Poster
+
+**Day**: 2018-06-09
+
+**Time**: 14:30 - 15:00
+
+**Author(s)**: Chris Chronopoulos
+
+**Keywords**: Sequencing, MIDI, Generative Music, RtMidi
+
+**Abstract**: 
+We introduce a new, standalone software sequencer based on the hardware step sequencers common in electronic music production. Ziggurat supports both ALSA and JACK MIDI, and features polymetric sequencing, flexible signal routing, and dynamic sequence manipulation for live performance. This poster presents the motivation, design goals, implementation and status of the project.
+
+**Downloads**: `pdf </files/pdf/41.pdf>`_ 

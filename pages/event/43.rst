@@ -1,0 +1,23 @@
+.. title: Software Architecture for a Multiple AVB Listener and Talker Scenario
+.. slug: 43
+.. date: 
+.. tags: AVB, JACK, signal processing, public internet, mutlimedia streaming
+.. category: Paper
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Paper
+
+**Day**: 2018-06-09
+
+**Time**: 12:30 - 13:00
+
+**Author(s)**: Christoph Kuhr & Alexander Carôt
+
+**Keywords**: AVB, JACK, signal processing, public internet, mutlimedia streaming
+
+**Abstract**: 
+This paper presents a design approach for an AVB network segment deploying two different types of AVB server for multiple parallel streams. The first type is an UDP proxy server and the second server type is a digital signal processing server. The Linux real time operating system configurations are discussed, as well as the software architecture itself and the integration of the Jack audio server. A proper operation of the JACK server, alongside two JACK clients, in this multiprocessing environment could be shown, although a persisting buffer leak prevents significant jitter and latency measurements. A coarse assessment shows however, that the operations are within reasonable bounds.
+
+**Downloads**: `pdf </files/pdf/43.pdf>`_ 

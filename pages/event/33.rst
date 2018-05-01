@@ -1,0 +1,59 @@
+.. title: QjackCtl Considered Harmful
+.. slug: 33
+.. date: 
+.. tags: qstuff, qjackctl, qtractor, rncbc.org
+.. category: Workshop
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Workshop
+
+**Day**: 2018-06-10
+
+**Time**: 14:00 - 15:30
+
+**Author(s)**: Rui Nuno Capela
+
+**Keywords**: qstuff, qjackctl, qtractor, rncbc.org
+
+**Abstract**: 
+The proposed talk/workshop is yet again the follow-up on the tradition of LAC2013@IEM-Graz, LAC2014@ZKM-Karlsruhe, LAC2015@JGU-Mainz, LAC2016@c-base.org-Berlin and LAC2017@UJM-St.Etienne, as an informal manifest (but not exclusive) to the Qstuff* software collection. The future of QjackCtl [1] and the JACK-Audio-Connectionm-Kit, as the main Linux Audio infrastructure, shall be the main subject. Yours truly Qtractor [7], an audio/MIDI multi-track sequencer should be also of concern for discussion. All developers and users are kindly invited to discuss, complain and more importantly, exchange thoughts about the present, future and legacy of all the Qstuff*.
+
+References:
+
+[1] QjackCtl - A JACK Audio Connection Kit Qt GUI Interface
+https://qjackctl.sourceforge.io
+
+[2] Qsynth - A fluidsynth Qt GUI Interface
+https://qsynth.sourceforge.io
+
+[3] Qsampler - A LinuxSampler Qt GUI Interface
+https://qsampler.sourceforge.io
+
+[4] QXGEdit - A Qt XG Editor
+https://qxgedit.sourceforge.io
+
+[5] QmidiCtl - A MIDI Remote Controller via UDP/IP Multicast
+https://qmidictl.sourceforge.io
+
+[6] QmidiNet - A MIDI Network Gateway via UDP/IP Multicast
+https://qmidinet.sourceforge.io
+
+[7] Qtractor - An audio/MIDI multi-track sequencer
+https://qtractor.sourceforge.io
+
+[8] synthv1 - an old-school polyphonic synthesizer
+https://synthv1.sourceforge.io
+
+[9] samplv1 - an old-school polyphonic sampler
+https://samplv1.sourceforge.io
+
+[10] drumkv1 - an old-school drum-kit sampler
+https://drumkv1.sourceforge.io
+
+[11] padthv1 - an old-school polyphonic additive synthesizer
+https://padthv1.sourceforge.io
+
+
+**Downloads**: `pdf </files/pdf/33.pdf>`_ 

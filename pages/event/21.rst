@@ -1,0 +1,24 @@
+.. title: COSMO
+.. slug: 21
+.. date: 
+.. tags: performance, saxophone, raspberry pi, csound
+.. category: Performance
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Performance
+
+**Day**: 2018-06-09
+
+**Time**: 22:00 - 22:10
+
+**Author(s)**: Felix Hofmann
+
+**Keywords**: performance, saxophone, raspberry pi, csound
+
+**Abstract**: 
+COSMO Collective is an open musical collaboration for musicians using DIY electronics and custom software written in Csound. There is no definite musical style, though it could perhaps be characterized as electro-acoustic
+improvisation. The focus is on the exploration of sound and timbre, rather than traditional harmonics and rhythm, and exploiting the powers of Csound in this pursuit.
+
+**Downloads**: `pdf </files/pdf/21.pdf>`_ 

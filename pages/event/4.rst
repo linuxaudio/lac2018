@@ -1,0 +1,23 @@
+.. title: Yoshimi Live
+.. slug: 4
+.. date: 
+.. tags: Soft-synth Live Gig Yoshimi
+.. category: Workshop
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Workshop
+
+**Day**: 2018-06-09
+
+**Time**: 14:30 - 16:00
+
+**Author(s)**: Will Godfrey
+
+**Keywords**: Soft-synth Live Gig Yoshimi
+
+**Abstract**: 
+This is a workshop for the Yoshimi soft-synth, and is intended to give an overview of ideas for using the synth at live venues.
+
+**Downloads**: `pdf </files/pdf/4.pdf>`_ 

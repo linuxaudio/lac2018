@@ -1,0 +1,27 @@
+.. title: Sentire
+.. slug: 17
+.. date: 
+.. tags: embodiement, interactive, sound, installation, performance
+.. category: Installation
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Installation
+
+**Day**: 2018-06-09
+
+**Time**: 20:00 - 00:00
+
+**Author(s)**: Marcello Lussana
+
+**Keywords**: embodiement, interactive, sound, installation, performance
+
+**Abstract**: 
+Sentire is an Italian word that means both to hear and to feel. The project is about exploring the fine mixture of these two senses and, particularly, to their amplification and morphing.
+
+'Sentire' project was initiated by two Berlin-based artists Marcello Lussana and Olga Kozmanidze in 2016. The project consists of two parts: immersive performance series based on interactive sound and PhD research on human perception. In the course of the project we have been using a device (bracelets) connecting two people to the sound system and tracking distance and touch events between them. We apply and constantly develop a method of device usage according to which participants proceed through a scenario of two phases interaction. Depending on distance and touch between them different sounds are triggered and changing, creating an instant sound feedback. Gradually both hearing and sense of touch morth one into another giving a chance to perceive one's body on a deep level.
+
+The interactive system has been designed with the Supercollider software and it runs on Linux Mint.
+
+**Downloads**: `pdf </files/pdf/17.pdf>`_ 

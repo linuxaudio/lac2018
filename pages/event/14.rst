@@ -1,0 +1,23 @@
+.. title: Using Perlin noise in sound synthesis
+.. slug: 14
+.. date: 
+.. tags: Perlin noise, simplex noise, fractional brownian motion, sound synthesis
+.. category: Paper
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Paper
+
+**Day**: 2018-06-08
+
+**Time**: 10:00 - 10:30
+
+**Author(s)**: Artem Popov
+
+**Keywords**: Perlin noise, simplex noise, fractional brownian motion, sound synthesis
+
+**Abstract**: 
+Perlin noise is a well known algorithm in computer graphics applications and one of the first algorithms for generating procedural textures. It has been very widely used in movies, games, demos, and landscape generators, but despite its popularity it has been seldom used for creative purposes in the fields outside the world of computer graphics. This paper discusses the use of Perlin noise and fractional Brownian motion for sound synthesis applications.
+
+**Downloads**: `pdf </files/pdf/14.pdf>`_ 

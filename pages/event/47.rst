@@ -1,0 +1,36 @@
+.. title: The Electronic Orchestra Berlin: The Metaphysics of Notation
+.. slug: 47
+.. date: 
+.. tags: Performance, Live Electronics, Modular Synth, Live Spatialization, VBAP, Ambisonics, Graphical Scores
+.. category: Performance
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Performance
+
+**Day**: 2018-06-09
+
+**Time**: 23:30 - 23:45
+
+**Author(s)**: Henrik von Coler & David Runge
+
+**Keywords**: Performance, Live Electronics, Modular Synth, Live Spatialization, VBAP, Ambisonics, Graphical Scores
+
+**Abstract**: 
+12 electronic and electroacoustic instruments, live
+spatialized on a 12-speaker system - the Electronic
+Orchestra Charlottenburg (EOC), a project of the Electronic
+Music Studio at TU Berlin, explores means of organizing and
+spatializing the seemingly infinite diversity of electronic
+sounds in a larger ensemble.
+
+The Metaphysics of Notation (2008), by Mark Applebaum, is a
+graphical score with a length of 22 meters, divided into 12
+panels.For the interpretation of the score, each instrument is assigned one or several panels. The piece is performed
+without a fixed time grid.
+The performance will be spatialized using the SSR, PD and
+Python, running on a Linux Server with Ubuntu Studio. The
+server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with a RME MADI card and several AD/DA converters.
+
+**Downloads**: `pdf </files/pdf/47.pdf>`_ 

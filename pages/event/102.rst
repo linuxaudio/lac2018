@@ -1,0 +1,23 @@
+.. title: Keynote
+.. slug: 102
+.. date: 
+.. tags: TBA
+.. category: Presentation
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Presentation
+
+**Day**: 2018-06-09
+
+**Time**: 10:00 - 11:00
+
+**Author(s)**: TBA
+
+**Keywords**: TBA
+
+**Abstract**: 
+TBA
+
+**Downloads**: `pdf </files/pdf/102.pdf>`_ 

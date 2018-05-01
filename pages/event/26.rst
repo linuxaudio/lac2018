@@ -1,0 +1,26 @@
+.. title: Understanding and being creative with Pure Data’s data structures
+.. slug: 26
+.. date: 
+.. tags: pure data, data structures, data visualization, data interaction
+.. category: Workshop
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Workshop
+
+**Day**: 2018-06-09
+
+**Time**: 17:00 - 19:00
+
+**Author(s)**: Joao Pais
+
+**Keywords**: pure data, data structures, data visualization, data interaction
+
+**Abstract**: 
+Pure Data’s data structures are one of the few core features that distinguish Pd from Max/MSP. Yet, they’re also one of the few modules which are used solely by a small group of users. The main reasons for this would be both the not yet very mature and complete collection of objects, as well as not very intuitive implementation in Pd’s language.
+This workshop illustrates the possibilities of Pd’s data structures as a fruitful companion to any Pd user interested in a closer and more flexible interaction with the graphical representation of data.
+The first part explains how to program with data structures (and their shortcomings). The second part analyses several examples of “real life” situations (display and control examples, up to complex patches to control / generate music in realtime).
+After this workshop, it should be clear how to program with data structures, and integrate them inindividual patches.
+
+**Downloads**: `pdf </files/pdf/26.pdf>`_ 

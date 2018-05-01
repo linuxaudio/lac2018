@@ -1,0 +1,33 @@
+.. title: SHIFT
+.. slug: 16
+.. date: 
+.. tags: None
+.. category: Performance
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Performance
+
+**Day**: 2018-06-08
+
+**Time**: 21:30 - 21:45
+
+**Author(s)**: Andre Bartetzki
+
+**Keywords**: None
+
+**Abstract**: 
+SHIFT (2014)
+psychoacoustic music for 140 oscillators
+
+SHIFT is rather a psychoacoustic than an electroacoustic piece. Because the usual musical aspects of composition, temporal structures or single sound events are secondary here. The focal point of this piece is the shifting attention during listening. The essential events in this piece are the individual moments when the attention of the listener detaches itself from the perceived sound which evolves only very slowly and which seems to be rather static for a long time.
+Looking for changes in the environment and being alerted by sudden events is the daily business of our brains - a heritage of our evolutionary history. We are adapting our senses to the slightest input changes if nothing else is happening. So even when there is just one and the same sound texture we tend to extract a foreground from a slowly changing background after a while - even when there is no real difference.
+The points of a change in the listeners perception, the detection - or rather invention - of events or objects, are highly individual here - they are not composed, they appear only in the heads of the listeners.
+My advice for listening to this piece is: do not try to analyze the sounds as you would do with other pieces but try to focus on how you listen to it - be attentive to your attention!
+
+This piece is generated in realtime with SuperCollider. It is based on additive synthesis techniques:
+there are 140 single sine oscillators which are always modulated in frequency, amplitude and spatial position. The modulation processes for all oscillators are basically the same but the do not happen exactly at the same time, they are spread over long time intervals - resulting in slowly evolving sound textures.
+The 140 generated audio signals are dynamically distributed in space by the software and adapted to as many as available loudspeakers in order to get a real immersive experience.
+
+**Downloads**: `pdf </files/pdf/16.pdf>`_ 

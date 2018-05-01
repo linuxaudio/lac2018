@@ -1,0 +1,23 @@
+.. title: Superdirt
+.. slug: 58
+.. date: 
+.. tags: None
+.. category: Concert
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Concert
+
+**Day**: 2018-06-07
+
+**Time**: 21:00 - 22:30
+
+**Author(s)**: Superdirt^2
+
+**Keywords**: None
+
+**Abstract**: 
+
+
+**Downloads**: `pdf </files/pdf/58.pdf>`_ 

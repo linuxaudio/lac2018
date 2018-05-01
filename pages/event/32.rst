@@ -1,0 +1,23 @@
+.. title: RSVP, a preset system solution for Pure Data
+.. slug: 32
+.. date: 
+.. tags: state-saving, GUI, interpolation, external, abstraction
+.. category: Paper
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Paper
+
+**Day**: 2018-06-08
+
+**Time**: 11:00 - 11:30
+
+**Author(s)**: Jose Rafael Subía Valdez
+
+**Keywords**: state-saving, GUI, interpolation, external, abstraction
+
+**Abstract**: 
+This paper describes the logic and process behind the development of the RSVP preset library for the Pure Data programming environment. The library aims to tackle the lack of a native preset system in Pure Data. Other projects like Kollabs, CREAM, sssad, and others, have produced different solutions for this issue. However, after experimenting with the mentioned libraries, I decided to approach the matter with a different strategy. This led to the creation of the RSVP library which I will be describing in detail. During the development of this project, I have been theorizing of a feature request for PD that will also be shared here. This paper will offer a detailed description of how the system works, but will not go into extensive Pure Data patch descriptions. Instead, I wish to show how I structured the code and describe how the system functions with the users own projects.
+
+**Downloads**: `pdf </files/pdf/32.pdf>`_ 

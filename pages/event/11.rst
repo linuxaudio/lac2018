@@ -1,0 +1,25 @@
+.. title: The levTools – a modular toolset in purr data for creating and teaching electronic music
+.. slug: 11
+.. date: 
+.. tags: education, sound synthesis, pure data, purr data, modular, toolset
+.. category: Workshop
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Workshop
+
+**Day**: 2018-06-08
+
+**Time**: 14:30 - 15:30
+
+**Author(s)**: Marten Seedorf & Simon Steinhaus
+
+**Keywords**: education, sound synthesis, pure data, purr data, modular, toolset
+
+**Abstract**: 
+The levTools are a set of abstractions for Pure Data, that are primarily designed for teaching electronic music. Moreover, they have a huge creative potential for experienced pd-users or computer musicians in general, especially when working on linux-based OS. The flexible and open character of the modular toolset allows multiple approaches.
+The levTools are free and open source. They were developed by Marten Seedorf in the context of the Berlin based lev–project, an educational project focussing on electronic music culture.
+This workshop introduces the levTools.
+
+**Downloads**: `pdf </files/pdf/11.pdf>`_ 

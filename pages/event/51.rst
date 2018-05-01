@@ -1,0 +1,23 @@
+.. title: Iammix
+.. slug: 51
+.. date: 
+.. tags: None
+.. category: Performance
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Performance
+
+**Day**: 2018-06-08
+
+**Time**: 23:00 - 23:11
+
+**Author(s)**: Magnus Johansson
+
+**Keywords**: None
+
+**Abstract**: 
+Electroacoustic 8-channel fixed media composition
+
+**Downloads**: `pdf </files/pdf/51.pdf>`_ 

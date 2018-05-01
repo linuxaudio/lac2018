@@ -1,0 +1,45 @@
+.. title: Djing with FLOSS: Mixxx Workshop
+.. slug: 7
+.. date: 
+.. tags: dj, mixxx
+.. category: Workshop
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Workshop
+
+**Day**: 2018-06-08
+
+**Time**: 14:30 - 16:00
+
+**Author(s)**: Louigi Verona
+
+**Keywords**: dj, mixxx
+
+**Abstract**: 
+Many of us would love to start DJing with software, comparable to commercial offerings out there. Thanks to the fantastic work that the Mixxx has done, it is now possible.
+
+However, Mixxx could be a little off-putting due to the fact that setting a controller up might not be as user friendly as with software like Traktor.
+
+Louigi will run through all the difficult places, demonstrate how to set things up with a random midi controller (i.e., not explicitly supported by Mixxx templates), and how to use scripts.
+
+Hopefully after this workshop people will have a good guide on how to start working with Mixxx!
+
+A list of things discussed:
+
+1. Choosing an XML template for Mixxx UI
+2. Customizing the template for your needs
+3. Setting up preferences
+4. Adding a midi controller in
+
+   4.1 Figuring out the midi signals map
+
+   4.2 Organizing your controller XML file
+
+   4.3 Scripting and why its not scary
+
+5. A demo
+
+
+**Downloads**: `pdf </files/pdf/7.pdf>`_ 

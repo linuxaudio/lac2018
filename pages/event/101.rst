@@ -1,0 +1,23 @@
+.. title: BBQ
+.. slug: 101
+.. date: 
+.. tags: None
+.. category: Informal
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Informal
+
+**Day**: 2018-06-07
+
+**Time**: 19:00 - 21:00
+
+**Author(s)**: LAC team
+
+**Keywords**: None
+
+**Abstract**: 
+There will be a barbecue with a limited set of food. First come, first served!
+
+**Downloads**: `pdf </files/pdf/101.pdf>`_ 

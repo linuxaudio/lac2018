@@ -1,0 +1,23 @@
+.. title: Pick It Up
+.. slug: 49
+.. date: 
+.. tags: live performance, prepared guitar
+.. category: Performance
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Performance
+
+**Day**: 2018-06-09
+
+**Time**: 20:30 - 20:40
+
+**Author(s)**: Krzysztof Gawlas
+
+**Keywords**: live performance, prepared guitar
+
+**Abstract**: 
+Composition for prepared electric guitar and live electronics (SuperCollider), with multichannel spatialization.
+
+**Downloads**: `pdf </files/pdf/49.pdf>`_ 

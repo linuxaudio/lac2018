@@ -1,0 +1,23 @@
+.. title: Rtosc - Realtime Safe Open Sound Control Messaging
+.. slug: 39
+.. date: 
+.. tags: Open Sound Control, Realtime, Intra-Process Communications
+.. category: Paper
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Paper
+
+**Day**: 2018-06-08
+
+**Time**: 13:00 - 13:30
+
+**Author(s)**: Mark McCurry
+
+**Keywords**: Open Sound Control, Realtime, Intra-Process Communications
+
+**Abstract**: 
+None
+
+**Downloads**: `pdf </files/pdf/39.pdf>`_ 

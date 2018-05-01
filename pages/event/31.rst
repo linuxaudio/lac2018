@@ -1,0 +1,28 @@
+.. title: AAMA  - DIY HOA microphone kits with Linux
+.. slug: 31
+.. date: 
+.. tags: Microphone, Audio Interface, Mobile Audio, embedded Linux devices
+.. category: Workshop
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Workshop
+
+**Day**: 2018-06-10
+
+**Time**: 14:00 - 16:00
+
+**Author(s)**: Winfried Ritsch & Paul Tirk
+
+**Keywords**: Microphone, Audio Interface, Mobile Audio, embedded Linux devices
+
+**Abstract**: 
+The overall target is the making of affordable DIY Ambisonics field recorders with individual flair.
+One central part of this aim is the "Affordable Ambisonics Microphones Array" (AAMA).
+The usage of an embedded Linux computer simplified and accelerated the development of individual solutions of Ambisonics Microphones.
+Extensions to the embedded Linux systems as capes or modules are developed to interface and manage the microphone arrays.
+Also micro-controller usage for intermediate interfacing Linux computers is in focus.
+Sensors enhancing the usage of these higher order Ambisonics microphone arrays, combined with corresponding software tools enables the construction of your individual Ambisonics microphone array instance.
+
+**Downloads**: `pdf </files/pdf/31.pdf>`_ 

@@ -1,0 +1,23 @@
+.. title: Louigi Verona
+.. slug: 8
+.. date: 
+.. tags: None
+.. category: Concert
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Concert
+
+**Day**: 2018-06-07
+
+**Time**: 23:00 - 01:00
+
+**Author(s)**: Louigi Verona
+
+**Keywords**: None
+
+**Abstract**: 
+A minimal house DJ set with Mixxx. Already performed at Sonoj to positive reviews, so I am confident this could be a nice addition to music nights.
+
+**Downloads**: `pdf </files/pdf/8.pdf>`_ 

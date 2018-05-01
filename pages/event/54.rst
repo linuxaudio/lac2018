@@ -1,0 +1,24 @@
+.. title: Distributed time-centric APIs with CLAPI
+.. slug: 54
+.. date: 
+.. tags: API, Distributed, Pub/Sub, Semantics, Introspection
+.. category: Paper
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Paper
+
+**Day**: 2018-06-10
+
+**Time**: 11:30 - 12:00
+
+**Author(s)**: Paul Weaver & David Honour
+
+**Keywords**: API, Distributed, Pub/Sub, Semantics, Introspection
+
+**Abstract**: 
+Distributed control of applications by multiple simultaneous devices has traditionally been achieved via protocols such as MIDI or OSC. These simple protocols require additional semantics, often communicated out of band, in order to construct meaningful APIs.
+We present the Concert Light-weight API (CLAPI) framework: a session-based pub/sub API framework that aims to simplify the definition and usage of semantic, time-centric distributed controls.
+
+**Downloads**: `pdf </files/pdf/54.pdf>`_ 

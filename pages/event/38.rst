@@ -1,0 +1,33 @@
+.. title: MRuby-Zest: a Scriptable Audio GUI Framework
+.. slug: 38
+.. date: 
+.. tags: Interface Design, LV2, VST, Ruby
+.. category: Paper
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Paper
+
+**Day**: 2018-06-08
+
+**Time**: 12:30 - 13:00
+
+**Author(s)**: Mark McCurry
+
+**Keywords**: Interface Design, LV2, VST, Ruby
+
+**Abstract**: 
+Audio tools face a set of uncommon user interface
+design and implementation challenges. These constraints make high quality interfaces within the open
+source realm particular difficult to execute on volunteer time. The challenges include producing a
+unique identity for the application, providing easy
+to use controls for the parameters of the application,
+and providing interesting ways to visualize the data
+within the application. Additionally, existing toolkits produce technical issues when embedding within
+plugin hosts. MRuby-Zest is a new toolkit that was
+build while the ZynAddSubFX user interface was
+rewritten. This toolkit possesses unique characteristics within open source toolkits which target the
+problems specific to audio applications.
+
+**Downloads**: `pdf </files/pdf/38.pdf>`_ 

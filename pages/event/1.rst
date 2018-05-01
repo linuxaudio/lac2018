@@ -1,0 +1,29 @@
+.. title: Atlas Of Uncertainty
+.. slug: 1
+.. date: 
+.. tags: csound, linux,  Acousmatic, experimental
+.. category: Concert
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Concert
+
+**Day**: 2018-06-08
+
+**Time**: 20:30 - 20:38
+
+**Author(s)**: Massimo Vito Avantaggiato
+
+**Keywords**: csound, linux,  Acousmatic, experimental
+
+**Abstract**: 
+Atlas of Uncertainty is an experimental music video based on the representation of 4 Classical elements, that typically refer to the concepts in Ancient Greece of water, fire, earth and aether, which were proposed to explain the nature and complexity of all matter in terms of simpler substances.
+The music that accompanies this computer generated video is a sonic continuum ranging from unaltered natural sounds to entirely new sounds - or, more poetically -- from the real world to the realm of the imagination. of the imagination.
+Heterogeneous inharmonic sound materials are explored through various techniques (granular, subtractive). The sounds and the images are here combined in well- identifiable gestures.
+
+The video received two HONORABLE MENTIONS in India and USA; and a prize as best short in Canada and has also been finalist in some competitions (ROMART BIENNALE 2017,
+Rome, Italy; MATERA INTERMEDIA 2017, Matera, ITALY);
+
+
+**Downloads**: `pdf </files/pdf/1.pdf>`_ 

@@ -1,0 +1,29 @@
+.. title: TXTED - interactive audio-visual performance using open-source musical machine learning interaction
+.. slug: 56
+.. date: 
+.. tags: NIME, Puredata, Raspberry Pi
+.. category: Performance
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Performance
+
+**Day**: 2018-06-09
+
+**Time**: 21:00 - 21:15
+
+**Author(s)**: Shawn Trail
+
+**Keywords**: NIME, Puredata, Raspberry Pi
+
+**Abstract**: 
+This is a proposal to perform a new body of work using a new pitched percussion hyperinstrument system featuring a machine learning tool designed for music performance. All software was designed in Puredata and runs on a Raspberry Pi with multichannel audio in/out. The framework consists of custom idiomatic gesture interfaces and processing software for an electric lamellophone with embedded gesture sensing. The instrumental framework is accompanied by an interactive video synthesizer built in GEM and also running on a Raspberry Pi, networked together wirelessly. The project represents the culmination of the Phd research recently completed by the artist [1][2].
+
+1.Non-invasive sensing and gesture control for pitched percussion hyper-instruments using the Kinect.
+S Trail, M Dean, G Odowichuk, TF Tavares, PF Driessen, WA Schloss, G Tzanetakis. NIME 2012.
+
+2. El-Lamellophone A Low-cost, DIY, Open Framework for Acoustic Lemellophone Based Hyperinstruments.
+S Trail, D MacConnell, L Jenkins, J Snyder, G Tzanetakis, PF Driessen. NIME, 2014.
+
+**Downloads**: `pdf </files/pdf/56.pdf>`_ 

@@ -1,0 +1,23 @@
+.. title: Ableton Link – A technology to synchronize music software
+.. slug: 42
+.. date: 
+.. tags: Audio, Network, Peer-to-peer, Time, Synchronization
+.. category: Paper
+.. link: 
+.. description: 
+.. type: text
+
+**Type**: Paper
+
+**Day**: 2018-06-09
+
+**Time**: 12:00 - 12:30
+
+**Author(s)**: Florian Goltz
+
+**Keywords**: Audio, Network, Peer-to-peer, Time, Synchronization
+
+**Abstract**: 
+None
+
+**Downloads**: `pdf </files/pdf/42.pdf>`_ 
