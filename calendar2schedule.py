@@ -163,7 +163,7 @@ def write_schedule(events):
     schedule.write("\n")
     for name, url in calendars.items():
         schedule.write("`Subscribe to " + name + 
-                       " calendar </files/calendar/"+str(name)+".ics>`_\n")
+                       " calendar </calendar/"+str(name)+".ics>`_\n")
         schedule.write("\n")
 
 
@@ -195,7 +195,7 @@ def write_events(events):
         event_page.write('\n')
         event_page.write('**Abstract**: \n'+event.abstract+'\n')
         event_page.write('\n')
-        event_page.write('**Downloads**: `pdf </files/pdf/' +
+        event_page.write('**Downloads**: `pdf </pdf/' +
                          str(event.id)+'.pdf>`_ \n')
 
 
