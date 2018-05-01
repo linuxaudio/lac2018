@@ -56,4 +56,4 @@ https://drumkv1.sourceforge.io
 https://padthv1.sourceforge.io
 
 
-**Downloads**: `pdf </files/pdf/33.pdf>`_ 
+**Downloads**: `pdf </pdf/33.pdf>`_ 

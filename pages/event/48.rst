@@ -20,4 +20,4 @@
 **Abstract**: 
 tape 8 ch
 
-**Downloads**: `pdf </files/pdf/48.pdf>`_ 
+**Downloads**: `pdf </pdf/48.pdf>`_ 

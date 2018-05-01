@@ -20,4 +20,4 @@
 **Abstract**: 
 A minimal house DJ set with Mixxx. Already performed at Sonoj to positive reviews, so I am confident this could be a nice addition to music nights.
 
-**Downloads**: `pdf </files/pdf/8.pdf>`_ 
+**Downloads**: `pdf </pdf/8.pdf>`_ 

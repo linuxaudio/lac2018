@@ -20,4 +20,4 @@
 **Abstract**: 
 None
 
-**Downloads**: `pdf </files/pdf/42.pdf>`_ 
+**Downloads**: `pdf </pdf/42.pdf>`_ 

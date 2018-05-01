@@ -20,4 +20,4 @@
 **Abstract**: 
 This semi-improvised performance is the next step of an ongoing research for a gestural performance instrument being developed by Pais. Using the LeapMotion sensor together with custom-made gesture interpretation and synthesis objects in Pure Data, the expressiveness of the performer's hand movements is reflected in the expressiveness of the sound that is produced and in its integration in space in a multichannel setup. The aim is to produce a developing event, where the gestures visible to the audience acquire a new meaning in each new sound context present in during the performance.
 
-**Downloads**: `pdf </files/pdf/27.pdf>`_ 
+**Downloads**: `pdf </pdf/27.pdf>`_ 

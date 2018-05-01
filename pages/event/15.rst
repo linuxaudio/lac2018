@@ -31,4 +31,4 @@ This hands-on workshop is intended for Pd and Linux audio users who want to star
 - Custom graphics and data structure visualizations in Purr Data.
 
 
-**Downloads**: `pdf </files/pdf/15.pdf>`_ 
+**Downloads**: `pdf </pdf/15.pdf>`_ 

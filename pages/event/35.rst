@@ -29,4 +29,4 @@ It is used with the openMHA hearing aid research software to perform
 hearing aid signal processing on the BeagleBone Black with a
 customized Debian distribution tailored to real-time audio signal processing.
 
-**Downloads**: `pdf </files/pdf/35.pdf>`_ 
+**Downloads**: `pdf </pdf/35.pdf>`_ 

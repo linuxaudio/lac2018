@@ -20,4 +20,4 @@
 **Abstract**: 
 Electroacoustic 8-channel fixed media composition
 
-**Downloads**: `pdf </files/pdf/51.pdf>`_ 
+**Downloads**: `pdf </pdf/51.pdf>`_ 

@@ -20,4 +20,4 @@
 **Abstract**: 
 We introduce a new, standalone software sequencer based on the hardware step sequencers common in electronic music production. Ziggurat supports both ALSA and JACK MIDI, and features polymetric sequencing, flexible signal routing, and dynamic sequence manipulation for live performance. This poster presents the motivation, design goals, implementation and status of the project.
 
-**Downloads**: `pdf </files/pdf/41.pdf>`_ 
+**Downloads**: `pdf </pdf/41.pdf>`_ 

@@ -23,4 +23,4 @@ This workshop illustrates the possibilities of Pd’s data structures as a fruit
 The first part explains how to program with data structures (and their shortcomings). The second part analyses several examples of “real life” situations (display and control examples, up to complex patches to control / generate music in realtime).
 After this workshop, it should be clear how to program with data structures, and integrate them inindividual patches.
 
-**Downloads**: `pdf </files/pdf/26.pdf>`_ 
+**Downloads**: `pdf </pdf/26.pdf>`_ 

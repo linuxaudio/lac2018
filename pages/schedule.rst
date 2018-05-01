@@ -182,11 +182,11 @@
      - mainhall
      - `LMMS 1.2: Changes and Improvements </pages/event/36/>`_
 
-`Subscribe to artistania calendar </files/calendar/artistania.ics>`_
+`Subscribe to artistania calendar </calendar/artistania.ics>`_
 
-`Subscribe to ceminar calendar </files/calendar/ceminar.ics>`_
+`Subscribe to ceminar calendar </calendar/ceminar.ics>`_
 
-`Subscribe to mainhall calendar </files/calendar/mainhall.ics>`_
+`Subscribe to mainhall calendar </calendar/mainhall.ics>`_
 
-`Subscribe to spektrum calendar </files/calendar/spektrum.ics>`_
+`Subscribe to spektrum calendar </calendar/spektrum.ics>`_
 

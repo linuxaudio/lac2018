@@ -20,4 +20,4 @@
 **Abstract**: 
 A short welcome speech by the team.
 
-**Downloads**: `pdf </files/pdf/100.pdf>`_ 
+**Downloads**: `pdf </pdf/100.pdf>`_ 

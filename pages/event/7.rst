@@ -42,4 +42,4 @@ A list of things discussed:
 5. A demo
 
 
-**Downloads**: `pdf </files/pdf/7.pdf>`_ 
+**Downloads**: `pdf </pdf/7.pdf>`_ 
