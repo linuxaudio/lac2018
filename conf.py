@@ -134,8 +134,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/pages/cfp", "CfP"),
-        ("/pages/templates", "Templates"),
+        ("/pages/schedule", "Schedule"),
         ("/openconf", "Submit"),
         ("/pages/contact", "Contact"),
         ("/pages/travel-and-stay", "Travel & Stay"),
