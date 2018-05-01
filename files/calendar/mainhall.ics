@@ -109,10 +109,26 @@ CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
 DESCRIPTION:Author: Mark McCurry\nType: Paper\nTopics: MIDI\, OSC\nKeywords
- : Open Sound Control\, Realtime\, Intra-Process Communications\nAbstract:\
- nID: 39
-DTSTART;TZID=Europe/Berlin:20180608T130000
-DTEND;TZID=Europe/Berlin:20180608T133000
+ : Open Sound Control\, Realtime\, Intra-Process Communications\nAbstract: 
+ Audio applications which go beyond MIDI processing often utilize OSC (Open
+ \nSound Control) to communicate complex parameters and advanced operations
+ .\nA variety of libraries offer solutions to network transportation of OSC
+ \nmessages and provide approaches for pattern matching the messages in dis
+ patch.\nDispatch however is performed inefficiently and manipulating OSC m
+ essages is\noftentimes not realtime safe.\nrtosc was written to quickly di
+ spatch and manipulate large quantities of OSC\nmessages in realtime constr
+ ained environments.\nThe fast dispatch is possible due to the internal tre
+ e representation as well\nas the use of perfect-minimal-hashing within the
+  pattern matching phase of\ndispatch.\n\nThe primary user of rtosc is the 
+ ZynAddSubFX project which uses OSC to map\n3\,805\,225 parameters and rout
+ inely dispatches bursts of up to 1\,000 messages\nper second during normal
+  audio processing.\nFor audio application rtosc provides a simple OSC seri
+ alization toolset\, the\nrealtime safe dispatch mechanisms\, a ringbuffer 
+ implementation\, and a rich\nmetadata system for representing application/
+ library parameters.\nThis combination is not available in any other OSC li
+ brary at the time of\nwriting.\nID: 39
+DTSTART;TZID=Europe/Berlin:20180609T130000
+DTEND;TZID=Europe/Berlin:20180609T133000
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180426T191713
@@ -482,8 +498,8 @@ DESCRIPTION:Author: Pierre Guillot\nType: Paper\nTopics: Audio Plugins\, Mu
  functionalities of Camomile and the possibilities offered by this tool. Fo
  llowing this\, the main lines of the future developments are exposed.\nID:
   44
-DTSTART;TZID=Europe/Berlin:20180609T130000
-DTEND;TZID=Europe/Berlin:20180609T133000
+DTSTART;TZID=Europe/Berlin:20180608T130000
+DTEND;TZID=Europe/Berlin:20180608T133000
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180426T185844

@@ -49,7 +49,7 @@
      - `MRuby-Zest: a Scriptable Audio GUI Framework </pages/event/38/>`_
    * - 13:00 - 13:30
      - mainhall
-     - `Rtosc - Realtime Safe Open Sound Control Messaging </pages/event/39/>`_
+     - `Creating audio plugins with Pure Data </pages/event/44/>`_
    * - 14:30 - 15:30
      - ceminar
      - `The levTools – a modular toolset in purr data for creating and teaching electronic music </pages/event/11/>`_
@@ -110,7 +110,7 @@
      - `Software Architecture for a Multiple AVB Listener and Talker Scenario </pages/event/43/>`_
    * - 13:00 - 13:30
      - mainhall
-     - `Creating audio plugins with Pure Data </pages/event/44/>`_
+     - `Rtosc - Realtime Safe Open Sound Control Messaging </pages/event/39/>`_
    * - 14:30 - 16:00
      - ceminar
      - `Yoshimi Live </pages/event/4/>`_

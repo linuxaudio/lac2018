@@ -9,7 +9,7 @@
 
 **Type**: Paper
 
-**Day**: 2018-06-08
+**Day**: 2018-06-09
 
 **Time**: 13:00 - 13:30
 
@@ -18,6 +18,25 @@
 **Keywords**: Open Sound Control, Realtime, Intra-Process Communications
 
 **Abstract**: 
-None
+Audio applications which go beyond MIDI processing often utilize OSC (Open
+Sound Control) to communicate complex parameters and advanced operations.
+A variety of libraries offer solutions to network transportation of OSC
+messages and provide approaches for pattern matching the messages in dispatch.
+Dispatch however is performed inefficiently and manipulating OSC messages is
+oftentimes not realtime safe.
+rtosc was written to quickly dispatch and manipulate large quantities of OSC
+messages in realtime constrained environments.
+The fast dispatch is possible due to the internal tree representation as well
+as the use of perfect-minimal-hashing within the pattern matching phase of
+dispatch.
+
+The primary user of rtosc is the ZynAddSubFX project which uses OSC to map
+3,805,225 parameters and routinely dispatches bursts of up to 1,000 messages
+per second during normal audio processing.
+For audio application rtosc provides a simple OSC serialization toolset, the
+realtime safe dispatch mechanisms, a ringbuffer implementation, and a rich
+metadata system for representing application/library parameters.
+This combination is not available in any other OSC library at the time of
+writing.
 
 **Downloads**: `pdf </files/pdf/39.pdf>`_ 
