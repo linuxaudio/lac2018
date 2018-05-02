@@ -41,6 +41,9 @@
    * - 11:00 - 11:30
      - mainhall
      - `RSVP, a preset system solution for Pure Data </pages/event/32/>`_
+   * - 12:00 - 14:00
+     - ceminar
+     - `Introduction to pmpd </pages/event/28/>`_
    * - 12:00 - 12:30
      - mainhall
      - `Open Hardware Multichannel Sound Interface for Hearing Aid Research on BeagleBone Black with openMHA: Cape4all </pages/event/35/>`_
@@ -83,9 +86,6 @@
    * - 23:00 - 23:11
      - mainhall
      - `Iammix </pages/event/51/>`_
-   * - 23:30 - 01:00
-     - ceminar
-     - `Carla Plugin Host - Feature overview and workflows </pages/event/24/>`_
    * - 23:30 - 23:40
      - mainhall
      - `Spycher </pages/event/48/>`_
@@ -123,9 +123,9 @@
    * - 15:00 - 16:30
      - mainhall
      - `Lightning Talks </pages/event/103/>`_
-   * - 17:00 - 19:00
+   * - 17:00 - 18:30
      - ceminar
-     - `Introduction to pmpd </pages/event/28/>`_
+     - `Carla Plugin Host - Feature overview and workflows </pages/event/24/>`_
    * - 17:00 - 19:00
      - mainhall
      - `Understanding and being creative with Pure Data’s data structures </pages/event/26/>`_

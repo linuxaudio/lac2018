@@ -46,8 +46,8 @@ DESCRIPTION:Author: Joao Pais\nType: Workshop\nTopics: Audio and Music Lang
  epts\, experience in Pure Data isn’t necessary – although for further 
  individual work it will be required.\nPartitipants should bring their own 
  laptops and headphones.\nID: 28
-DTSTART;TZID=Europe/Berlin:20180609T170000
-DTEND;TZID=Europe/Berlin:20180609T190000
+DTSTART;TZID=Europe/Berlin:20180608T120000
+DTEND;TZID=Europe/Berlin:20180608T140000
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180426T193234
@@ -154,8 +154,8 @@ DESCRIPTION:Author: Filipe Coelho\nType: Workshop\nTopics: Audio Plugins\,
  tomation of plugin parameters via MIDI CC\, remote control over OSC\, amon
  g others.\nThis workshop plans to give a quick overview of Carla and go th
  rough some workflows together with the audience.\nID: 24
-DTSTART;TZID=Europe/Berlin:20180608T233000
-DTEND;TZID=Europe/Berlin:20180609T010000
+DTSTART;TZID=Europe/Berlin:20180609T170000
+DTEND;TZID=Europe/Berlin:20180609T183000
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180426T190853
