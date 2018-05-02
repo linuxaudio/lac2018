@@ -66,16 +66,18 @@ SUMMARY:Open Hardware Multichannel Sound Interface for Hearing Aid Research
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Tobias Herzke\nType: Paper\nTopics:\nKeywords: Hearing 
- aids\, audio signal processing\, sound hardware\nAbstract: The paper descr
- ibes a new multichannel sound interface for the\nBeagleBone Black\, "Cape4
- all".\nThe sound interface has 6 input channels with optional microphone\n
- pre-amplifiers and between 4 and 6 output channels.\nThe multichannel soun
- d extension cape for the BeagleBone\nBlack is designed and produced.\nAn A
- LSA driver is written for it.\nIt is used with the openMHA hearing aid res
- earch software to perform\nhearing aid signal processing on the BeagleBone
-  Black with a\ncustomized Debian distribution tailored to real-time audio 
- signal processing.\nID: 35
+DESCRIPTION:Author: Tobias Herzke\, Hendrik Kayser\, Christopher Seifert\, 
+ Paul Maanen\, Christopher Obbard\, Guillermo Payá-Vayá\, Holger Blume an
+ d Volker Hohmann\nType: Paper\nTopics:\nKeywords: Hearing aids\, audio sig
+ nal processing\, sound hardware\nAbstract: The paper describes a new multi
+ channel sound interface for the\nBeagleBone Black\, "Cape4all".\nThe sound
+  interface has 6 input channels with optional microphone\npre-amplifiers a
+ nd between 4 and 6 output channels.\nThe multichannel sound extension cape
+  for the BeagleBone\nBlack is designed and produced.\nAn ALSA driver is wr
+ itten for it.\nIt is used with the openMHA hearing aid research software t
+ o perform\nhearing aid signal processing on the BeagleBone Black with a\nc
+ ustomized Debian distribution tailored to real-time audio signal processin
+ g.\nID: 35
 DTSTART;TZID=Europe/Berlin:20180608T120000
 DTEND;TZID=Europe/Berlin:20180608T123000
 END:VEVENT
