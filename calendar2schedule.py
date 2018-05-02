@@ -156,6 +156,7 @@ def write_schedule(events):
                            + str(event.start.time().isoformat('minutes'))+" - "
                            + str(event.end.time().isoformat('minutes'))+"\n")
             schedule.write("     - "+event.relative_location+"\n")
+            schedule.write("     - "+event.type+"\n")
             schedule.write("     - `" + event.name +
                            " </pages/event/"+str(event.id)+"/>`_\n")
 
