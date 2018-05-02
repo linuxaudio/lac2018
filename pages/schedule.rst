@@ -73,7 +73,7 @@
      - `Atlas Of Uncertainty </pages/event/1/>`_
    * - 21:00 - 21:10
      - mainhall
-     - `Memoire </pages/event/29/>`_
+     - `Memorie </pages/event/29/>`_
    * - 21:30 - 21:45
      - mainhall
      - `SHIFT </pages/event/16/>`_

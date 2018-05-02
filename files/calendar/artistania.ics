@@ -22,6 +22,36 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+CREATED:20180502T225610
+DTSTAMP:20180502T225610
+LAST-MODIFIED:20180502T225610
+UID:K57B60WTJ79G70TEPH8HR
+SUMMARY:Sentire
+CLASS:PUBLIC
+DESCRIPTION:Author: Marcello Lussana\nType: Installation\nTopics: Audio and
+  Music Languages\, Interactive Art\, Music Composition\, Projects Realized
+  using Linux Audio\, Signal Processing and Sound Synthesis\nKeywords: embo
+ diement\, interactive\, sound\, installation\, performance\nAbstract: Sent
+ ire is an Italian word that means both to hear and to feel. The project is
+  about exploring the fine mixture of these two senses and\, particularly\,
+  to their amplification and morphing.\n\n'Sentire' project was initiated b
+ y two Berlin-based artists Marcello Lussana and Olga Kozmanidze in 2016. T
+ he project consists of two parts: immersive performance series based on in
+ teractive sound and PhD research on human perception. In the course of the
+  project we have been using a device (bracelets) connecting two people to 
+ the sound system and tracking distance and touch events between them. We a
+ pply and constantly develop a method of device usage according to which pa
+ rticipants proceed through a scenario of two phases interaction. Depending
+  on distance and touch between them different sounds are triggered and cha
+ nging\, creating an instant sound feedback. Gradually both hearing and sen
+ se of touch morth one into another giving a chance to perceive one's body 
+ on a deep level.\n\nThe interactive system has been designed with the Supe
+ rcollider software and it runs on Linux Mint.\nID: 17
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Berlin:20180609T200000
+DTEND;TZID=Europe/Berlin:20180610T000000
+END:VEVENT
+BEGIN:VEVENT
 CREATED:20180426T203543
 DTSTAMP:20180426T203543
 LAST-MODIFIED:20180426T205736
@@ -48,36 +78,6 @@ DESCRIPTION:Author: Shawn Trail\nType: Performance\nKeywords: NIME\, Pureda
  L Jenkins\, J Snyder\, G Tzanetakis\, PF Driessen. NIME\, 2014.\nID: 56
 DTSTART;TZID=Europe/Berlin:20180609T210000
 DTEND;TZID=Europe/Berlin:20180609T211500
-END:VEVENT
-BEGIN:VEVENT
-CREATED:20180428T224517
-DTSTAMP:20180428T224517
-LAST-MODIFIED:20180428T224517
-UID:6QICKDX66FDFDMY14YP36D
-SUMMARY:Sentire
-CLASS:PUBLIC
-STATUS:CONFIRMED
-DESCRIPTION:Author: Marcello Lussana\nType: Installation\nTopics: Audio and
-  Music Languages\, Interactive Art\, Music Composition\, Projects Realized
-  using Linux Audio\, Signal Processing and Sound Synthesis\nKeywords: embo
- diement\, interactive\, sound\, installation\, performance\nAbstract: Sent
- ire is an Italian word that means both to hear and to feel. The project is
-  about exploring the fine mixture of these two senses and\, particularly\,
-  to their amplification and morphing.\n\n'Sentire' project was initiated b
- y two Berlin-based artists Marcello Lussana and Olga Kozmanidze in 2016. T
- he project consists of two parts: immersive performance series based on in
- teractive sound and PhD research on human perception. In the course of the
-  project we have been using a device (bracelets) connecting two people to 
- the sound system and tracking distance and touch events between them. We a
- pply and constantly develop a method of device usage according to which pa
- rticipants proceed through a scenario of two phases interaction. Depending
-  on distance and touch between them different sounds are triggered and cha
- nging\, creating an instant sound feedback. Gradually both hearing and sen
- se of touch morth one into another giving a chance to perceive one's body 
- on a deep level.\n\nThe interactive system has been designed with the Supe
- rcollider software and it runs on Linux Mint.\nID: 17
-DTSTART;TZID=Europe/Berlin:20180609T200000
-DTEND;TZID=Europe/Berlin:20180610T000000
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180426T203626

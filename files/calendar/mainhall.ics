@@ -41,17 +41,18 @@ CREATED:20180426T203125
 DTSTAMP:20180426T203125
 LAST-MODIFIED:20180426T205622
 UID:8ZF4KCUAGKICPFJW0S1
-SUMMARY:Memoire
+SUMMARY:Memorie
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Massimo Fragalà\nType: Concert\nKeywords: Electroacous
- tic\, Mixed music\nAbstract: This composition is made up of sounds that re
- present various moments of my childhood. In particular\, I used sounds tha
- t still make me feel special emotions such as: the rain\, the planes\, the
-  clamour of people\, musical bands\, the tick of old clocks\, the glitches
- \, etc. By listening to this piece I go back to that period of my life whi
- ch I am particularly attached to and which unfortunately will not return a
- ny more.\nThis composition has been realized with Linux KXstudio.\nID: 29
+DESCRIPTION:Author: Massimo Fragalà\nType: Performance\nKeywords: Electroa
+ coustic\, Mixed music\nAbstract: This composition is made up of sounds tha
+ t represent various moments of my childhood. In particular\, I used sounds
+  that still make me feel special emotions such as: the rain\, the planes\,
+  the clamour of people\, musical bands\, the tick of old clocks\, the glit
+ ches\, etc. By listening to this piece I go back to that period of my life
+  which I am particularly attached to and which unfortunately will not retu
+ rn any more.\nThis composition has been realized with Linux KXstudio.\nID:
+  29
 DTSTART;TZID=Europe/Berlin:20180608T210000
 DTEND;TZID=Europe/Berlin:20180608T211000
 END:VEVENT
@@ -263,22 +264,22 @@ LAST-MODIFIED:20180426T205646
 UID:556FQJXC2DGDHS9HX20SOG
 SUMMARY:Atlas Of Uncertainty
 CLASS:PUBLIC
-DESCRIPTION:Author: Massimo Vito Avantaggiato\nType: Concert\nTopics: Media
-  Art\, Music Composition\, Video\nKeywords: csound\, linux\,  Acousmatic\,
-  experimental\nAbstract: Atlas of Uncertainty is an experimental music vid
- eo based on the representation of 4 Classical elements\, that typically re
- fer to the concepts in Ancient Greece of water\, fire\, earth and aether\,
-  which were proposed to explain the nature and complexity of all matter in
-  terms of simpler substances.\nThe music that accompanies this computer ge
- nerated video is a sonic continuum ranging from unaltered natural sounds t
- o entirely new sounds - or\, more poetically -- from the real world to the
-  realm of the imagination. of the imagination.\nHeterogeneous inharmonic s
- ound materials are explored through various techniques (granular\, subtrac
- tive). The sounds and the images are here combined in well- identifiable g
- estures.\n\nThe video received two HONORABLE MENTIONS in India and USA\; a
- nd a prize as best short in Canada and has also been finalist in some comp
- etitions (ROMART BIENNALE 2017\,\nRome\, Italy; MATERA INTERMEDIA 2017\, 
- Matera\, ITALY)\;\n\nID: 1
+DESCRIPTION:Author: Massimo Vito Avantaggiato\nType: Performance\nTopics: M
+ edia Art\, Music Composition\, Video\nKeywords: csound\, linux\,  Acousmat
+ ic\, experimental\nAbstract: Atlas of Uncertainty is an experimental music
+  video based on the representation of 4 Classical elements\, that typicall
+ y refer to the concepts in Ancient Greece of water\, fire\, earth and aeth
+ er\, which were proposed to explain the nature and complexity of all matte
+ r in terms of simpler substances.\nThe music that accompanies this compute
+ r generated video is a sonic continuum ranging from unaltered natural soun
+ ds to entirely new sounds - or\, more poetically -- from the real world to
+  the realm of the imagination. of the imagination.\nHeterogeneous inharmon
+ ic sound materials are explored through various techniques (granular\, sub
+ tractive). The sounds and the images are here combined in well- identifiab
+ le gestures.\n\nThe video received two HONORABLE MENTIONS in India and USA
+ \; and a prize as best short in Canada and has also been finalist in some 
+ competitions (ROMART BIENNALE 2017\,\nRome\, Italy; MATERA INTERMEDIA 201
+ 7\, Matera\, ITALY)\;\n\nID: 1
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
 DTSTART;TZID=Europe/Berlin:20180608T203000

@@ -1,13 +1,13 @@
-.. title: Memoire
+.. title: Memorie
 .. slug: 29
 .. date: 
 .. tags: Electroacoustic, Mixed music
-.. category: Concert
+.. category: Performance
 .. link: 
 .. description: 
 .. type: text
 
-**Type**: Concert
+**Type**: Performance
 
 **Day**: 2018-06-08
 

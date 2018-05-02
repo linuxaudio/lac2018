@@ -2,12 +2,12 @@
 .. slug: 1
 .. date: 
 .. tags: csound, linux,  Acousmatic, experimental
-.. category: Concert
+.. category: Performance
 .. link: 
 .. description: 
 .. type: text
 
-**Type**: Concert
+**Type**: Performance
 
 **Day**: 2018-06-08
 
