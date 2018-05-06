@@ -2,6 +2,7 @@
 
 from icalendar import Calendar
 from urllib.request import urlretrieve
+import os.path
 import re
 
 base_url = "https://cloud.sleepmap.de/remote.php/dav/public-calendars/"
@@ -84,6 +85,13 @@ def __get_abstract_from_description(description):
         return match.group(1)
     else:
         return "None"
+
+
+def __print_pdf_by_id(id):
+    if os.path.isfile("files/pdf/"+str(id)+".pdf"):
+        return "`pdf </pdf/"+str(id)+".pdf>`_"
+    else:
+        return ""
 
 
 # download calendar by name and url
@@ -196,8 +204,7 @@ def write_events(events):
         event_page.write('\n')
         event_page.write('**Abstract**: \n'+event.abstract+'\n')
         event_page.write('\n')
-        event_page.write('**Downloads**: `pdf </pdf/' +
-                         str(event.id)+'.pdf>`_ \n')
+        event_page.write('**Downloads**: '+__print_pdf_by_id(event.id)+'\n')
 
 
 def main():
