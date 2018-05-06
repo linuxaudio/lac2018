@@ -20,4 +20,4 @@
 **Abstract**: 
 This Workshop demonstrates the use of the Yoshimi soft synthesiser as a platform for building entirely synthetic musical instruments, based on exploring the structure and interplay of defining traits within musical sound. Starting from characteristic overtones and spectral patterns as foundation, the specific body of the tone can be shaped by fine tuning the transients. Further techniques of transforming the sound are used to build a fabric of related sound layers and create a distinct voice, able to operate within the musical context of the composition.
 
-**Downloads**: `pdf </pdf/12.pdf>`_ 
+**Downloads**: 

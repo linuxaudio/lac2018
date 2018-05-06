@@ -20,4 +20,4 @@
 **Abstract**: 
 Camomile is an audio plugin with Pure Data embedded allowing to create original and cross-platform audio plugins using patches and that could run in any digital audio workstation that accepts the VST or Audio Unit formats. The paper presents an overview of the current functionalities of Camomile and the possibilities offered by this tool. Following this, the main lines of the future developments are exposed.
 
-**Downloads**: `pdf </pdf/44.pdf>`_ 
+**Downloads**: 

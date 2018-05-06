@@ -20,4 +20,4 @@
 **Abstract**: 
 A set of lightning talks by you!
 
-**Downloads**: `pdf </pdf/103.pdf>`_ 
+**Downloads**: 

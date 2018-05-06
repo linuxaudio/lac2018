@@ -20,4 +20,4 @@
 **Abstract**: 
 This is a workshop for the Yoshimi soft-synth, and is intended to give an overview of ideas for using the synth at live venues.
 
-**Downloads**: `pdf </pdf/4.pdf>`_ 
+**Downloads**: 

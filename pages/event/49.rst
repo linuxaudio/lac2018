@@ -20,4 +20,4 @@
 **Abstract**: 
 Composition for prepared electric guitar and live electronics (SuperCollider), with multichannel spatialization.
 
-**Downloads**: `pdf </pdf/49.pdf>`_ 
+**Downloads**: 

@@ -39,4 +39,4 @@ metadata system for representing application/library parameters.
 This combination is not available in any other OSC library at the time of
 writing.
 
-**Downloads**: `pdf </pdf/39.pdf>`_ 
+**Downloads**: 

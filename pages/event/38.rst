@@ -30,4 +30,4 @@ build while the ZynAddSubFX user interface was
 rewritten. This toolkit possesses unique characteristics within open source toolkits which target the
 problems specific to audio applications.
 
-**Downloads**: `pdf </pdf/38.pdf>`_ 
+**Downloads**: 

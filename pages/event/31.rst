@@ -25,4 +25,4 @@ Extensions to the embedded Linux systems as capes or modules are developed to in
 Also micro-controller usage for intermediate interfacing Linux computers is in focus.
 Sensors enhancing the usage of these higher order Ambisonics microphone arrays, combined with corresponding software tools enables the construction of your individual Ambisonics microphone array instance.
 
-**Downloads**: `pdf </pdf/31.pdf>`_ 
+**Downloads**: 

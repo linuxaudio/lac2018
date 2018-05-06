@@ -20,4 +20,4 @@
 **Abstract**: 
 This hands-on workshop will introduce participants to methods for creating single-purpose GNU/Linux distributions for inexpensive ARM boards like the Raspberry Pi 3, and open source hardware including the BeagleBone Black. There will be an emphasis on optimising performance for demanding real-time audio applications such as xwax, as used in the PiDeck[1] project. Issues of maintainability, field upgrades and security will also be covered.
 
-**Downloads**: `pdf </pdf/30.pdf>`_ 
+**Downloads**: 

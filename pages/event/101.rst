@@ -20,4 +20,4 @@
 **Abstract**: 
 There will be a barbecue with a limited set of food. First come, first served!
 
-**Downloads**: `pdf </pdf/101.pdf>`_ 
+**Downloads**: 

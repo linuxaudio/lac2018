@@ -33,4 +33,4 @@ The performance will be spatialized using the SSR, PD and
 Python, running on a Linux Server with Ubuntu Studio. The
 server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with a RME MADI card and several AD/DA converters.
 
-**Downloads**: `pdf </pdf/47.pdf>`_ 
+**Downloads**: 

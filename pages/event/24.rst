@@ -21,4 +21,4 @@
 Carla is a fully-featured audio plugin host with support for many plugin formats, featuring automation of plugin parameters via MIDI CC, remote control over OSC, among others.
 This workshop plans to give a quick overview of Carla and go through some workflows together with the audience.
 
-**Downloads**: `pdf </pdf/24.pdf>`_ 
+**Downloads**: 

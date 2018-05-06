@@ -22,4 +22,4 @@ The levTools are a set of abstractions for Pure Data, that are primarily designe
 The levTools are free and open source. They were developed by Marten Seedorf in the context of the Berlin based lev–project, an educational project focussing on electronic music culture.
 This workshop introduces the levTools.
 
-**Downloads**: `pdf </pdf/11.pdf>`_ 
+**Downloads**: 

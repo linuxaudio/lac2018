@@ -21,4 +21,4 @@
 COSMO Collective is an open musical collaboration for musicians using DIY electronics and custom software written in Csound. There is no definite musical style, though it could perhaps be characterized as electro-acoustic
 improvisation. The focus is on the exploration of sound and timbre, rather than traditional harmonics and rhythm, and exploiting the powers of Csound in this pursuit.
 
-**Downloads**: `pdf </pdf/21.pdf>`_ 
+**Downloads**: 

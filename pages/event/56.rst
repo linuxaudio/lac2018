@@ -26,4 +26,4 @@ S Trail, M Dean, G Odowichuk, TF Tavares, PF Driessen, WA Schloss, G Tzanetakis.
 2. El-Lamellophone A Low-cost, DIY, Open Framework for Acoustic Lemellophone Based Hyperinstruments.
 S Trail, D MacConnell, L Jenkins, J Snyder, G Tzanetakis, PF Driessen. NIME, 2014.
 
-**Downloads**: `pdf </pdf/56.pdf>`_ 
+**Downloads**: 

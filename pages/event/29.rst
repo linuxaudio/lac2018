@@ -21,4 +21,4 @@
 This composition is made up of sounds that represent various moments of my childhood. In particular, I used sounds that still make me feel special emotions such as: the rain, the planes, the clamour of people, musical bands, the tick of old clocks, the glitches, etc. By listening to this piece I go back to that period of my life which I am particularly attached to and which unfortunately will not return any more.
 This composition has been realized with Linux KXstudio.
 
-**Downloads**: `pdf </pdf/29.pdf>`_ 
+**Downloads**: 

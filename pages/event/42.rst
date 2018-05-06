@@ -20,4 +20,4 @@
 **Abstract**: 
 Ableton Link is a technology that synchronizes musical beat, tempo, phase, and start/stop commands across multiple applications running on one or more devices. Unlike conventional musical synchronization technologies, Link does not require master/client roles. Automatic discovery on a local area network enables a peer-to-peer system, which peers can join or leave at any time without disrupting others. Musical information is shared equally among peers, so any peer can start or stop while staying in time, or change the tempo, which is followed by all other peers.
 
-**Downloads**: `pdf </pdf/42.pdf>`_ 
+**Downloads**: 

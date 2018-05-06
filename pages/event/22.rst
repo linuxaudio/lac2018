@@ -24,4 +24,4 @@ Clive is an audio live-coding skeleton, implemented in C. It supports a two-phas
 
 Performance with Clive usually involves pre-preparation, from simple unit generators up to more complete compositions. The live-coding aspect involves editing a file in the performer’s favourite text editor, with the act of saving with Ctrl-S or other shortcut being timed to allow the new code to start executing in sync after the latency of compilation.
 
-**Downloads**: `pdf </pdf/22.pdf>`_ 
+**Downloads**: 

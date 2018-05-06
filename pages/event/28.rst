@@ -23,4 +23,4 @@ This workshop introduces pmpd, a library by Cyrille Henry that implements a mass
 The workshop will use the software Pure Data; the participants will receive commented didactic materials, which they will be able to later edit and tweak for their own use. To learn the concepts, experience in Pure Data isn’t necessary – although for further individual work it will be required.
 Partitipants should bring their own laptops and headphones.
 
-**Downloads**: `pdf </pdf/28.pdf>`_ 
+**Downloads**: 
