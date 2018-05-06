@@ -1,4 +1,4 @@
-.. title: Creating audio plugins with Pure Data
+.. title: Camomile: Creating audio plugins with Pure Data
 .. slug: 44
 .. date: 
 .. tags: Pure Data, Plugin, DAW, VST, Audio Unit

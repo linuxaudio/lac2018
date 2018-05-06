@@ -63,7 +63,7 @@
    * - 13:00 - 13:30
      - mainhall
      - Paper
-     - `Creating audio plugins with Pure Data </pages/event/44/>`_
+     - `Camomile: Creating audio plugins with Pure Data </pages/event/44/>`_
    * - 14:30 - 15:30
      - ceminar
      - Workshop

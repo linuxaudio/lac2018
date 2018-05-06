@@ -369,15 +369,15 @@ CLASS:PUBLIC
 STATUS:CONFIRMED
 DESCRIPTION:Author: Florian Goltz\nType: Paper\nTopics: MIDI\, OSC\, Music 
  Production\, Networked Audio\, Standards and Protocols\nKeywords: Audio\, 
- Network\, Peer-to-peer\, Time\, Synchronization\nAbstracts: Ableton Link i
- s a technology that synchronizes musical beat\, tempo\, phase\, and start/
- stop commands across multiple applications running on one or more devices.
-  Unlike conventional musical synchronization technologies\, Link does not 
- require master/client roles. Automatic discovery on a local area network e
- nables a peer-to-peer system\, which peers can join or leave at any time w
- ithout disrupting others. Musical information is shared equally among peer
- s\, so any peer can start or stop while staying in time\, or change the te
- mpo\, which is followed by all other peers.\nID: 42
+ Network\, Peer-to-peer\, Time\, Synchronization\nAbstract: Ableton Link is
+  a technology that synchronizes musical beat\, tempo\, phase\, and start/s
+ top commands across multiple applications running on one or more devices. 
+ Unlike conventional musical synchronization technologies\, Link does not r
+ equire master/client roles. Automatic discovery on a local area network en
+ ables a peer-to-peer system\, which peers can join or leave at any time wi
+ thout disrupting others. Musical information is shared equally among peers
+ \, so any peer can start or stop while staying in time\, or change the tem
+ po\, which is followed by all other peers.\nID: 42
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
 DTSTART;TZID=Europe/Berlin:20180609T120000
 DTEND;TZID=Europe/Berlin:20180609T123000
@@ -488,7 +488,7 @@ CREATED:20180426T191243
 DTSTAMP:20180426T191243
 LAST-MODIFIED:20180426T191653
 UID:O9DRG3U4OOCMDJQZ8R6DC
-SUMMARY:Creating audio plugins with Pure Data
+SUMMARY:Camomile: Creating audio plugins with Pure Data
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
