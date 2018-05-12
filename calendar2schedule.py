@@ -4,6 +4,8 @@ from icalendar import Calendar
 from urllib.request import urlretrieve
 import os.path
 import re
+import csv
+import datetime
 
 base_url = "https://cloud.sleepmap.de/remote.php/dav/public-calendars/"
 calendars = {
@@ -21,7 +23,8 @@ match_eol = re.compile('$|\n', flags=re.M)
 
 class LACEvent:
     def __init__(self, author, type, topics, keywords, abstract, id, name,
-                 location, relative_location, start, end, description):
+                 location, relative_location, start, end, duration, day,
+                 description):
         self.author = author
         self.type = type
         self.topics = topics
@@ -33,10 +36,22 @@ class LACEvent:
         self.relative_location = relative_location
         self.start = start
         self.end = end
+        self.duration = duration
+        self.day = day
         self.description = description
 
     def __repr__(self):
         return repr((self.name, self.location, self.start, self.end))
+
+    def pretty_print_author(self):
+        author_string = ""
+        for pair in self.author.split('|'):
+            uid, _, name = pair.partition(":")
+            if author_string == "":
+                author_string = name
+            else:
+                author_string = author_string + ", " + name
+        return author_string
 
 
 def __get_id_from_description(description):
@@ -94,6 +109,36 @@ def __print_pdf_by_id(id):
         return ""
 
 
+def __get_duration(start, end):
+    duration_seconds = (end - start).total_seconds()
+    duration_hours, remainder = divmod(duration_seconds, 3600)
+    duration_minutes, seconds = divmod(remainder, 60)
+    return datetime.time(hour=int(duration_hours),
+                         minute=int(duration_minutes))
+
+
+# sort events by day in a days dict
+def __sort_events_by_day(events, days):
+    for event in events:
+        if event.start.date() in days.keys():
+            days[event.start.date()].append(event)
+        else:
+            days[event.start.date()] = [event]
+    event_day = 1
+    for day in sorted(days.keys()):
+        for event in days[day]:
+            event.day = event_day
+        event_day = event_day + 1
+
+
+# sort days by (start) time and relative_location in a days dict
+def __sort_days_by_time(days):
+    # sort events by start time
+    for day in sorted(days.keys()):
+        days[day] = sorted(days[day], key=lambda x: (x.start,
+                           x.relative_location))
+
+
 # download calendar by name and url
 def download_calendar(name, url):
     urlretrieve(url, "files/calendar/"+name+".ics")
@@ -119,6 +164,10 @@ def retrieve_events_from_calendar(name, events):
                         relative_location=name,
                         start=item.get('DTSTART').dt,
                         end=item.get('DTEND').dt,
+                        duration=__get_duration(
+                            item.get('DTSTART').dt,
+                            item.get('DTEND').dt),
+                        day=0,
                         description=item.get('DESCRIPTION')
                         )
                     )
@@ -138,17 +187,8 @@ def write_schedule(events):
     schedule.write('.. description: \n')
     schedule.write('.. type: text\n')
 
-    # sort by day
-    for event in events:
-        if event.start.date() in days.keys():
-            days[event.start.date()].append(event)
-        else:
-            days[event.start.date()] = [event]
-
-    # sort events by start time
-    for day in sorted(days.keys()):
-        days[day] = sorted(days[day], key=lambda x: (x.start,
-                           x.relative_location))
+    __sort_events_by_day(events, days)
+    __sort_days_by_time(days)
 
     # write schedule, sorted by day, start time and location
     for day in sorted(days.keys()):
@@ -198,7 +238,7 @@ def write_events(events):
                          str(event.start.time().isoformat('minutes'))+" - " +
                          str(event.end.time().isoformat('minutes'))+"\n")
         event_page.write('\n')
-        event_page.write('**Author(s)**: '+event.author+'\n')
+        event_page.write('**Author(s)**: '+event.pretty_print_author()+'\n')
         event_page.write('\n')
         event_page.write('**Keywords**: '+event.keywords+'\n')
         event_page.write('\n')
@@ -207,12 +247,45 @@ def write_events(events):
         event_page.write('**Downloads**: '+__print_pdf_by_id(event.id)+'\n')
 
 
+# write all events to files/fahrplan.csv, compatible with voctosched
+def write_csv(events):
+    field_names = ["Room", "Date", "Day", "Start", "Duration", "Title", "ID",
+                   "Abstract", "Description", "Language", "Speakers",
+                   "File URL"]
+    days = {}
+    __sort_events_by_day(events, days)
+    __sort_days_by_time(days)
+    csv_file = open("files/fahrplan.csv", "w", newline='')
+    csv_writer = csv.DictWriter(
+            csv_file,
+            delimiter=',',
+            fieldnames=field_names)
+    csv_writer.writeheader()
+    # write csv schedule, sorted by day, start time and location
+    for date in sorted(days.keys()):
+        for event in days[date]:
+            csv_writer.writerow({
+                "Room": event.relative_location,
+                "Date": date,
+                "Day": event.day,
+                "Start": str(event.start.time().isoformat('minutes')),
+                "Duration": event.duration.isoformat('minutes'),
+                "Title": event.name,
+                "ID": event.id,
+                "Abstract": event.abstract,
+                "Description": event.abstract,
+                "Language": "en",
+                "Speakers": event.author,
+                "File URL": " "})
+
+
 def main():
     events = []
     for name, url in calendars.items():
         download_calendar(name, base_url+url)
         retrieve_events_from_calendar(name, events)
     write_schedule(events)
+    write_csv(events)
     write_events(events)
 
 
