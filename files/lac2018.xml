@@ -1,0 +1,1629 @@
+<schedule>
+  <version>1.0</version>
+  <conference>
+    <title>"Linux Audio Conference 2018"</title>
+    <acronym>lac2018</acronym>
+    <days>4</days>
+    <start>2018-06-07</start>
+    <end>2018-06-10</end>
+    <timeslot_duration>0:05</timeslot_duration>
+  </conference>
+  <day index="1" date="2018-06-07" start="2018-06-07T18:00:00" end="2018-06-08T01:00:00">
+    <room name="mainhall">
+      <event guid="e810fff2-b069-5360-9beb-bcb2a8af8ee1" id="100">
+        <date>2018-06-07T18:00:00</date>
+        <start>18:00</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-100-welcome_speech</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Welcome Speech</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>A short welcome speech by the team.</abstract>
+        <description>A short welcome speech by the team.</description>
+        <logo />
+        <persons>
+          <person id="1">LAC team</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="52d0a764-7318-5e0a-b9d5-4ecc9b2e05ea" id="101">
+        <date>2018-06-07T19:00:00</date>
+        <start>19:00</start>
+        <duration>2:00</duration>
+        <room>mainhall</room>
+        <slug>lac2018-101-bbq</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>BBQ</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>There will be a barbecue with a limited set of food. First come, first served!</abstract>
+        <description>There will be a barbecue with a limited set of food. First come, first served!</description>
+        <logo />
+        <persons>
+          <person id="1">LAC team</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="69f841bd-0c68-5536-b67d-2e969acf1c5a" id="58">
+        <date>2018-06-07T21:00:00</date>
+        <start>21:00</start>
+        <duration>1:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-58-superdirt</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Superdirt</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract />
+        <description />
+        <logo />
+        <persons>
+          <person id="2">Superdirt^2</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="ff2d0541-82f5-53ea-8b54-9cacd17039f3" id="8">
+        <date>2018-06-07T23:00:00</date>
+        <start>23:00</start>
+        <duration>2:00</duration>
+        <room>mainhall</room>
+        <slug>lac2018-8-louigi_verona</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Louigi Verona</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+A minimal house DJ set with Mixxx. Already performed at Sonoj to positive reviews, so I am confident this could be a nice addition to music nights.
+
+Unfortunately, I don’t have any recordings of my performances, however I am using only my 
+original music for sets and here are the links to some of the tunes I will definitely include into the 
+playlist:
+https://soundcloud.com/louigiverona/serenity-berlin-songbook-vol2
+https://soundcloud.com/louigiverona/boat-at-the-mouth-of-a-river-berlin-songbook-vol2
+https://soundcloud.com/louigiverona/i-am-at-the-club-berlin-songbook-vol2
+https://soundcloud.com/louigiverona/berlin-berlin-songbook-vol2
+https://soundcloud.com/louigiverona/stranger-berlin-songbook-vol2
+https://soundcloud.com/louigiverona/berlin-songbook-vol-2-lair
+        </abstract>
+        <description>
+A minimal house DJ set with Mixxx. Already performed at Sonoj to positive reviews, so I am confident this could be a nice addition to music nights.
+
+Unfortunately, I don’t have any recordings of my performances, however I am using only my 
+original music for sets and here are the links to some of the tunes I will definitely include into the 
+playlist:
+https://soundcloud.com/louigiverona/serenity-berlin-songbook-vol2
+https://soundcloud.com/louigiverona/boat-at-the-mouth-of-a-river-berlin-songbook-vol2
+https://soundcloud.com/louigiverona/i-am-at-the-club-berlin-songbook-vol2
+https://soundcloud.com/louigiverona/berlin-berlin-songbook-vol2
+https://soundcloud.com/louigiverona/stranger-berlin-songbook-vol2
+https://soundcloud.com/louigiverona/berlin-songbook-vol-2-lair
+        </description>
+        <logo />
+        <persons>
+          <person id="3">Louigi Verona</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+    </room>
+    <room name="ceminar">
+    </room>
+    <room name="artistania">
+    </room>
+  </day>
+  <day index="2" date="2018-06-08" start="2018-06-08T10:00:00" end="2018-06-09T00:00:00">
+    <room name="mainhall">
+      <event guid="2087de04-a1de-500c-aed8-b7c9a2ad85dc" id="14">
+        <date>2018-06-08T10:00:00</date>
+        <start>10:00</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-14-using_perlin_noise_in_sound_synthesis</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Using Perlin noise in sound synthesis</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Perlin noise is a well known algorithm in computer graphics applications and one of the first algorithms for generating procedural textures. It has been very widely used in movies, games, demos, and landscape generators, but despite its popularity it has been seldom used for creative purposes in the fields outside the world of computer graphics. This paper discusses the use of Perlin noise and fractional Brownian motion for sound synthesis applications.</abstract>
+        <description>Perlin noise is a well known algorithm in computer graphics applications and one of the first algorithms for generating procedural textures. It has been very widely used in movies, games, demos, and landscape generators, but despite its popularity it has been seldom used for creative purposes in the fields outside the world of computer graphics. This paper discusses the use of Perlin noise and fractional Brownian motion for sound synthesis applications.</description>
+        <logo />
+        <persons>
+          <person id="4">Artem Popov</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="01427b19-8098-54fa-b773-a1cba2b7c7bc" id="18">
+        <date>2018-06-08T10:30:00</date>
+        <start>10:30</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-18-spectmorph_morphing_the_timbre_of_musical_instruments</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>SpectMorph: Morphing the Timbre of Musical Instruments</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>SpectMorph is an open source software which performs morphing of the timbre of musical instruments. This allows creating sounds that smoothly transition from the timbre of one instrument to the timbre of another instrument. There are three steps necessary to obtain the final sound. In the analysis, we use the fourier transform to create models of the spectrum of the input samples. During synthesis a time domain signal can be obtained from these data. An algorithm for morphing the spectral models of multiple instruments is the core of our method. Synthesis and morphing can be done in real-time. After the description of the theoretical background, we provide an overview of the features of the SpectMorph plugin.</abstract>
+        <description>SpectMorph is an open source software which performs morphing of the timbre of musical instruments. This allows creating sounds that smoothly transition from the timbre of one instrument to the timbre of another instrument. There are three steps necessary to obtain the final sound. In the analysis, we use the fourier transform to create models of the spectrum of the input samples. During synthesis a time domain signal can be obtained from these data. An algorithm for morphing the spectral models of multiple instruments is the core of our method. Synthesis and morphing can be done in real-time. After the description of the theoretical background, we provide an overview of the features of the SpectMorph plugin.</description>
+        <logo />
+        <persons>
+          <person id="5">Stefan Westerfeld</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="214f3fd2-30e1-58fe-981b-fb7e5f6a8fa5" id="32">
+        <date>2018-06-08T11:00:00</date>
+        <start>11:00</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-32-rsvp_a_preset_system_solution_for_pure_data</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>RSVP, a preset system solution for Pure Data</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>This paper describes the logic and process behind the development of the RSVP preset library for the Pure Data programming environment. The library aims to tackle the lack of a native preset system in Pure Data. Other projects like Kollabs, CREAM, sssad, and others, have produced different solutions for this issue. However, after experimenting with the mentioned libraries, I decided to approach the matter with a different strategy. This led to the creation of the RSVP library which I will be describing in detail. During the development of this project, I have been theorizing of a feature request for PD that will also be shared here. This paper will offer a detailed description of how the system works, but will not go into extensive Pure Data patch descriptions. Instead, I wish to show how I structured the code and describe how the system functions with the users own projects.</abstract>
+        <description>This paper describes the logic and process behind the development of the RSVP preset library for the Pure Data programming environment. The library aims to tackle the lack of a native preset system in Pure Data. Other projects like Kollabs, CREAM, sssad, and others, have produced different solutions for this issue. However, after experimenting with the mentioned libraries, I decided to approach the matter with a different strategy. This led to the creation of the RSVP library which I will be describing in detail. During the development of this project, I have been theorizing of a feature request for PD that will also be shared here. This paper will offer a detailed description of how the system works, but will not go into extensive Pure Data patch descriptions. Instead, I wish to show how I structured the code and describe how the system functions with the users own projects.</description>
+        <logo />
+        <persons>
+          <person id="6">Jose Rafael Subía Valdez</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="caa261ba-e54d-5cf0-9d48-6882db26c89d" id="35">
+        <date>2018-06-08T12:00:00</date>
+        <start>12:00</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-35-open_hardware_multichannel_sound_interface_for_hearing_aid_research_on_beaglebone_black_with_openmha_cape4all</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Open Hardware Multichannel Sound Interface for Hearing Aid Research on BeagleBone Black with openMHA: Cape4all</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+The paper describes a new multichannel sound interface for the
+BeagleBone Black, "Cape4all".
+The sound interface has 6 input channels with optional microphone
+pre-amplifiers and between 4 and 6 output channels.
+The multichannel sound extension cape for the BeagleBone
+Black is designed and produced.
+An ALSA driver is written for it.
+It is used with the openMHA hearing aid research software to perform
+hearing aid signal processing on the BeagleBone Black with a
+customized Debian distribution tailored to real-time audio signal processing.
+        </abstract>
+        <description>
+The paper describes a new multichannel sound interface for the
+BeagleBone Black, "Cape4all".
+The sound interface has 6 input channels with optional microphone
+pre-amplifiers and between 4 and 6 output channels.
+The multichannel sound extension cape for the BeagleBone
+Black is designed and produced.
+An ALSA driver is written for it.
+It is used with the openMHA hearing aid research software to perform
+hearing aid signal processing on the BeagleBone Black with a
+customized Debian distribution tailored to real-time audio signal processing.
+        </description>
+        <logo />
+        <persons>
+          <person id="8">Tobias Herzke</person>
+          <person id="9">Hendrik Kayser</person>
+          <person id="10">Christopher Seifert</person>
+          <person id="11">Paul Maanen</person>
+          <person id="12">Christopher Obbard</person>
+          <person id="13">Guillermo Payá-Vayá</person>
+          <person id="14">Holger Blume</person>
+          <person id="15"> Volker Hohmann</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="311574c9-5a3c-52ae-a9fd-b8ad3cc0d2be" id="38">
+        <date>2018-06-08T12:30:00</date>
+        <start>12:30</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-38-mruby_zest_a_scriptable_audio_gui_framework</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>MRuby-Zest: a Scriptable Audio GUI Framework</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Audio tools face a set of uncommon user interface
+design and implementation challenges. These constraints make high quality interfaces within the open
+source realm particular difficult to execute on volunteer time. The challenges include producing a
+unique identity for the application, providing easy
+to use controls for the parameters of the application,
+and providing interesting ways to visualize the data
+within the application. Additionally, existing toolkits produce technical issues when embedding within
+plugin hosts. MRuby-Zest is a new toolkit that was
+build while the ZynAddSubFX user interface was
+rewritten. This toolkit possesses unique characteristics within open source toolkits which target the
+problems specific to audio applications.
+        </abstract>
+        <description>
+Audio tools face a set of uncommon user interface
+design and implementation challenges. These constraints make high quality interfaces within the open
+source realm particular difficult to execute on volunteer time. The challenges include producing a
+unique identity for the application, providing easy
+to use controls for the parameters of the application,
+and providing interesting ways to visualize the data
+within the application. Additionally, existing toolkits produce technical issues when embedding within
+plugin hosts. MRuby-Zest is a new toolkit that was
+build while the ZynAddSubFX user interface was
+rewritten. This toolkit possesses unique characteristics within open source toolkits which target the
+problems specific to audio applications.
+        </description>
+        <logo />
+        <persons>
+          <person id="16">Mark McCurry</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="9e4db5be-6268-5c92-a58e-72f3d26925fe" id="44">
+        <date>2018-06-08T13:00:00</date>
+        <start>13:00</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-44-camomile_creating_audio_plugins_with_pure_data</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Camomile: Creating audio plugins with Pure Data</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Camomile is an audio plugin with Pure Data embedded allowing to create original and cross-platform audio plugins using patches and that could run in any digital audio workstation that accepts the VST or Audio Unit formats. The paper presents an overview of the current functionalities of Camomile and the possibilities offered by this tool. Following this, the main lines of the future developments are exposed.</abstract>
+        <description>Camomile is an audio plugin with Pure Data embedded allowing to create original and cross-platform audio plugins using patches and that could run in any digital audio workstation that accepts the VST or Audio Unit formats. The paper presents an overview of the current functionalities of Camomile and the possibilities offered by this tool. Following this, the main lines of the future developments are exposed.</description>
+        <logo />
+        <persons>
+          <person id="17">Pierre Guillot</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="7ea126c8-5684-5217-91a0-a52dbcd5453d" id="7">
+        <date>2018-06-08T14:30:00</date>
+        <start>14:30</start>
+        <duration>1:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-7-djing_with_floss_mixxx_workshop</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Djing with FLOSS: Mixxx Workshop</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Many of us would love to start DJing with software, comparable to commercial offerings out there. Thanks to the fantastic work that the Mixxx has done, it is now possible.
+
+However, Mixxx could be a little off-putting due to the fact that setting a controller up might not be as user friendly as with software like Traktor.
+
+Louigi will run through all the difficult places, demonstrate how to set things up with a random midi controller (i.e., not explicitly supported by Mixxx templates), and how to use scripts.
+
+Hopefully after this workshop people will have a good guide on how to start working with Mixxx!
+
+A list of things discussed:
+
+1. Choosing an XML template for Mixxx UI
+2. Customizing the template for your needs
+3. Setting up preferences
+4. Adding a midi controller in
+
+   4.1 Figuring out the midi signals map
+
+   4.2 Organizing your controller XML file
+
+   4.3 Scripting and why its not scary
+
+5. A demo
+
+        </abstract>
+        <description>
+Many of us would love to start DJing with software, comparable to commercial offerings out there. Thanks to the fantastic work that the Mixxx has done, it is now possible.
+
+However, Mixxx could be a little off-putting due to the fact that setting a controller up might not be as user friendly as with software like Traktor.
+
+Louigi will run through all the difficult places, demonstrate how to set things up with a random midi controller (i.e., not explicitly supported by Mixxx templates), and how to use scripts.
+
+Hopefully after this workshop people will have a good guide on how to start working with Mixxx!
+
+A list of things discussed:
+
+1. Choosing an XML template for Mixxx UI
+2. Customizing the template for your needs
+3. Setting up preferences
+4. Adding a midi controller in
+
+   4.1 Figuring out the midi signals map
+
+   4.2 Organizing your controller XML file
+
+   4.3 Scripting and why its not scary
+
+5. A demo
+
+        </description>
+        <logo />
+        <persons>
+          <person id="3">Louigi Verona</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="120769e8-b34e-5303-88ca-cd7ee8d2fca0" id="15">
+        <date>2018-06-08T17:00:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-15-getting_started_with_purr_data</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Getting Started with Purr Data</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+This hands-on workshop is intended for Pd and Linux audio users who want to start using Purr Data. For an introduction to Purr Data, please check our [LAC17 presentation](https://www.youtube.com/watch?v=T1wo496Zx0s) and the [Quick Introduction](https://agraef.github.io/purr-data-intro). Topics of the 90 min workshop vary from the basics to the moderately advanced and include:
+
+- Getting a minimal Purr Data installation up and running quickly on Linux (compiling from source).
+
+- First-time setup (configuring MIDI and audio devices, setting up Pd-Lua).
+
+- Real-time audio and MIDI processing, making music with Purr Data.
+
+- Programming new objects (a.k.a. Pd externals) the easy way with [Pd-Lua](https://github.com/agraef/pd-lua).
+
+- Custom graphics and data structure visualizations in Purr Data.
+
+        </abstract>
+        <description>
+This hands-on workshop is intended for Pd and Linux audio users who want to start using Purr Data. For an introduction to Purr Data, please check our [LAC17 presentation](https://www.youtube.com/watch?v=T1wo496Zx0s) and the [Quick Introduction](https://agraef.github.io/purr-data-intro). Topics of the 90 min workshop vary from the basics to the moderately advanced and include:
+
+- Getting a minimal Purr Data installation up and running quickly on Linux (compiling from source).
+
+- First-time setup (configuring MIDI and audio devices, setting up Pd-Lua).
+
+- Real-time audio and MIDI processing, making music with Purr Data.
+
+- Programming new objects (a.k.a. Pd externals) the easy way with [Pd-Lua](https://github.com/agraef/pd-lua).
+
+- Custom graphics and data structure visualizations in Purr Data.
+
+        </description>
+        <logo />
+        <persons>
+          <person id="21">Albert Gräf</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="6f134a86-0d7a-51dd-aaf7-7fbcf7e903a3" id="1">
+        <date>2018-06-08T20:30:00</date>
+        <start>20:30</start>
+        <duration>0:08</duration>
+        <room>mainhall</room>
+        <slug>lac2018-1-atlas_of_uncertainty</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Atlas Of Uncertainty</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Atlas of Uncertainty is an experimental music video based on the representation of 4 Classical elements, that typically refer to the concepts in Ancient Greece of water, fire, earth and aether, which were proposed to explain the nature and complexity of all matter in terms of simpler substances.
+The music that accompanies this computer generated video is a sonic continuum ranging from unaltered natural sounds to entirely new sounds - or, more poetically -- from the real world to the realm of the imagination. of the imagination.
+Heterogeneous inharmonic sound materials are explored through various techniques (granular, subtractive). The sounds and the images are here combined in well- identifiable gestures.
+
+The video received two HONORABLE MENTIONS in India and USA; and a prize as best short in Canada and has also been finalist in some competitions (ROMART BIENNALE 2017,
+Rome, Italy; MATERA INTERMEDIA 2017, Matera, ITALY);
+
+        </abstract>
+        <description>
+Atlas of Uncertainty is an experimental music video based on the representation of 4 Classical elements, that typically refer to the concepts in Ancient Greece of water, fire, earth and aether, which were proposed to explain the nature and complexity of all matter in terms of simpler substances.
+The music that accompanies this computer generated video is a sonic continuum ranging from unaltered natural sounds to entirely new sounds - or, more poetically -- from the real world to the realm of the imagination. of the imagination.
+Heterogeneous inharmonic sound materials are explored through various techniques (granular, subtractive). The sounds and the images are here combined in well- identifiable gestures.
+
+The video received two HONORABLE MENTIONS in India and USA; and a prize as best short in Canada and has also been finalist in some competitions (ROMART BIENNALE 2017,
+Rome, Italy; MATERA INTERMEDIA 2017, Matera, ITALY);
+
+        </description>
+        <logo />
+        <persons>
+          <person id="23">Massimo Vito Avantaggiato</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="6c4ed469-afa0-5966-8865-a20a53550bbb" id="29">
+        <date>2018-06-08T21:00:00</date>
+        <start>21:00</start>
+        <duration>0:10</duration>
+        <room>mainhall</room>
+        <slug>lac2018-29-memorie</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Memorie</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+This composition is made up of sounds that represent various moments of my childhood. In particular, I used sounds that still make me feel special emotions such as: the rain, the planes, the clamour of people, musical bands, the tick of old clocks, the glitches, etc. By listening to this piece I go back to that period of my life which I am particularly attached to and which unfortunately will not return any more.
+This composition has been realized with Linux KXstudio.
+        </abstract>
+        <description>
+This composition is made up of sounds that represent various moments of my childhood. In particular, I used sounds that still make me feel special emotions such as: the rain, the planes, the clamour of people, musical bands, the tick of old clocks, the glitches, etc. By listening to this piece I go back to that period of my life which I am particularly attached to and which unfortunately will not return any more.
+This composition has been realized with Linux KXstudio.
+        </description>
+        <logo />
+        <persons>
+          <person id="24">Massimo Fragalà</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="7ab1cd40-11ba-58fc-b99c-44dbfc16943c" id="16">
+        <date>2018-06-08T21:30:00</date>
+        <start>21:30</start>
+        <duration>0:15</duration>
+        <room>mainhall</room>
+        <slug>lac2018-16-shift</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>SHIFT</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+SHIFT (2014)
+psychoacoustic music for 140 oscillators
+
+SHIFT is rather a psychoacoustic than an electroacoustic piece. Because the usual musical aspects of composition, temporal structures or single sound events are secondary here. The focal point of this piece is the shifting attention during listening. The essential events in this piece are the individual moments when the attention of the listener detaches itself from the perceived sound which evolves only very slowly and which seems to be rather static for a long time.
+Looking for changes in the environment and being alerted by sudden events is the daily business of our brains - a heritage of our evolutionary history. We are adapting our senses to the slightest input changes if nothing else is happening. So even when there is just one and the same sound texture we tend to extract a foreground from a slowly changing background after a while - even when there is no real difference.
+The points of a change in the listeners perception, the detection - or rather invention - of events or objects, are highly individual here - they are not composed, they appear only in the heads of the listeners.
+My advice for listening to this piece is: do not try to analyze the sounds as you would do with other pieces but try to focus on how you listen to it - be attentive to your attention!
+
+This piece is generated in realtime with SuperCollider. It is based on additive synthesis techniques:
+there are 140 single sine oscillators which are always modulated in frequency, amplitude and spatial position. The modulation processes for all oscillators are basically the same but the do not happen exactly at the same time, they are spread over long time intervals - resulting in slowly evolving sound textures.
+The 140 generated audio signals are dynamically distributed in space by the software and adapted to as many as available loudspeakers in order to get a real immersive experience.
+        </abstract>
+        <description>
+SHIFT (2014)
+psychoacoustic music for 140 oscillators
+
+SHIFT is rather a psychoacoustic than an electroacoustic piece. Because the usual musical aspects of composition, temporal structures or single sound events are secondary here. The focal point of this piece is the shifting attention during listening. The essential events in this piece are the individual moments when the attention of the listener detaches itself from the perceived sound which evolves only very slowly and which seems to be rather static for a long time.
+Looking for changes in the environment and being alerted by sudden events is the daily business of our brains - a heritage of our evolutionary history. We are adapting our senses to the slightest input changes if nothing else is happening. So even when there is just one and the same sound texture we tend to extract a foreground from a slowly changing background after a while - even when there is no real difference.
+The points of a change in the listeners perception, the detection - or rather invention - of events or objects, are highly individual here - they are not composed, they appear only in the heads of the listeners.
+My advice for listening to this piece is: do not try to analyze the sounds as you would do with other pieces but try to focus on how you listen to it - be attentive to your attention!
+
+This piece is generated in realtime with SuperCollider. It is based on additive synthesis techniques:
+there are 140 single sine oscillators which are always modulated in frequency, amplitude and spatial position. The modulation processes for all oscillators are basically the same but the do not happen exactly at the same time, they are spread over long time intervals - resulting in slowly evolving sound textures.
+The 140 generated audio signals are dynamically distributed in space by the software and adapted to as many as available loudspeakers in order to get a real immersive experience.
+        </description>
+        <logo />
+        <persons>
+          <person id="25">Andre Bartetzki</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="d9864745-7ee1-5ee4-897a-b044d6ece6ad" id="55">
+        <date>2018-06-08T22:00:00</date>
+        <start>22:00</start>
+        <duration>0:08</duration>
+        <room>mainhall</room>
+        <slug>lac2018-55-dark_path_2_multichannel_vers</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Dark Path #2 (multichannel vers.)</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>None</abstract>
+        <description>None</description>
+        <logo />
+        <persons>
+          <person id="26">Anna Terzaroli</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="c933fba2-47fe-5c6c-9269-31d7fc02a750" id="45">
+        <date>2018-06-08T22:30:00</date>
+        <start>22:30</start>
+        <duration>0:09</duration>
+        <room>mainhall</room>
+        <slug>lac2018-45-bus_no_1</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Bus No. 1</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>None</abstract>
+        <description>None</description>
+        <logo />
+        <persons>
+          <person id="27">Helene Hedsund</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="5b3a9f31-41e6-5581-9a4e-30e33af8bc2f" id="51">
+        <date>2018-06-08T23:00:00</date>
+        <start>23:00</start>
+        <duration>0:11</duration>
+        <room>mainhall</room>
+        <slug>lac2018-51-iammix</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Iammix</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Electroacoustic 8-channel fixed media composition</abstract>
+        <description>Electroacoustic 8-channel fixed media composition</description>
+        <logo />
+        <persons>
+          <person id="28">Magnus Johansson</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="00fd8c56-524c-5bcc-9aa4-75fe2b54f35e" id="48">
+        <date>2018-06-08T23:30:00</date>
+        <start>23:30</start>
+        <duration>0:10</duration>
+        <room>mainhall</room>
+        <slug>lac2018-48-spycher</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Spycher</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>tape 8 ch</abstract>
+        <description>tape 8 ch</description>
+        <logo />
+        <persons>
+          <person id="29">Michele Del Prete</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+    </room>
+    <room name="ceminar">
+      <event guid="cbd1fa17-cb88-5cd2-844c-8b9e6c76a046" id="28">
+        <date>2018-06-08T12:00:00</date>
+        <start>12:00</start>
+        <duration>2:00</duration>
+        <room>ceminar</room>
+        <slug>lac2018-28-introduction_to_pmpd</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Introduction to pmpd</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Physical modelling is a synthesis technique where data is generated through emulating physical models, instead of using premade elements such as wave tables or recorded samples. Data based on physical models usually has a more “natural” expressivity, as it is based on rules similar to the physics of the natural world.
+This workshop introduces pmpd, a library by Cyrille Henry that implements a mass-spring system to build physical models. The data generated by the circuits can be used as control data for audio or video, or to synthetize sounds directly.
+The workshop will use the software Pure Data; the participants will receive commented didactic materials, which they will be able to later edit and tweak for their own use. To learn the concepts, experience in Pure Data isn’t necessary – although for further individual work it will be required.
+Partitipants should bring their own laptops and headphones.
+        </abstract>
+        <description>
+Physical modelling is a synthesis technique where data is generated through emulating physical models, instead of using premade elements such as wave tables or recorded samples. Data based on physical models usually has a more “natural” expressivity, as it is based on rules similar to the physics of the natural world.
+This workshop introduces pmpd, a library by Cyrille Henry that implements a mass-spring system to build physical models. The data generated by the circuits can be used as control data for audio or video, or to synthetize sounds directly.
+The workshop will use the software Pure Data; the participants will receive commented didactic materials, which they will be able to later edit and tweak for their own use. To learn the concepts, experience in Pure Data isn’t necessary – although for further individual work it will be required.
+Partitipants should bring their own laptops and headphones.
+        </description>
+        <logo />
+        <persons>
+          <person id="7">Joao Pais</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="1b870836-5cf6-563d-947d-019f59c30374" id="11">
+        <date>2018-06-08T14:30:00</date>
+        <start>14:30</start>
+        <duration>1:00</duration>
+        <room>ceminar</room>
+        <slug>lac2018-11-the_levtools_a_modular_toolset_in_purr_data_for_creating_and_teaching_electronic_music</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>The levTools – a modular toolset in purr data for creating and teaching electronic music</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+The levTools are a set of abstractions for Pure Data, that are primarily designed for teaching electronic music. Moreover, they have a huge creative potential for experienced pd-users or computer musicians in general, especially when working on linux-based OS. The flexible and open character of the modular toolset allows multiple approaches.
+The levTools are free and open source. They were developed by Marten Seedorf in the context of the Berlin based lev–project, an educational project focussing on electronic music culture.
+This workshop introduces the levTools.
+        </abstract>
+        <description>
+The levTools are a set of abstractions for Pure Data, that are primarily designed for teaching electronic music. Moreover, they have a huge creative potential for experienced pd-users or computer musicians in general, especially when working on linux-based OS. The flexible and open character of the modular toolset allows multiple approaches.
+The levTools are free and open source. They were developed by Marten Seedorf in the context of the Berlin based lev–project, an educational project focussing on electronic music culture.
+This workshop introduces the levTools.
+        </description>
+        <logo />
+        <persons>
+          <person id="18">Marten Seedorf</person>
+          <person id="19">Simon Steinhaus</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="c9c5ed0c-0b40-51db-a30f-ca6b72d83420" id="12">
+        <date>2018-06-08T17:00:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>ceminar</room>
+        <slug>lac2018-12-inbuilt_musicality</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Inbuilt Musicality</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>This Workshop demonstrates the use of the Yoshimi soft synthesiser as a platform for building entirely synthetic musical instruments, based on exploring the structure and interplay of defining traits within musical sound. Starting from characteristic overtones and spectral patterns as foundation, the specific body of the tone can be shaped by fine tuning the transients. Further techniques of transforming the sound are used to build a fabric of related sound layers and create a distinct voice, able to operate within the musical context of the composition.</abstract>
+        <description>This Workshop demonstrates the use of the Yoshimi soft synthesiser as a platform for building entirely synthetic musical instruments, based on exploring the structure and interplay of defining traits within musical sound. Starting from characteristic overtones and spectral patterns as foundation, the specific body of the tone can be shaped by fine tuning the transients. Further techniques of transforming the sound are used to build a fabric of related sound layers and create a distinct voice, able to operate within the musical context of the composition.</description>
+        <logo />
+        <persons>
+          <person id="20">Hermann Voßeler</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="649fbc91-42e9-5103-ba1d-66c4996a578f" id="57">
+        <date>2018-06-08T20:00:00</date>
+        <start>20:00</start>
+        <duration>4:00</duration>
+        <room>ceminar</room>
+        <slug>lac2018-57-caracoles_iv</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Caracoles IV</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Caracoles IV is an installation that uses interactive feedback systems to sonically explore modified conch shells known as a pututus, which are andean musical instruments fashioned out of conch shells. These instruments existed far before colonial occupation in the 15th century and work as a kind of cornet or trumpet, by adding an embouchure to the shell. However, this musical instrument is not created by a human alone, but is also the creation of a large snail which once inhabited it; it is the mollusc’s exoskeleton and home and it is shaped by its existence. When the snail dies, the spiral-shaped shell is emptied of its organic body and eventually appropriated by the instrument maker to fashion an instrument out of it. In this installation, a third appropriation takes place: I place a microphone in the embouchure and a speaker at the end of the spiral canal and connect them through a feedback system controlled by a Pure Data (Pd) patch running on a raspberry pi zero, all hidden inside the shell. The system detects resonant feedback frequencies and temporarily cancels them with filters to push the system to find another resonant frequency, and so on, generating in this way a sequence of resonant frequencies of the shell. This installation is also a play on the belief that conch shells are a way to listen to the sea. In fact, the shell acts as a filter and resonant cavity to our own bodies and spaces, thus, its resonant frequencies are activated by the presence of people in the installation space. In this way, each shell is a collaboration between humans, conch-shells and interactive systems, but also an interaction between all of the shells because each of them have their own acoustic properties, but their resonances are audible to each other, thus generating unpredictable sonic landscapes.</abstract>
+        <description>Caracoles IV is an installation that uses interactive feedback systems to sonically explore modified conch shells known as a pututus, which are andean musical instruments fashioned out of conch shells. These instruments existed far before colonial occupation in the 15th century and work as a kind of cornet or trumpet, by adding an embouchure to the shell. However, this musical instrument is not created by a human alone, but is also the creation of a large snail which once inhabited it; it is the mollusc’s exoskeleton and home and it is shaped by its existence. When the snail dies, the spiral-shaped shell is emptied of its organic body and eventually appropriated by the instrument maker to fashion an instrument out of it. In this installation, a third appropriation takes place: I place a microphone in the embouchure and a speaker at the end of the spiral canal and connect them through a feedback system controlled by a Pure Data (Pd) patch running on a raspberry pi zero, all hidden inside the shell. The system detects resonant feedback frequencies and temporarily cancels them with filters to push the system to find another resonant frequency, and so on, generating in this way a sequence of resonant frequencies of the shell. This installation is also a play on the belief that conch shells are a way to listen to the sea. In fact, the shell acts as a filter and resonant cavity to our own bodies and spaces, thus, its resonant frequencies are activated by the presence of people in the installation space. In this way, each shell is a collaboration between humans, conch-shells and interactive systems, but also an interaction between all of the shells because each of them have their own acoustic properties, but their resonances are audible to each other, thus generating unpredictable sonic landscapes.</description>
+        <logo />
+        <persons>
+          <person id="22">Jaime E Oliver La Rosa</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+    </room>
+    <room name="artistania">
+    </room>
+  </day>
+  <day index="3" date="2018-06-09" start="2018-06-09T10:00:00" end="2018-06-10T00:00:00">
+    <room name="mainhall">
+      <event guid="507805c6-08ca-5dd6-adae-ad0d0f5f24d7" id="102">
+        <date>2018-06-09T10:00:00</date>
+        <start>10:00</start>
+        <duration>1:00</duration>
+        <room>mainhall</room>
+        <slug>lac2018-102-keynote</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Keynote</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>TBA</abstract>
+        <description>TBA</description>
+        <logo />
+        <persons>
+          <person id="30">TBA</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="941d66c1-b9f8-5327-a157-44401fd3a554" id="42">
+        <date>2018-06-09T12:00:00</date>
+        <start>12:00</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-42-ableton_link_a_technology_to_synchronize_music_software</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Ableton Link – A technology to synchronize music software</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Ableton Link is a technology that synchronizes musical beat, tempo, phase, and start/stop commands across multiple applications running on one or more devices. Unlike conventional musical synchronization technologies, Link does not require master/client roles. Automatic discovery on a local area network enables a peer-to-peer system, which peers can join or leave at any time without disrupting others. Musical information is shared equally among peers, so any peer can start or stop while staying in time, or change the tempo, which is followed by all other peers.</abstract>
+        <description>Ableton Link is a technology that synchronizes musical beat, tempo, phase, and start/stop commands across multiple applications running on one or more devices. Unlike conventional musical synchronization technologies, Link does not require master/client roles. Automatic discovery on a local area network enables a peer-to-peer system, which peers can join or leave at any time without disrupting others. Musical information is shared equally among peers, so any peer can start or stop while staying in time, or change the tempo, which is followed by all other peers.</description>
+        <logo />
+        <persons>
+          <person id="33">Florian Goltz</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="2cdaa41a-1103-578d-a065-c2290927104f" id="43">
+        <date>2018-06-09T12:30:00</date>
+        <start>12:30</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-43-software_architecture_for_a_multiple_avb_listener_and_talker_scenario</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Software Architecture for a Multiple AVB Listener and Talker Scenario</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>This paper presents a design approach for an AVB network segment deploying two different types of AVB server for multiple parallel streams. The first type is an UDP proxy server and the second server type is a digital signal processing server. The Linux real time operating system configurations are discussed, as well as the software architecture itself and the integration of the Jack audio server. A proper operation of the JACK server, alongside two JACK clients, in this multiprocessing environment could be shown, although a persisting buffer leak prevents significant jitter and latency measurements. A coarse assessment shows however, that the operations are within reasonable bounds.</abstract>
+        <description>This paper presents a design approach for an AVB network segment deploying two different types of AVB server for multiple parallel streams. The first type is an UDP proxy server and the second server type is a digital signal processing server. The Linux real time operating system configurations are discussed, as well as the software architecture itself and the integration of the Jack audio server. A proper operation of the JACK server, alongside two JACK clients, in this multiprocessing environment could be shown, although a persisting buffer leak prevents significant jitter and latency measurements. A coarse assessment shows however, that the operations are within reasonable bounds.</description>
+        <logo />
+        <persons>
+          <person id="34">Christoph Kuhr</person>
+          <person id="35">Alexander Carôt</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="3435e7bd-8bab-59d8-b3d8-c7a0998567a5" id="39">
+        <date>2018-06-09T13:00:00</date>
+        <start>13:00</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-39-rtosc_realtime_safe_open_sound_control_messaging</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Rtosc - Realtime Safe Open Sound Control Messaging</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Audio applications which go beyond MIDI processing often utilize OSC (Open
+Sound Control) to communicate complex parameters and advanced operations.
+A variety of libraries offer solutions to network transportation of OSC
+messages and provide approaches for pattern matching the messages in dispatch.
+Dispatch however is performed inefficiently and manipulating OSC messages is
+oftentimes not realtime safe.
+rtosc was written to quickly dispatch and manipulate large quantities of OSC
+messages in realtime constrained environments.
+The fast dispatch is possible due to the internal tree representation as well
+as the use of perfect-minimal-hashing within the pattern matching phase of
+dispatch.
+
+The primary user of rtosc is the ZynAddSubFX project which uses OSC to map
+3,805,225 parameters and routinely dispatches bursts of up to 1,000 messages
+per second during normal audio processing.
+For audio application rtosc provides a simple OSC serialization toolset, the
+realtime safe dispatch mechanisms, a ringbuffer implementation, and a rich
+metadata system for representing application/library parameters.
+This combination is not available in any other OSC library at the time of
+writing.
+        </abstract>
+        <description>
+Audio applications which go beyond MIDI processing often utilize OSC (Open
+Sound Control) to communicate complex parameters and advanced operations.
+A variety of libraries offer solutions to network transportation of OSC
+messages and provide approaches for pattern matching the messages in dispatch.
+Dispatch however is performed inefficiently and manipulating OSC messages is
+oftentimes not realtime safe.
+rtosc was written to quickly dispatch and manipulate large quantities of OSC
+messages in realtime constrained environments.
+The fast dispatch is possible due to the internal tree representation as well
+as the use of perfect-minimal-hashing within the pattern matching phase of
+dispatch.
+
+The primary user of rtosc is the ZynAddSubFX project which uses OSC to map
+3,805,225 parameters and routinely dispatches bursts of up to 1,000 messages
+per second during normal audio processing.
+For audio application rtosc provides a simple OSC serialization toolset, the
+realtime safe dispatch mechanisms, a ringbuffer implementation, and a rich
+metadata system for representing application/library parameters.
+This combination is not available in any other OSC library at the time of
+writing.
+        </description>
+        <logo />
+        <persons>
+          <person id="16">Mark McCurry</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="a65613ee-0043-5f7a-8235-e80c481871e8" id="9">
+        <date>2018-06-09T14:30:00</date>
+        <start>14:30</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-9-chrysalis_interactive_sound_sculpture</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Chrysalis - Interactive Sound Sculpture</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Chrysalis is an interactive sound sculpture that relates sustainability, the link of the human being with his environment and the processes that it generates through time. The authors are Carla Colombini (sculptor), Martin Matus and Ezequiel Abregu (sound artists). The sound production system comprises three stages: Input - Process - Feedback. In this work are exposed the technical details of the sound device of the sculpture and the different stages implemented using, mostly, free software and open hardware.</abstract>
+        <description>Chrysalis is an interactive sound sculpture that relates sustainability, the link of the human being with his environment and the processes that it generates through time. The authors are Carla Colombini (sculptor), Martin Matus and Ezequiel Abregu (sound artists). The sound production system comprises three stages: Input - Process - Feedback. In this work are exposed the technical details of the sound device of the sculpture and the different stages implemented using, mostly, free software and open hardware.</description>
+        <logo />
+        <persons>
+          <person id="37">Ezequiel Abregu</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="28151dde-7ac8-5984-8188-5ad2049d5900" id="41">
+        <date>2018-06-09T14:30:00</date>
+        <start>14:30</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-41-ziggurat_a_step_sequencer_for_linux</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Ziggurat: A Step Sequencer for Linux</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>We introduce a new, standalone software sequencer based on the hardware step sequencers common in electronic music production. Ziggurat supports both ALSA and JACK MIDI, and features polymetric sequencing, flexible signal routing, and dynamic sequence manipulation for live performance. This poster presents the motivation, design goals, implementation and status of the project.</abstract>
+        <description>We introduce a new, standalone software sequencer based on the hardware step sequencers common in electronic music production. Ziggurat supports both ALSA and JACK MIDI, and features polymetric sequencing, flexible signal routing, and dynamic sequence manipulation for live performance. This poster presents the motivation, design goals, implementation and status of the project.</description>
+        <logo />
+        <persons>
+          <person id="38">Chris Chronopoulos</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="a421f5fb-5423-572d-a7e5-c12cb71628df" id="103">
+        <date>2018-06-09T15:00:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-103-lightning_talks</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Lightning Talks</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>A set of lightning talks by you!</abstract>
+        <description>A set of lightning talks by you!</description>
+        <logo />
+        <persons>
+          <person id="1">LAC team</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="5310292d-8d5e-5c7f-9786-71616794d8c0" id="26">
+        <date>2018-06-09T17:00:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>mainhall</room>
+        <slug>lac2018-26-understanding_and_being_creative_with_pure_data_s_data_structures</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Understanding and being creative with Pure Data’s data structures</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Pure Data’s data structures are one of the few core features that distinguish Pd from Max/MSP. Yet, they’re also one of the few modules which are used solely by a small group of users. The main reasons for this would be both the not yet very mature and complete collection of objects, as well as not very intuitive implementation in Pd’s language.
+This workshop illustrates the possibilities of Pd’s data structures as a fruitful companion to any Pd user interested in a closer and more flexible interaction with the graphical representation of data.
+The first part explains how to program with data structures (and their shortcomings). The second part analyses several examples of “real life” situations (display and control examples, up to complex patches to control / generate music in realtime).
+After this workshop, it should be clear how to program with data structures, and integrate them inindividual patches.
+        </abstract>
+        <description>
+Pure Data’s data structures are one of the few core features that distinguish Pd from Max/MSP. Yet, they’re also one of the few modules which are used solely by a small group of users. The main reasons for this would be both the not yet very mature and complete collection of objects, as well as not very intuitive implementation in Pd’s language.
+This workshop illustrates the possibilities of Pd’s data structures as a fruitful companion to any Pd user interested in a closer and more flexible interaction with the graphical representation of data.
+The first part explains how to program with data structures (and their shortcomings). The second part analyses several examples of “real life” situations (display and control examples, up to complex patches to control / generate music in realtime).
+After this workshop, it should be clear how to program with data structures, and integrate them inindividual patches.
+        </description>
+        <logo />
+        <persons>
+          <person id="7">Joao Pais</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+    </room>
+    <room name="ceminar">
+      <event guid="f986be37-20dc-5eb6-b874-2ff6bdd0a687" id="19">
+        <date>2018-06-09T11:30:00</date>
+        <start>11:30</start>
+        <duration>1:40</duration>
+        <room>ceminar</room>
+        <slug>lac2018-19-one_hour_challenge</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>One Hour Challenge</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>A challenge to produce a music track within 60 minutes. Participants get a short MIDI file as a starting point, and woA challenge to produce a music track within 60 minutes. Participants get a short MIDI file as a starting point, and work on their track using the tools and techniques of their choice. An excellent way to test your skills as a producer. As the participants can use the program of their choice, the one hour challenge shows the diversity of music composition in the community. The participants need to bring their own hardware and headphones.rk on their track using the tools and techniques of their choice. An excellent way to test your skills as a producer. As the participants can use the program of their choice, the one hour challenge shows the diversity of music composition in the community. The participants need to bring their own hardware and headphones.</abstract>
+        <description>A challenge to produce a music track within 60 minutes. Participants get a short MIDI file as a starting point, and woA challenge to produce a music track within 60 minutes. Participants get a short MIDI file as a starting point, and work on their track using the tools and techniques of their choice. An excellent way to test your skills as a producer. As the participants can use the program of their choice, the one hour challenge shows the diversity of music composition in the community. The participants need to bring their own hardware and headphones.rk on their track using the tools and techniques of their choice. An excellent way to test your skills as a producer. As the participants can use the program of their choice, the one hour challenge shows the diversity of music composition in the community. The participants need to bring their own hardware and headphones.</description>
+        <logo />
+        <persons>
+          <person id="31">Uroš Maravić</person>
+          <person id="32">David Vagt</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="71ef66ba-882a-54e4-acb0-90c07a0c8c63" id="4">
+        <date>2018-06-09T14:30:00</date>
+        <start>14:30</start>
+        <duration>1:30</duration>
+        <room>ceminar</room>
+        <slug>lac2018-4-yoshimi_live</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Yoshimi Live</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>This is a workshop for the Yoshimi soft-synth, and is intended to give an overview of ideas for using the synth at live venues.</abstract>
+        <description>This is a workshop for the Yoshimi soft-synth, and is intended to give an overview of ideas for using the synth at live venues.</description>
+        <logo />
+        <persons>
+          <person id="36">Will Godfrey</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="02b0ad5d-58d9-59e0-a443-19d33ce729b7" id="24">
+        <date>2018-06-09T17:00:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>ceminar</room>
+        <slug>lac2018-24-carla_plugin_host_feature_overview_and_workflows</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Carla Plugin Host - Feature overview and workflows</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Carla is a fully-featured audio plugin host with support for many plugin formats, featuring automation of plugin parameters via MIDI CC, remote control over OSC, among others.
+This workshop plans to give a quick overview of Carla and go through some workflows together with the audience.
+        </abstract>
+        <description>
+Carla is a fully-featured audio plugin host with support for many plugin formats, featuring automation of plugin parameters via MIDI CC, remote control over OSC, among others.
+This workshop plans to give a quick overview of Carla and go through some workflows together with the audience.
+        </description>
+        <logo />
+        <persons>
+          <person id="39">Filipe Coelho</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+    </room>
+    <room name="artistania">
+      <event guid="a09184d6-d5d5-5c7d-9dcb-2817b7f14009" id="17">
+        <date>2018-06-09T20:00:00</date>
+        <start>20:00</start>
+        <duration>4:00</duration>
+        <room>artistania</room>
+        <slug>lac2018-17-sentire</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Sentire</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Sentire is an Italian word that means both to hear and to feel. The project is about exploring the fine mixture of these two senses and, particularly, to their amplification and morphing.
+
+'Sentire' project was initiated by two Berlin-based artists Marcello Lussana and Olga Kozmanidze in 2016. The project consists of two parts: immersive performance series based on interactive sound and PhD research on human perception. In the course of the project we have been using a device (bracelets) connecting two people to the sound system and tracking distance and touch events between them. We apply and constantly develop a method of device usage according to which participants proceed through a scenario of two phases interaction. Depending on distance and touch between them different sounds are triggered and changing, creating an instant sound feedback. Gradually both hearing and sense of touch morth one into another giving a chance to perceive one's body on a deep level.
+
+The interactive system has been designed with the Supercollider software and it runs on Linux Mint.
+        </abstract>
+        <description>
+Sentire is an Italian word that means both to hear and to feel. The project is about exploring the fine mixture of these two senses and, particularly, to their amplification and morphing.
+
+'Sentire' project was initiated by two Berlin-based artists Marcello Lussana and Olga Kozmanidze in 2016. The project consists of two parts: immersive performance series based on interactive sound and PhD research on human perception. In the course of the project we have been using a device (bracelets) connecting two people to the sound system and tracking distance and touch events between them. We apply and constantly develop a method of device usage according to which participants proceed through a scenario of two phases interaction. Depending on distance and touch between them different sounds are triggered and changing, creating an instant sound feedback. Gradually both hearing and sense of touch morth one into another giving a chance to perceive one's body on a deep level.
+
+The interactive system has been designed with the Supercollider software and it runs on Linux Mint.
+        </description>
+        <logo />
+        <persons>
+          <person id="40">Marcello Lussana</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="63ae2c3e-c123-52e7-9047-36bd1d016532" id="49">
+        <date>2018-06-09T20:30:00</date>
+        <start>20:30</start>
+        <duration>0:10</duration>
+        <room>artistania</room>
+        <slug>lac2018-49-pick_it_up</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Pick It Up</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Composition for prepared electric guitar and live electronics (SuperCollider), with multichannel spatialization.</abstract>
+        <description>Composition for prepared electric guitar and live electronics (SuperCollider), with multichannel spatialization.</description>
+        <logo />
+        <persons>
+          <person id="41">Krzysztof Gawlas</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="073f743d-193e-56ac-8298-b23905983568" id="56">
+        <date>2018-06-09T21:00:00</date>
+        <start>21:00</start>
+        <duration>0:15</duration>
+        <room>artistania</room>
+        <slug>lac2018-56-txted_interactive_audio_visual_performance_using_open_source_musical_machine_learning_interaction</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>TXTED - interactive audio-visual performance using open-source musical machine learning interaction</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+This is a proposal to perform a new body of work using a new pitched percussion hyperinstrument system featuring a machine learning tool designed for music performance. All software was designed in Puredata and runs on a Raspberry Pi with multichannel audio in/out. The framework consists of custom idiomatic gesture interfaces and processing software for an electric lamellophone with embedded gesture sensing. The instrumental framework is accompanied by an interactive video synthesizer built in GEM and also running on a Raspberry Pi, networked together wirelessly. The project represents the culmination of the Phd research recently completed by the artist [1][2].
+
+1.Non-invasive sensing and gesture control for pitched percussion hyper-instruments using the Kinect.
+S Trail, M Dean, G Odowichuk, TF Tavares, PF Driessen, WA Schloss, G Tzanetakis. NIME 2012.
+
+2. El-Lamellophone A Low-cost, DIY, Open Framework for Acoustic Lemellophone Based Hyperinstruments.
+S Trail, D MacConnell, L Jenkins, J Snyder, G Tzanetakis, PF Driessen. NIME, 2014.
+        </abstract>
+        <description>
+This is a proposal to perform a new body of work using a new pitched percussion hyperinstrument system featuring a machine learning tool designed for music performance. All software was designed in Puredata and runs on a Raspberry Pi with multichannel audio in/out. The framework consists of custom idiomatic gesture interfaces and processing software for an electric lamellophone with embedded gesture sensing. The instrumental framework is accompanied by an interactive video synthesizer built in GEM and also running on a Raspberry Pi, networked together wirelessly. The project represents the culmination of the Phd research recently completed by the artist [1][2].
+
+1.Non-invasive sensing and gesture control for pitched percussion hyper-instruments using the Kinect.
+S Trail, M Dean, G Odowichuk, TF Tavares, PF Driessen, WA Schloss, G Tzanetakis. NIME 2012.
+
+2. El-Lamellophone A Low-cost, DIY, Open Framework for Acoustic Lemellophone Based Hyperinstruments.
+S Trail, D MacConnell, L Jenkins, J Snyder, G Tzanetakis, PF Driessen. NIME, 2014.
+        </description>
+        <logo />
+        <persons>
+          <person id="42">Shawn Trail</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="1ea6c172-ab94-5edb-97e1-a97e858da8b4" id="27">
+        <date>2018-06-09T21:30:00</date>
+        <start>21:30</start>
+        <duration>0:15</duration>
+        <room>artistania</room>
+        <slug>lac2018-27-gestural_performance_2</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Gestural Performance 2</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>This semi-improvised performance is the next step of an ongoing research for a gestural performance instrument being developed by Pais. Using the LeapMotion sensor together with custom-made gesture interpretation and synthesis objects in Pure Data, the expressiveness of the performer's hand movements is reflected in the expressiveness of the sound that is produced and in its integration in space in a multichannel setup. The aim is to produce a developing event, where the gestures visible to the audience acquire a new meaning in each new sound context present in during the performance.</abstract>
+        <description>This semi-improvised performance is the next step of an ongoing research for a gestural performance instrument being developed by Pais. Using the LeapMotion sensor together with custom-made gesture interpretation and synthesis objects in Pure Data, the expressiveness of the performer's hand movements is reflected in the expressiveness of the sound that is produced and in its integration in space in a multichannel setup. The aim is to produce a developing event, where the gestures visible to the audience acquire a new meaning in each new sound context present in during the performance.</description>
+        <logo />
+        <persons>
+          <person id="7">Joao Pais</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="750ed88f-1237-56a0-8023-d1dda9c6c5c0" id="21">
+        <date>2018-06-09T22:00:00</date>
+        <start>22:00</start>
+        <duration>0:10</duration>
+        <room>artistania</room>
+        <slug>lac2018-21-cosmo</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>COSMO</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+COSMO Collective is an open musical collaboration for musicians using DIY electronics and custom software written in Csound. There is no definite musical style, though it could perhaps be characterized as electro-acoustic
+improvisation. The focus is on the exploration of sound and timbre, rather than traditional harmonics and rhythm, and exploiting the powers of Csound in this pursuit.
+        </abstract>
+        <description>
+COSMO Collective is an open musical collaboration for musicians using DIY electronics and custom software written in Csound. There is no definite musical style, though it could perhaps be characterized as electro-acoustic
+improvisation. The focus is on the exploration of sound and timbre, rather than traditional harmonics and rhythm, and exploiting the powers of Csound in this pursuit.
+        </description>
+        <logo />
+        <persons>
+          <person id="43">Felix Hofmann</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="c48d7b3d-10dc-55fe-a37f-1bc8029988b7" id="23">
+        <date>2018-06-09T22:30:00</date>
+        <start>22:30</start>
+        <duration>0:15</duration>
+        <room>artistania</room>
+        <slug>lac2018-23-tessellations</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Tessellations</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Tessellations plays with the repetition of material generated by manipulating the interval structure of the chord and submitting it to short processes that I generate myself in Python and execute them inside PD with the py object. This piece is an experimentation on the way I link time, material and narrative. The “tessellated” object not only morphs the musical material but also the space where it occurs and the performer responsible for it – player or computer –. Furthermore, the piece has 2 solos, one in which the performer improvises based on visual cues and musical anchor points, and the other which was generated algorithmically and is “written” on the score, this incorporates the idea of the act of composition as the tessellated object itself.</abstract>
+        <description>Tessellations plays with the repetition of material generated by manipulating the interval structure of the chord and submitting it to short processes that I generate myself in Python and execute them inside PD with the py object. This piece is an experimentation on the way I link time, material and narrative. The “tessellated” object not only morphs the musical material but also the space where it occurs and the performer responsible for it – player or computer –. Furthermore, the piece has 2 solos, one in which the performer improvises based on visual cues and musical anchor points, and the other which was generated algorithmically and is “written” on the score, this incorporates the idea of the act of composition as the tessellated object itself.</description>
+        <logo />
+        <persons>
+          <person id="44">José Rafael Subía Valdez</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="d47b09a5-145d-5109-9780-73e2c68f78e0" id="22">
+        <date>2018-06-09T23:00:00</date>
+        <start>23:00</start>
+        <duration>0:20</duration>
+        <room>artistania</room>
+        <slug>lac2018-22-mathr_performs_with_clive</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>mathr performs with Clive</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Claude Heiland-Allen (https://mathr.co.uk) is an artist from London interested in the complex emergent behaviour of simple systems, unusual geometries, and mathematical aesthetics.
+
+Clive is an audio live-coding skeleton, implemented in C. It supports a two-phase edit-commit coding cycle allowing long-lived signal processing graphs to be modified without interrupting the sound.
+
+Performance with Clive usually involves pre-preparation, from simple unit generators up to more complete compositions. The live-coding aspect involves editing a file in the performer’s favourite text editor, with the act of saving with Ctrl-S or other shortcut being timed to allow the new code to start executing in sync after the latency of compilation.
+        </abstract>
+        <description>
+Claude Heiland-Allen (https://mathr.co.uk) is an artist from London interested in the complex emergent behaviour of simple systems, unusual geometries, and mathematical aesthetics.
+
+Clive is an audio live-coding skeleton, implemented in C. It supports a two-phase edit-commit coding cycle allowing long-lived signal processing graphs to be modified without interrupting the sound.
+
+Performance with Clive usually involves pre-preparation, from simple unit generators up to more complete compositions. The live-coding aspect involves editing a file in the performer’s favourite text editor, with the act of saving with Ctrl-S or other shortcut being timed to allow the new code to start executing in sync after the latency of compilation.
+        </description>
+        <logo />
+        <persons>
+          <person id="45">Claude Heiland-Allen</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="b60cbc0f-9f28-5d28-a928-501c0f7b2152" id="47">
+        <date>2018-06-09T23:30:00</date>
+        <start>23:30</start>
+        <duration>0:15</duration>
+        <room>artistania</room>
+        <slug>lac2018-47-the_electronic_orchestra_berlin_the_metaphysics_of_notation</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>The Electronic Orchestra Berlin: The Metaphysics of Notation</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+12 electronic and electroacoustic instruments, live
+spatialized on a 12-speaker system - the Electronic
+Orchestra Charlottenburg (EOC), a project of the Electronic
+Music Studio at TU Berlin, explores means of organizing and
+spatializing the seemingly infinite diversity of electronic
+sounds in a larger ensemble.
+
+The Metaphysics of Notation (2008), by Mark Applebaum, is a
+graphical score with a length of 22 meters, divided into 12
+panels.For the interpretation of the score, each instrument is assigned one or several panels. The piece is performed
+without a fixed time grid.
+The performance will be spatialized using the SSR, PD and
+Python, running on a Linux Server with Ubuntu Studio. The
+server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with a RME MADI card and several AD/DA converters.
+        </abstract>
+        <description>
+12 electronic and electroacoustic instruments, live
+spatialized on a 12-speaker system - the Electronic
+Orchestra Charlottenburg (EOC), a project of the Electronic
+Music Studio at TU Berlin, explores means of organizing and
+spatializing the seemingly infinite diversity of electronic
+sounds in a larger ensemble.
+
+The Metaphysics of Notation (2008), by Mark Applebaum, is a
+graphical score with a length of 22 meters, divided into 12
+panels.For the interpretation of the score, each instrument is assigned one or several panels. The piece is performed
+without a fixed time grid.
+The performance will be spatialized using the SSR, PD and
+Python, running on a Linux Server with Ubuntu Studio. The
+server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with a RME MADI card and several AD/DA converters.
+        </description>
+        <logo />
+        <persons>
+          <person id="46">Henrik von Coler</person>
+          <person id="47">David Runge</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+    </room>
+  </day>
+  <day index="4" date="2018-06-10" start="2018-06-10T11:00:00" end="2018-06-10T17:00:00">
+    <room name="mainhall">
+      <event guid="0cebf60f-0411-5ac1-a647-945f42c793fe" id="46">
+        <date>2018-06-10T11:00:00</date>
+        <start>11:00</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-46-jacktools_realtime_audio_processors_as_python_classes</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Jacktools - Realtime Audio Processors as Python Classes</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>This paper introduces a set of real-time audio processing blocks that can be used as components in Python scripts. Each of them is both a Jack client and a Python class. The full power of Python can be used to control these modules, to combine them into systems of arbitrary complexity, and to interface them to anything that can be controlled from Python. The rationale behind this approach, some of the the implementations details, and possible applications are discussed.</abstract>
+        <description>This paper introduces a set of real-time audio processing blocks that can be used as components in Python scripts. Each of them is both a Jack client and a Python class. The full power of Python can be used to control these modules, to combine them into systems of arbitrary complexity, and to interface them to anything that can be controlled from Python. The rationale behind this approach, some of the the implementations details, and possible applications are discussed.</description>
+        <logo />
+        <persons>
+          <person id="50">Fons Adriaensen</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="73f97a6e-a0b7-5ba1-9005-6758eb053687" id="54">
+        <date>2018-06-10T11:30:00</date>
+        <start>11:30</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-54-distributed_time_centric_apis_with_clapi</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Distributed time-centric APIs with CLAPI</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Distributed control of applications by multiple simultaneous devices has traditionally been achieved via protocols such as MIDI or OSC. These simple protocols require additional semantics, often communicated out of band, in order to construct meaningful APIs.
+We present the Concert Light-weight API (CLAPI) framework: a session-based pub/sub API framework that aims to simplify the definition and usage of semantic, time-centric distributed controls.
+        </abstract>
+        <description>
+Distributed control of applications by multiple simultaneous devices has traditionally been achieved via protocols such as MIDI or OSC. These simple protocols require additional semantics, often communicated out of band, in order to construct meaningful APIs.
+We present the Concert Light-weight API (CLAPI) framework: a session-based pub/sub API framework that aims to simplify the definition and usage of semantic, time-centric distributed controls.
+        </description>
+        <logo />
+        <persons>
+          <person id="51">Paul Weaver</person>
+          <person id="52">David Honour</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="1d09e62a-d833-5ef3-800a-836d61167bc2" id="34">
+        <date>2018-06-10T12:00:00</date>
+        <start>12:00</start>
+        <duration>1:00</duration>
+        <room>mainhall</room>
+        <slug>lac2018-34-pro_audio_on_arch_linux_revisited</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Pro-audio on Arch Linux (revisited)</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+This workshop will be a recap and show-case on pro-audio packaging and end-user appliances on Arch Linux. The emphasis will be on direct best practices and use-cases, beginning with a short introduction to important changes applied to the [community] repository over the past months.
+The workshop is meant as an entry point for long standing, new or only interested (and maybe soon to be) Arch Linux users to the use of pro-audio software.
+        </abstract>
+        <description>
+This workshop will be a recap and show-case on pro-audio packaging and end-user appliances on Arch Linux. The emphasis will be on direct best practices and use-cases, beginning with a short introduction to important changes applied to the [community] repository over the past months.
+The workshop is meant as an entry point for long standing, new or only interested (and maybe soon to be) Arch Linux users to the use of pro-audio software.
+        </description>
+        <logo />
+        <persons>
+          <person id="47">David Runge</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="1b46ae11-77b9-5203-b46c-463331a8de66" id="31">
+        <date>2018-06-10T14:00:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>mainhall</room>
+        <slug>lac2018-31-aama_diy_hoa_microphone_kits_with_linux</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>AAMA  - DIY HOA microphone kits with Linux</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+The overall target is the making of affordable DIY Ambisonics field recorders with individual flair.
+One central part of this aim is the "Affordable Ambisonics Microphones Array" (AAMA).
+The usage of an embedded Linux computer simplified and accelerated the development of individual solutions of Ambisonics Microphones.
+Extensions to the embedded Linux systems as capes or modules are developed to interface and manage the microphone arrays.
+Also micro-controller usage for intermediate interfacing Linux computers is in focus.
+Sensors enhancing the usage of these higher order Ambisonics microphone arrays, combined with corresponding software tools enables the construction of your individual Ambisonics microphone array instance.
+        </abstract>
+        <description>
+The overall target is the making of affordable DIY Ambisonics field recorders with individual flair.
+One central part of this aim is the "Affordable Ambisonics Microphones Array" (AAMA).
+The usage of an embedded Linux computer simplified and accelerated the development of individual solutions of Ambisonics Microphones.
+Extensions to the embedded Linux systems as capes or modules are developed to interface and manage the microphone arrays.
+Also micro-controller usage for intermediate interfacing Linux computers is in focus.
+Sensors enhancing the usage of these higher order Ambisonics microphone arrays, combined with corresponding software tools enables the construction of your individual Ambisonics microphone array instance.
+        </description>
+        <logo />
+        <persons>
+          <person id="53">Winfried Ritsch</person>
+          <person id="54">Paul Tirk</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="70d43993-3f4d-5b18-8303-703bdfe41e85" id="36">
+        <date>2018-06-10T16:00:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>mainhall</room>
+        <slug>lac2018-36-lmms_1_2_changes_and_improvements</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>LMMS 1.2: Changes and Improvements</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>A workshop focused on showcasing the new features and improvements of LMMS version 1.2 as well as an open discussion on the future of the software itself. The workshop is suitable for musicians and developers alike.</abstract>
+        <description>A workshop focused on showcasing the new features and improvements of LMMS version 1.2 as well as an open discussion on the future of the software itself. The workshop is suitable for musicians and developers alike.</description>
+        <logo />
+        <persons>
+          <person id="31">Uroš Maravić</person>
+          <person id="56">Tres Finocchiaro</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+    </room>
+    <room name="ceminar">
+      <event guid="7388bd9b-e82c-5f4d-988a-4e293c165f81" id="30">
+        <date>2018-06-10T11:00:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>ceminar</room>
+        <slug>lac2018-30-how_to_create_real_time_audio_appliances_with_debian_gnu_linux</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>How to create real-time audio appliances with Debian GNU/Linux</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>This hands-on workshop will introduce participants to methods for creating single-purpose GNU/Linux distributions for inexpensive ARM boards like the Raspberry Pi 3, and open source hardware including the BeagleBone Black. There will be an emphasis on optimising performance for demanding real-time audio applications such as xwax, as used in the PiDeck[1] project. Issues of maintainability, field upgrades and security will also be covered.</abstract>
+        <description>This hands-on workshop will introduce participants to methods for creating single-purpose GNU/Linux distributions for inexpensive ARM boards like the Raspberry Pi 3, and open source hardware including the BeagleBone Black. There will be an emphasis on optimising performance for demanding real-time audio applications such as xwax, as used in the PiDeck[1] project. Issues of maintainability, field upgrades and security will also be covered.</description>
+        <logo />
+        <persons>
+          <person id="48">Daniel James</person>
+          <person id="49">Christopher Obbard</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="d360b86d-4efa-5caa-a6a3-87fde4b48cdf" id="33">
+        <date>2018-06-10T14:00:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>ceminar</room>
+        <slug>lac2018-33-qjackctl_considered_harmful</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>QjackCtl Considered Harmful</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+The proposed talk/workshop is yet again the follow-up on the tradition of LAC2013@IEM-Graz, LAC2014@ZKM-Karlsruhe, LAC2015@JGU-Mainz, LAC2016@c-base.org-Berlin and LAC2017@UJM-St.Etienne, as an informal manifest (but not exclusive) to the Qstuff* software collection. The future of QjackCtl [1] and the JACK-Audio-Connectionm-Kit, as the main Linux Audio infrastructure, shall be the main subject. Yours truly Qtractor [7], an audio/MIDI multi-track sequencer should be also of concern for discussion. All developers and users are kindly invited to discuss, complain and more importantly, exchange thoughts about the present, future and legacy of all the Qstuff*.
+
+References:
+
+[1] QjackCtl - A JACK Audio Connection Kit Qt GUI Interface
+https://qjackctl.sourceforge.io
+
+[2] Qsynth - A fluidsynth Qt GUI Interface
+https://qsynth.sourceforge.io
+
+[3] Qsampler - A LinuxSampler Qt GUI Interface
+https://qsampler.sourceforge.io
+
+[4] QXGEdit - A Qt XG Editor
+https://qxgedit.sourceforge.io
+
+[5] QmidiCtl - A MIDI Remote Controller via UDP/IP Multicast
+https://qmidictl.sourceforge.io
+
+[6] QmidiNet - A MIDI Network Gateway via UDP/IP Multicast
+https://qmidinet.sourceforge.io
+
+[7] Qtractor - An audio/MIDI multi-track sequencer
+https://qtractor.sourceforge.io
+
+[8] synthv1 - an old-school polyphonic synthesizer
+https://synthv1.sourceforge.io
+
+[9] samplv1 - an old-school polyphonic sampler
+https://samplv1.sourceforge.io
+
+[10] drumkv1 - an old-school drum-kit sampler
+https://drumkv1.sourceforge.io
+
+[11] padthv1 - an old-school polyphonic additive synthesizer
+https://padthv1.sourceforge.io
+
+        </abstract>
+        <description>
+The proposed talk/workshop is yet again the follow-up on the tradition of LAC2013@IEM-Graz, LAC2014@ZKM-Karlsruhe, LAC2015@JGU-Mainz, LAC2016@c-base.org-Berlin and LAC2017@UJM-St.Etienne, as an informal manifest (but not exclusive) to the Qstuff* software collection. The future of QjackCtl [1] and the JACK-Audio-Connectionm-Kit, as the main Linux Audio infrastructure, shall be the main subject. Yours truly Qtractor [7], an audio/MIDI multi-track sequencer should be also of concern for discussion. All developers and users are kindly invited to discuss, complain and more importantly, exchange thoughts about the present, future and legacy of all the Qstuff*.
+
+References:
+
+[1] QjackCtl - A JACK Audio Connection Kit Qt GUI Interface
+https://qjackctl.sourceforge.io
+
+[2] Qsynth - A fluidsynth Qt GUI Interface
+https://qsynth.sourceforge.io
+
+[3] Qsampler - A LinuxSampler Qt GUI Interface
+https://qsampler.sourceforge.io
+
+[4] QXGEdit - A Qt XG Editor
+https://qxgedit.sourceforge.io
+
+[5] QmidiCtl - A MIDI Remote Controller via UDP/IP Multicast
+https://qmidictl.sourceforge.io
+
+[6] QmidiNet - A MIDI Network Gateway via UDP/IP Multicast
+https://qmidinet.sourceforge.io
+
+[7] Qtractor - An audio/MIDI multi-track sequencer
+https://qtractor.sourceforge.io
+
+[8] synthv1 - an old-school polyphonic synthesizer
+https://synthv1.sourceforge.io
+
+[9] samplv1 - an old-school polyphonic sampler
+https://samplv1.sourceforge.io
+
+[10] drumkv1 - an old-school drum-kit sampler
+https://drumkv1.sourceforge.io
+
+[11] padthv1 - an old-school polyphonic additive synthesizer
+https://padthv1.sourceforge.io
+
+        </description>
+        <logo />
+        <persons>
+          <person id="55">Rui Nuno Capela</person>
+        </persons>
+        <video_download_url> </video_download_url>
+      </event>
+    </room>
+    <room name="artistania">
+    </room>
+  </day>
+</schedule>
