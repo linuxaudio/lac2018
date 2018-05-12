@@ -30,22 +30,22 @@ SUMMARY:Introduction to pmpd
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Joao Pais\nType: Workshop\nTopics: Audio and Music Lang
- uages\, Signal Processing and Sound Synthesis\nKeywords: pure data\, physi
- cal modelling\, pmpd\, audio+video control\nAbstract: Physical modelling i
- s a synthesis technique where data is generated through emulating physical
-  models\, instead of using premade elements such as wave tables or recorde
- d samples. Data based on physical models usually has a more “natural” 
- expressivity\, as it is based on rules similar to the physics of the natur
- al world.\nThis workshop introduces pmpd\, a library by Cyrille Henry that
-  implements a mass-spring system to build physical models. The data genera
- ted by the circuits can be used as control data for audio or video\, or to
-  synthetize sounds directly.\nThe workshop will use the software Pure Data
- \; the participants will receive commented didactic materials\, which they
-  will be able to later edit and tweak for their own use. To learn the conc
- epts\, experience in Pure Data isn’t necessary – although for further 
- individual work it will be required.\nPartitipants should bring their own 
- laptops and headphones.\nID: 28
+DESCRIPTION:Author: 7:Joao Pais\nType: Workshop\nTopics: Audio and Music La
+ nguages\, Signal Processing and Sound Synthesis\nKeywords: pure data\, phy
+ sical modelling\, pmpd\, audio+video control\nAbstract: Physical modelling
+  is a synthesis technique where data is generated through emulating physic
+ al models\, instead of using premade elements such as wave tables or recor
+ ded samples. Data based on physical models usually has a more “natural
+ ” expressivity\, as it is based on rules similar to the physics of the n
+ atural world.\nThis workshop introduces pmpd\, a library by Cyrille Henry 
+ that implements a mass-spring system to build physical models. The data ge
+ nerated by the circuits can be used as control data for audio or video\, o
+ r to synthetize sounds directly.\nThe workshop will use the software Pure 
+ Data\; the participants will receive commented didactic materials\, which 
+ they will be able to later edit and tweak for their own use. To learn the 
+ concepts\, experience in Pure Data isn’t necessary – although for furt
+ her individual work it will be required.\nPartitipants should bring their 
+ own laptops and headphones.\nID: 28
 DTSTART;TZID=Europe/Berlin:20180608T120000
 DTEND;TZID=Europe/Berlin:20180608T140000
 END:VEVENT
@@ -58,21 +58,21 @@ SUMMARY:One Hour Challenge
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Uroš Maravić & David Vagt\nType: Workshop\nTopics: Mu
- sic Production\nKeywords: Challenge\, Music Production\, Community\, Fun\n
- Abstract: A challenge to produce a music track within 60 minutes. Particip
- ants get a short MIDI file as a starting point\, and woA challenge to prod
- uce a music track within 60 minutes. Participants get a short MIDI file as
-  a starting point\, and work on their track using the tools and techniques
-  of their choice. An excellent way to test your skills as a producer. As t
- he participants can use the program of their choice\, the one hour challen
- ge shows the diversity of music composition in the community. The particip
- ants need to bring their own hardware and headphones.rk on their track usi
- ng the tools and techniques of their choice. An excellent way to test your
-  skills as a producer. As the participants can use the program of their ch
- oice\, the one hour challenge shows the diversity of music composition in 
- the community. The participants need to bring their own hardware and headp
- hones.\nID: 19
+DESCRIPTION:Author: 31:Uroš Maravić| 32:David Vagt\nType: Workshop\nTopic
+ s: Music Production\nKeywords: Challenge\, Music Production\, Community\, 
+ Fun\nAbstract: A challenge to produce a music track within 60 minutes. Par
+ ticipants get a short MIDI file as a starting point\, and woA challenge to
+  produce a music track within 60 minutes. Participants get a short MIDI fi
+ le as a starting point\, and work on their track using the tools and techn
+ iques of their choice. An excellent way to test your skills as a producer.
+  As the participants can use the program of their choice\, the one hour ch
+ allenge shows the diversity of music composition in the community. The par
+ ticipants need to bring their own hardware and headphones.rk on their trac
+ k using the tools and techniques of their choice. An excellent way to test
+  your skills as a producer. As the participants can use the program of the
+ ir choice\, the one hour challenge shows the diversity of music compositio
+ n in the community. The participants need to bring their own hardware and 
+ headphones.\nID: 19
 DTSTART;TZID=Europe/Berlin:20180609T113000
 DTEND;TZID=Europe/Berlin:20180609T131000
 END:VEVENT
@@ -85,31 +85,31 @@ SUMMARY:QjackCtl Considered Harmful
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Rui Nuno Capela\nType: Workshop\nTopics: Projects Reali
- zed using Linux Audio\nKeywords: qstuff\, qjackctl\, qtractor\, rncbc.org\
- nAbstract: The proposed talk/workshop is yet again the follow-up on the tr
- adition of LAC2013@IEM-Graz\, LAC2014@ZKM-Karlsruhe\, LAC2015@JGU-Mainz\, 
- LAC2016@c-base.org-Berlin and LAC2017@UJM-St.Etienne\, as an informal mani
- fest (but not exclusive) to the Qstuff* software collection. The future of
-  QjackCtl [1] and the JACK-Audio-Connectionm-Kit\, as the main Linux Audio
-  infrastructure\, shall be the main subject. Yours truly Qtractor [7]\, an
-  audio/MIDI multi-track sequencer should be also of concern for discussion
- . All developers and users are kindly invited to discuss\, complain and mo
- re importantly\, exchange thoughts about the present\, future and legacy o
- f all the Qstuff*.\n\nReferences:\n\n[1] QjackCtl - A JACK Audio Connectio
- n Kit Qt GUI Interface\nhttps://qjackctl.sourceforge.io\n\n[2] Qsynth - A 
- fluidsynth Qt GUI Interface\nhttps://qsynth.sourceforge.io\n\n[3] Qsampler
-  - A LinuxSampler Qt GUI Interface\nhttps://qsampler.sourceforge.io\n\n[4]
-  QXGEdit - A Qt XG Editor\nhttps://qxgedit.sourceforge.io\n\n[5] QmidiCtl 
- - A MIDI Remote Controller via UDP/IP Multicast\nhttps://qmidictl.sourcefo
- rge.io\n\n[6] QmidiNet - A MIDI Network Gateway via UDP/IP Multicast\nhttp
- s://qmidinet.sourceforge.io\n\n[7] Qtractor - An audio/MIDI multi-track se
- quencer\nhttps://qtractor.sourceforge.io\n\n[8] synthv1 - an old-school po
- lyphonic synthesizer\nhttps://synthv1.sourceforge.io\n\n[9] samplv1 - an o
- ld-school polyphonic sampler\nhttps://samplv1.sourceforge.io\n\n[10] drumk
- v1 - an old-school drum-kit sampler\nhttps://drumkv1.sourceforge.io\n\n[11
- ] padthv1 - an old-school polyphonic additive synthesizer\nhttps://padthv1
- .sourceforge.io\n\nID: 33
+DESCRIPTION:Author: 55:Rui Nuno Capela\nType: Workshop\nTopics: Projects Re
+ alized using Linux Audio\nKeywords: qstuff\, qjackctl\, qtractor\, rncbc.o
+ rg\nAbstract: The proposed talk/workshop is yet again the follow-up on the
+  tradition of LAC2013@IEM-Graz\, LAC2014@ZKM-Karlsruhe\, LAC2015@JGU-Mainz
+ \, LAC2016@c-base.org-Berlin and LAC2017@UJM-St.Etienne\, as an informal m
+ anifest (but not exclusive) to the Qstuff* software collection. The future
+  of QjackCtl [1] and the JACK-Audio-Connectionm-Kit\, as the main Linux Au
+ dio infrastructure\, shall be the main subject. Yours truly Qtractor [7]\,
+  an audio/MIDI multi-track sequencer should be also of concern for discuss
+ ion. All developers and users are kindly invited to discuss\, complain and
+  more importantly\, exchange thoughts about the present\, future and legac
+ y of all the Qstuff*.\n\nReferences:\n\n[1] QjackCtl - A JACK Audio Connec
+ tion Kit Qt GUI Interface\nhttps://qjackctl.sourceforge.io\n\n[2] Qsynth -
+  A fluidsynth Qt GUI Interface\nhttps://qsynth.sourceforge.io\n\n[3] Qsamp
+ ler - A LinuxSampler Qt GUI Interface\nhttps://qsampler.sourceforge.io\n\n
+ [4] QXGEdit - A Qt XG Editor\nhttps://qxgedit.sourceforge.io\n\n[5] QmidiC
+ tl - A MIDI Remote Controller via UDP/IP Multicast\nhttps://qmidictl.sourc
+ eforge.io\n\n[6] QmidiNet - A MIDI Network Gateway via UDP/IP Multicast\nh
+ ttps://qmidinet.sourceforge.io\n\n[7] Qtractor - An audio/MIDI multi-track
+  sequencer\nhttps://qtractor.sourceforge.io\n\n[8] synthv1 - an old-school
+  polyphonic synthesizer\nhttps://synthv1.sourceforge.io\n\n[9] samplv1 - a
+ n old-school polyphonic sampler\nhttps://samplv1.sourceforge.io\n\n[10] dr
+ umkv1 - an old-school drum-kit sampler\nhttps://drumkv1.sourceforge.io\n\n
+ [11] padthv1 - an old-school polyphonic additive synthesizer\nhttps://padt
+ hv1.sourceforge.io\n\nID: 33
 DTSTART;TZID=Europe/Berlin:20180610T140000
 DTEND;TZID=Europe/Berlin:20180610T153000
 END:VEVENT
@@ -123,18 +123,18 @@ SUMMARY:The levTools – a modular toolset in purr data for creating and te
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Marten Seedorf & Simon Steinhaus\nType: Workshop\nTopic
- s: Education and E-Learning\, Live Performance\, Music Production\, Signal
-  Processing and Sound Synthesis\nKeywords: education\, sound synthesis\, p
- ure data\, purr data\, modular\, toolset\nAbstract: The levTools are a set
-  of abstractions for Pure Data\, that are primarily designed for teaching 
- electronic music. Moreover\, they have a huge creative potential for exper
- ienced pd-users or computer musicians in general\, especially when working
-  on linux-based OS. The flexible and open character of the modular toolset
-  allows multiple approaches.\nThe levTools are free and open source. They 
- were developed by Marten Seedorf in the context of the Berlin based lev–
- project\, an educational project focussing on electronic music culture.\nT
- his workshop introduces the levTools.\nID: 11
+DESCRIPTION:Author: 18:Marten Seedorf| 19:Simon Steinhaus\nType: Workshop\n
+ Topics: Education and E-Learning\, Live Performance\, Music Production\, S
+ ignal Processing and Sound Synthesis\nKeywords: education\, sound synthesi
+ s\, pure data\, purr data\, modular\, toolset\nAbstract: The levTools are 
+ a set of abstractions for Pure Data\, that are primarily designed for teac
+ hing electronic music. Moreover\, they have a huge creative potential for 
+ experienced pd-users or computer musicians in general\, especially when wo
+ rking on linux-based OS. The flexible and open character of the modular to
+ olset allows multiple approaches.\nThe levTools are free and open source. 
+ They were developed by Marten Seedorf in the context of the Berlin based l
+ ev–project\, an educational project focussing on electronic music cultur
+ e.\nThis workshop introduces the levTools.\nID: 11
 DTSTART;TZID=Europe/Berlin:20180608T143000
 DTEND;TZID=Europe/Berlin:20180608T153000
 END:VEVENT
@@ -147,13 +147,13 @@ SUMMARY:Carla Plugin Host - Feature overview and workflows
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Filipe Coelho\nType: Workshop\nTopics: Audio Plugins\, 
- MIDI\, OSC\, Music Composition\, Music Production\nKeywords: Plugin\, Host
- \, Modular\, MIDI\, OSC\, Rack\, Patchbay\nAbstract: Carla is a fully-feat
- ured audio plugin host with support for many plugin formats\, featuring au
- tomation of plugin parameters via MIDI CC\, remote control over OSC\, amon
- g others.\nThis workshop plans to give a quick overview of Carla and go th
- rough some workflows together with the audience.\nID: 24
+DESCRIPTION:Author: 39:Filipe Coelho\nType: Workshop\nTopics: Audio Plugins
+ \, MIDI\, OSC\, Music Composition\, Music Production\nKeywords: Plugin\, H
+ ost\, Modular\, MIDI\, OSC\, Rack\, Patchbay\nAbstract: Carla is a fully-f
+ eatured audio plugin host with support for many plugin formats\, featuring
+  automation of plugin parameters via MIDI CC\, remote control over OSC\, a
+ mong others.\nThis workshop plans to give a quick overview of Carla and go
+  through some workflows together with the audience.\nID: 24
 DTSTART;TZID=Europe/Berlin:20180609T170000
 DTEND;TZID=Europe/Berlin:20180609T183000
 END:VEVENT
@@ -166,17 +166,18 @@ SUMMARY:Inbuilt Musicality
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Hermann Voßeler\nType: Workshop\nTopics: Audio and Mus
- ic Languages\, Media Art\, Music Composition\, Signal Processing and Sound
-  Synthesis\nKeywords: synthesis\, texture\, voicing\, instrument\, musical
-  context\nAbstract: This Workshop demonstrates the use of the Yoshimi soft
-  synthesiser as a platform for building entirely synthetic musical instrum
- ents\, based on exploring the structure and interplay of defining traits w
- ithin musical sound. Starting from characteristic overtones and spectral p
- atterns as foundation\, the specific body of the tone can be shaped by fin
- e tuning the transients. Further techniques of transforming the sound are 
- used to build a fabric of related sound layers and create a distinct voice
- \, able to operate within the musical context of the composition.\nID: 12
+DESCRIPTION:Author: 20:Hermann Voßeler\nType: Workshop\nTopics: Audio and 
+ Music Languages\, Media Art\, Music Composition\, Signal Processing and So
+ und Synthesis\nKeywords: synthesis\, texture\, voicing\, instrument\, musi
+ cal context\nAbstract: This Workshop demonstrates the use of the Yoshimi s
+ oft synthesiser as a platform for building entirely synthetic musical inst
+ ruments\, based on exploring the structure and interplay of defining trait
+ s within musical sound. Starting from characteristic overtones and spectra
+ l patterns as foundation\, the specific body of the tone can be shaped by 
+ fine tuning the transients. Further techniques of transforming the sound a
+ re used to build a fabric of related sound layers and create a distinct vo
+ ice\, able to operate within the musical context of the composition.\nID: 
+ 12
 DTSTART;TZID=Europe/Berlin:20180608T170000
 DTEND;TZID=Europe/Berlin:20180608T190000
 END:VEVENT
@@ -189,17 +190,17 @@ SUMMARY:How to create real-time audio appliances with Debian GNU/Linux
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Daniel James & Christopher Obbard\nType: Workshop\nTopi
- cs: Audio Hardware Support\, Drivers\, System and Sound Architecture\, Pro
- jects Realized using Linux Audio\, Realtime Kernel and Linux Distributions
- \nKeywords: GNU/Linux distributions\, reference platform\, hardware suppor
- t\, business models\nAbstract: This hands-on workshop will introduce parti
- cipants to methods for creating single-purpose GNU/Linux distributions for
-  inexpensive ARM boards like the Raspberry Pi 3\, and open source hardware
-  including the BeagleBone Black. There will be an emphasis on optimising p
- erformance for demanding real-time audio applications such as xwax\, as us
- ed in the PiDeck[1] project. Issues of maintainability\, field upgrades an
- d security will also be covered.\nID: 30
+DESCRIPTION:Author: 48:Daniel James| 49:Christopher Obbard\nType: Workshop\
+ nTopics: Audio Hardware Support\, Drivers\, System and Sound Architecture\
+ , Projects Realized using Linux Audio\, Realtime Kernel and Linux Distribu
+ tions\nKeywords: GNU/Linux distributions\, reference platform\, hardware s
+ upport\, business models\nAbstract: This hands-on workshop will introduce 
+ participants to methods for creating single-purpose GNU/Linux distribution
+ s for inexpensive ARM boards like the Raspberry Pi 3\, and open source har
+ dware including the BeagleBone Black. There will be an emphasis on optimis
+ ing performance for demanding real-time audio applications such as xwax\, 
+ as used in the PiDeck[1] project. Issues of maintainability\, field upgrad
+ es and security will also be covered.\nID: 30
 DTSTART;TZID=Europe/Berlin:20180610T110000
 DTEND;TZID=Europe/Berlin:20180610T120000
 END:VEVENT
@@ -212,33 +213,33 @@ SUMMARY:Caracoles IV
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Jaime E Oliver La Rosa\nType: Installation\nKeywords: s
- ound installation\, feedback\nAbstract: Caracoles IV is an installation th
- at uses interactive feedback systems to sonically explore modified conch s
- hells known as a pututus\, which are andean musical instruments fashioned 
- out of conch shells. These instruments existed far before colonial occupat
- ion in the 15th century and work as a kind of cornet or trumpet\, by addin
- g an embouchure to the shell. However\, this musical instrument is not cre
- ated by a human alone\, but is also the creation of a large snail which on
- ce inhabited it\; it is the mollusc’s exoskeleton and home and it is sha
- ped by its existence. When the snail dies\, the spiral-shaped shell is emp
- tied of its organic body and eventually appropriated by the instrument mak
- er to fashion an instrument out of it. In this installation\, a third appr
- opriation takes place: I place a microphone in the embouchure and a speake
- r at the end of the spiral canal and connect them through a feedback syste
- m controlled by a Pure Data (Pd) patch running on a raspberry pi zero\, al
- l hidden inside the shell. The system detects resonant feedback frequencie
- s and temporarily cancels them with filters to push the system to find ano
- ther resonant frequency\, and so on\, generating in this way a sequence of
-  resonant frequencies of the shell. This installation is also a play on th
- e belief that conch shells are a way to listen to the sea. In fact\, the s
- hell acts as a filter and resonant cavity to our own bodies and spaces\, t
- hus\, its resonant frequencies are activated by the presence of people in 
- the installation space. In this way\, each shell is a collaboration betwee
- n humans\, conch-shells and interactive systems\, but also an interaction 
- between all of the shells because each of them have their own acoustic pro
- perties\, but their resonances are audible to each other\, thus generating
-  unpredictable sonic landscapes.\nID: 57
+DESCRIPTION:Author: 22:Jaime E Oliver La Rosa\nType: Installation\nKeywords
+ : sound installation\, feedback\nAbstract: Caracoles IV is an installation
+  that uses interactive feedback systems to sonically explore modified conc
+ h shells known as a pututus\, which are andean musical instruments fashion
+ ed out of conch shells. These instruments existed far before colonial occu
+ pation in the 15th century and work as a kind of cornet or trumpet\, by ad
+ ding an embouchure to the shell. However\, this musical instrument is not 
+ created by a human alone\, but is also the creation of a large snail which
+  once inhabited it\; it is the mollusc’s exoskeleton and home and it is 
+ shaped by its existence. When the snail dies\, the spiral-shaped shell is 
+ emptied of its organic body and eventually appropriated by the instrument 
+ maker to fashion an instrument out of it. In this installation\, a third a
+ ppropriation takes place: I place a microphone in the embouchure and a spe
+ aker at the end of the spiral canal and connect them through a feedback sy
+ stem controlled by a Pure Data (Pd) patch running on a raspberry pi zero\,
+  all hidden inside the shell. The system detects resonant feedback frequen
+ cies and temporarily cancels them with filters to push the system to find 
+ another resonant frequency\, and so on\, generating in this way a sequence
+  of resonant frequencies of the shell. This installation is also a play on
+  the belief that conch shells are a way to listen to the sea. In fact\, th
+ e shell acts as a filter and resonant cavity to our own bodies and spaces\
+ , thus\, its resonant frequencies are activated by the presence of people 
+ in the installation space. In this way\, each shell is a collaboration bet
+ ween humans\, conch-shells and interactive systems\, but also an interacti
+ on between all of the shells because each of them have their own acoustic 
+ properties\, but their resonances are audible to each other\, thus generat
+ ing unpredictable sonic landscapes.\nID: 57
 DTSTART;TZID=Europe/Berlin:20180608T200000
 DTEND;TZID=Europe/Berlin:20180609T000000
 END:VEVENT
@@ -251,10 +252,10 @@ SUMMARY:Yoshimi Live
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Will Godfrey\nType: Workshop\nKeywords: Soft-synth Live
-  Gig Yoshimi\nAbstract: This is a workshop for the Yoshimi soft-synth\, an
- d is intended to give an overview of ideas for using the synth at live ven
- ues.\nID: 4
+DESCRIPTION:Author: 36:Will Godfrey\nType: Workshop\nKeywords: Soft-synth L
+ ive Gig Yoshimi\nAbstract: This is a workshop for the Yoshimi soft-synth\,
+  and is intended to give an overview of ideas for using the synth at live 
+ venues.\nID: 4
 DTSTART;TZID=Europe/Berlin:20180609T143000
 DTEND;TZID=Europe/Berlin:20180609T160000
 END:VEVENT

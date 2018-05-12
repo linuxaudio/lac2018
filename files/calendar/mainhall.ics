@@ -30,18 +30,18 @@ SUMMARY:Louigi Verona
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10997 Berlin
-DESCRIPTION:Author: Louigi Verona\nType: Concert\nAbstract: A minimal house
-  DJ set with Mixxx. Already performed at Sonoj to positive reviews\, so I 
- am confident this could be a nice addition to music nights.\n\nUnfortunate
- ly\, I don’t have any recordings of my performances\, however I am using
-  only my \noriginal music for sets and here are the links to some of the t
- unes I will definitely include into the \nplaylist:\nhttps://soundcloud.co
- m/louigiverona/serenity-berlin-songbook-vol2\nhttps://soundcloud.com/louig
- iverona/boat-at-the-mouth-of-a-river-berlin-songbook-vol2\nhttps://soundcl
- oud.com/louigiverona/i-am-at-the-club-berlin-songbook-vol2\nhttps://soundc
- loud.com/louigiverona/berlin-berlin-songbook-vol2\nhttps://soundcloud.com/
- louigiverona/stranger-berlin-songbook-vol2\nhttps://soundcloud.com/louigiv
- erona/berlin-songbook-vol-2-lair\nID: 8
+DESCRIPTION:Author: 3:Louigi Verona\nType: Concert\nAbstract: A minimal hou
+ se DJ set with Mixxx. Already performed at Sonoj to positive reviews\, so 
+ I am confident this could be a nice addition to music nights.\n\nUnfortuna
+ tely\, I don’t have any recordings of my performances\, however I am usi
+ ng only my \noriginal music for sets and here are the links to some of the
+  tunes I will definitely include into the \nplaylist:\nhttps://soundcloud.
+ com/louigiverona/serenity-berlin-songbook-vol2\nhttps://soundcloud.com/lou
+ igiverona/boat-at-the-mouth-of-a-river-berlin-songbook-vol2\nhttps://sound
+ cloud.com/louigiverona/i-am-at-the-club-berlin-songbook-vol2\nhttps://soun
+ dcloud.com/louigiverona/berlin-berlin-songbook-vol2\nhttps://soundcloud.co
+ m/louigiverona/stranger-berlin-songbook-vol2\nhttps://soundcloud.com/louig
+ iverona/berlin-songbook-vol-2-lair\nID: 8
 DTSTART;TZID=Europe/Berlin:20180607T230000
 DTEND;TZID=Europe/Berlin:20180608T010000
 END:VEVENT
@@ -53,15 +53,15 @@ UID:8ZF4KCUAGKICPFJW0S1
 SUMMARY:Memorie
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Massimo Fragalà\nType: Performance\nKeywords: Electroa
- coustic\, Mixed music\nAbstract: This composition is made up of sounds tha
- t represent various moments of my childhood. In particular\, I used sounds
-  that still make me feel special emotions such as: the rain\, the planes\,
-  the clamour of people\, musical bands\, the tick of old clocks\, the glit
- ches\, etc. By listening to this piece I go back to that period of my life
-  which I am particularly attached to and which unfortunately will not retu
- rn any more.\nThis composition has been realized with Linux KXstudio.\nID:
-  29
+DESCRIPTION:Author: 24:Massimo Fragalà\nType: Performance\nKeywords: Elect
+ roacoustic\, Mixed music\nAbstract: This composition is made up of sounds 
+ that represent various moments of my childhood. In particular\, I used sou
+ nds that still make me feel special emotions such as: the rain\, the plane
+ s\, the clamour of people\, musical bands\, the tick of old clocks\, the g
+ litches\, etc. By listening to this piece I go back to that period of my l
+ ife which I am particularly attached to and which unfortunately will not r
+ eturn any more.\nThis composition has been realized with Linux KXstudio.\n
+ ID: 29
 DTSTART;TZID=Europe/Berlin:20180608T210000
 DTEND;TZID=Europe/Berlin:20180608T211000
 END:VEVENT
@@ -75,18 +75,18 @@ SUMMARY:Open Hardware Multichannel Sound Interface for Hearing Aid Research
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Tobias Herzke\, Hendrik Kayser\, Christopher Seifert\, 
- Paul Maanen\, Christopher Obbard\, Guillermo Payá-Vayá\, Holger Blume an
- d Volker Hohmann\nType: Paper\nTopics:\nKeywords: Hearing aids\, audio sig
- nal processing\, sound hardware\nAbstract: The paper describes a new multi
- channel sound interface for the\nBeagleBone Black\, "Cape4all".\nThe sound
-  interface has 6 input channels with optional microphone\npre-amplifiers a
- nd between 4 and 6 output channels.\nThe multichannel sound extension cape
-  for the BeagleBone\nBlack is designed and produced.\nAn ALSA driver is wr
- itten for it.\nIt is used with the openMHA hearing aid research software t
- o perform\nhearing aid signal processing on the BeagleBone Black with a\nc
- ustomized Debian distribution tailored to real-time audio signal processin
- g.\nID: 35
+DESCRIPTION:Author: 8:Tobias Herzke| 9:Hendrik Kayser|10:Christopher Seifer
+ t| 11:Paul Maanen| 12:Christopher Obbard| 13:Guillermo Payá-Vayá| 14:Hol
+ ger Blume| 15: Volker Hohmann\nType: Paper\nTopics:\nKeywords: Hearing aid
+ s\, audio signal processing\, sound hardware\nAbstract: The paper describe
+ s a new multichannel sound interface for the\nBeagleBone Black\, "Cape4all
+ ".\nThe sound interface has 6 input channels with optional microphone\npre
+ -amplifiers and between 4 and 6 output channels.\nThe multichannel sound e
+ xtension cape for the BeagleBone\nBlack is designed and produced.\nAn ALSA
+  driver is written for it.\nIt is used with the openMHA hearing aid resear
+ ch software to perform\nhearing aid signal processing on the BeagleBone Bl
+ ack with a\ncustomized Debian distribution tailored to real-time audio sig
+ nal processing.\nID: 35
 DTSTART;TZID=Europe/Berlin:20180608T120000
 DTEND;TZID=Europe/Berlin:20180608T123000
 END:VEVENT
@@ -99,15 +99,15 @@ SUMMARY:Using Perlin noise in sound synthesis
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Artem Popov\nType: Paper\nTopics: Signal Processing and
-  Sound Synthesis\nKeywords: Perlin noise\, simplex noise\, fractional brow
- nian motion\, sound synthesis\nAbstract: Perlin noise is a well known algo
- rithm in computer graphics applications and one of the first algorithms fo
- r generating procedural textures. It has been very widely used in movies\,
-  games\, demos\, and landscape generators\, but despite its popularity it 
- has been seldom used for creative purposes in the fields outside the world
-  of computer graphics. This paper discusses the use of Perlin noise and fr
- actional Brownian motion for sound synthesis applications.\nID: 14
+DESCRIPTION:Author: 4:Artem Popov\nType: Paper\nTopics: Signal Processing a
+ nd Sound Synthesis\nKeywords: Perlin noise\, simplex noise\, fractional br
+ ownian motion\, sound synthesis\nAbstract: Perlin noise is a well known al
+ gorithm in computer graphics applications and one of the first algorithms 
+ for generating procedural textures. It has been very widely used in movies
+ \, games\, demos\, and landscape generators\, but despite its popularity i
+ t has been seldom used for creative purposes in the fields outside the wor
+ ld of computer graphics. This paper discusses the use of Perlin noise and 
+ fractional Brownian motion for sound synthesis applications.\nID: 14
 DTSTART;TZID=Europe/Berlin:20180608T100000
 DTEND;TZID=Europe/Berlin:20180608T103000
 END:VEVENT
@@ -120,25 +120,25 @@ SUMMARY:Rtosc - Realtime Safe Open Sound Control Messaging
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Mark McCurry\nType: Paper\nTopics: MIDI\, OSC\nKeywords
- : Open Sound Control\, Realtime\, Intra-Process Communications\nAbstract: 
- Audio applications which go beyond MIDI processing often utilize OSC (Open
- \nSound Control) to communicate complex parameters and advanced operations
- .\nA variety of libraries offer solutions to network transportation of OSC
- \nmessages and provide approaches for pattern matching the messages in dis
- patch.\nDispatch however is performed inefficiently and manipulating OSC m
- essages is\noftentimes not realtime safe.\nrtosc was written to quickly di
- spatch and manipulate large quantities of OSC\nmessages in realtime constr
- ained environments.\nThe fast dispatch is possible due to the internal tre
- e representation as well\nas the use of perfect-minimal-hashing within the
-  pattern matching phase of\ndispatch.\n\nThe primary user of rtosc is the 
- ZynAddSubFX project which uses OSC to map\n3\,805\,225 parameters and rout
- inely dispatches bursts of up to 1\,000 messages\nper second during normal
-  audio processing.\nFor audio application rtosc provides a simple OSC seri
- alization toolset\, the\nrealtime safe dispatch mechanisms\, a ringbuffer 
- implementation\, and a rich\nmetadata system for representing application/
- library parameters.\nThis combination is not available in any other OSC li
- brary at the time of\nwriting.\nID: 39
+DESCRIPTION:Author: 16:Mark McCurry\nType: Paper\nTopics: MIDI\, OSC\nKeywo
+ rds: Open Sound Control\, Realtime\, Intra-Process Communications\nAbstrac
+ t: Audio applications which go beyond MIDI processing often utilize OSC (O
+ pen\nSound Control) to communicate complex parameters and advanced operati
+ ons.\nA variety of libraries offer solutions to network transportation of 
+ OSC\nmessages and provide approaches for pattern matching the messages in 
+ dispatch.\nDispatch however is performed inefficiently and manipulating OS
+ C messages is\noftentimes not realtime safe.\nrtosc was written to quickly
+  dispatch and manipulate large quantities of OSC\nmessages in realtime con
+ strained environments.\nThe fast dispatch is possible due to the internal 
+ tree representation as well\nas the use of perfect-minimal-hashing within 
+ the pattern matching phase of\ndispatch.\n\nThe primary user of rtosc is t
+ he ZynAddSubFX project which uses OSC to map\n3\,805\,225 parameters and r
+ outinely dispatches bursts of up to 1\,000 messages\nper second during nor
+ mal audio processing.\nFor audio application rtosc provides a simple OSC s
+ erialization toolset\, the\nrealtime safe dispatch mechanisms\, a ringbuff
+ er implementation\, and a rich\nmetadata system for representing applicati
+ on/library parameters.\nThis combination is not available in any other OSC
+  library at the time of\nwriting.\nID: 39
 DTSTART;TZID=Europe/Berlin:20180609T130000
 DTEND;TZID=Europe/Berlin:20180609T133000
 END:VEVENT
@@ -150,8 +150,8 @@ UID:H8IIR32R4CH8CQ2CY90FCB
 SUMMARY:Keynote
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: TBA\nType: Presentation\nTopics: TBA\nKeywords: TBA\nAb
- stract: TBA\nID: 102
+DESCRIPTION:Author: 30:TBA\nType: Presentation\nTopics: TBA\nKeywords: TBA\
+ nAbstract: TBA\nID: 102
 DTSTART;TZID=Europe/Berlin:20180609T100000
 DTEND;TZID=Europe/Berlin:20180609T110000
 END:VEVENT
@@ -163,10 +163,10 @@ UID:U3NQ5LOP84Z3TVFHYW0WF
 SUMMARY:Dark Path #2 (multichannel vers.)
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Anna Terzaroli\nType: Performance\nTopics: Audio and Mu
- sic Languages\, Music Composition\, Music Production\, Sound Spatializatio
- n\nKeywords: Electronic Music\, Acousmatic Music\, Spatialization\, Sounds
- cape Composition\nID: 55
+DESCRIPTION:Author: 26:Anna Terzaroli\nType: Performance\nTopics: Audio and
+  Music Languages\, Music Composition\, Music Production\, Sound Spatializa
+ tion\nKeywords: Electronic Music\, Acousmatic Music\, Spatialization\, Sou
+ ndscape Composition\nID: 55
 DTSTART;TZID=Europe/Berlin:20180608T220000
 DTEND;TZID=Europe/Berlin:20180608T220800
 END:VEVENT
@@ -178,12 +178,12 @@ UID:2MXD2GVY4ZPKC4U1YBSY9I
 SUMMARY:LMMS 1.2: Changes and Improvements
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
 CLASS:PUBLIC
-DESCRIPTION:Author: Uroš Maravić & Tres Finocchiaro\nType: Workshop\nTopi
- cs: Music Production\, Projects Realized using Linux Audio \nKeywords: LMM
- S\, Open Software\, Music Production\, GUI design\nAbstract: A workshop fo
- cused on showcasing the new features and improvements of LMMS version 1.2 
- as well as an open discussion on the future of the software itself. The wo
- rkshop is suitable for musicians and developers alike.\nID: 36
+DESCRIPTION:Author: 31:Uroš Maravić| 56:Tres Finocchiaro\nType: Workshop\
+ nTopics: Music Production\, Projects Realized using Linux Audio \nKeywords
+ : LMMS\, Open Software\, Music Production\, GUI design\nAbstract: A worksh
+ op focused on showcasing the new features and improvements of LMMS version
+  1.2 as well as an open discussion on the future of the software itself. T
+ he workshop is suitable for musicians and developers alike.\nID: 36
 STATUS:CONFIRMED
 DTSTART;TZID=Europe/Berlin:20180610T160000
 DTEND;TZID=Europe/Berlin:20180610T170000
@@ -196,8 +196,8 @@ UID:0M40J08C0S5NWY3UYJJ9GS
 SUMMARY:Spycher
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Michele Del Prete\nType: Performance\nKeywords: Csound 
- Tape Space\nAbstract: tape 8 ch\nID: 48
+DESCRIPTION:Author: 29:Michele Del Prete\nType: Performance\nKeywords: Csou
+ nd Tape Space\nAbstract: tape 8 ch\nID: 48
 DTSTART;TZID=Europe/Berlin:20180608T233000
 DTEND;TZID=Europe/Berlin:20180608T234000
 END:VEVENT
@@ -210,22 +210,22 @@ SUMMARY:Djing with FLOSS: Mixxx Workshop
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Louigi Verona\nType: Workshop\nTopics: Audio Hardware S
- upport\, Live Performance\, MIDI\, OSC\, Standards and Protocols\nKeywords
- : dj\, mixxx\nAbstract: Many of us would love to start DJing with software
- \, comparable to commercial offerings out there. Thanks to the fantastic w
- ork that the Mixxx has done\, it is now possible.\n\nHowever\, Mixxx could
-  be a little off-putting due to the fact that setting a controller up migh
- t not be as user friendly as with software like Traktor.\n\nLouigi will ru
- n through all the difficult places\, demonstrate how to set things up with
-  a random midi controller (i.e.\, not explicitly supported by Mixxx templa
- tes)\, and how to use scripts.\n\nHopefully after this workshop people wil
- l have a good guide on how to start working with Mixxx!\n\nA list of thing
- s discussed:\n\n1. Choosing an XML template for Mixxx UI\n2. Customizing t
- he template for your needs\n3. Setting up preferences\n4. Adding a midi co
- ntroller in\n\n   4.1 Figuring out the midi signals map\n\n   4.2 Organizi
- ng your controller XML file\n\n   4.3 Scripting and why its not scary\n\n5
- . A demo\n\nID: 7
+DESCRIPTION:Author: 3:Louigi Verona\nType: Workshop\nTopics: Audio Hardware
+  Support\, Live Performance\, MIDI\, OSC\, Standards and Protocols\nKeywor
+ ds: dj\, mixxx\nAbstract: Many of us would love to start DJing with softwa
+ re\, comparable to commercial offerings out there. Thanks to the fantastic
+  work that the Mixxx has done\, it is now possible.\n\nHowever\, Mixxx cou
+ ld be a little off-putting due to the fact that setting a controller up mi
+ ght not be as user friendly as with software like Traktor.\n\nLouigi will 
+ run through all the difficult places\, demonstrate how to set things up wi
+ th a random midi controller (i.e.\, not explicitly supported by Mixxx temp
+ lates)\, and how to use scripts.\n\nHopefully after this workshop people w
+ ill have a good guide on how to start working with Mixxx!\n\nA list of thi
+ ngs discussed:\n\n1. Choosing an XML template for Mixxx UI\n2. Customizing
+  the template for your needs\n3. Setting up preferences\n4. Adding a midi 
+ controller in\n\n   4.1 Figuring out the midi signals map\n\n   4.2 Organi
+ zing your controller XML file\n\n   4.3 Scripting and why its not scary\n\
+ n5. A demo\n\nID: 7
 DTSTART;TZID=Europe/Berlin:20180608T143000
 DTEND;TZID=Europe/Berlin:20180608T160000
 END:VEVENT
@@ -237,34 +237,34 @@ UID:VXN7XFVVG6M9HSHI1LKCJ
 SUMMARY:SHIFT
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Andre Bartetzki\nType: Performance\nAbstract: SHIFT (20
- 14)\npsychoacoustic music for 140 oscillators\n\nSHIFT is rather a psychoa
- coustic than an electroacoustic piece. Because the usual musical aspects o
- f composition\, temporal structures or single sound events are secondary h
- ere. The focal point of this piece is the shifting attention during listen
- ing. The essential events in this piece are the individual moments when th
- e attention of the listener detaches itself from the perceived sound which
-  evolves only very slowly and which seems to be rather static for a long t
- ime.\nLooking for changes in the environment and being alerted by sudden e
- vents is the daily business of our brains - a heritage of our evolutionary
-  history. We are adapting our senses to the slightest input changes if not
- hing else is happening. So even when there is just one and the same sound 
- texture we tend to extract a foreground from a slowly changing background 
- after a while - even when there is no real difference.\nThe points of a ch
- ange in the listeners perception\, the detection - or rather invention - o
- f events or objects\, are highly individual here - they are not composed\,
-  they appear only in the heads of the listeners.\nMy advice for listening 
- to this piece is: do not try to analyze the sounds as you would do with ot
- her pieces but try to focus on how you listen to it - be attentive to your
-  attention!\n\nThis piece is generated in realtime with SuperCollider. It 
- is based on additive synthesis techniques:\nthere are 140 single sine osci
- llators which are always modulated in frequency\, amplitude and spatial po
- sition. The modulation processes for all oscillators are basically the sam
- e but the do not happen exactly at the same time\, they are spread over lo
- ng time intervals - resulting in slowly evolving sound textures.\nThe 140 
- generated audio signals are dynamically distributed in space by the softwa
- re and adapted to as many as available loudspeakers in order to get a real
-  immersive experience.\nID: 16
+DESCRIPTION:Author: 25:Andre Bartetzki\nType: Performance\nAbstract: SHIFT 
+ (2014)\npsychoacoustic music for 140 oscillators\n\nSHIFT is rather a psyc
+ hoacoustic than an electroacoustic piece. Because the usual musical aspect
+ s of composition\, temporal structures or single sound events are secondar
+ y here. The focal point of this piece is the shifting attention during lis
+ tening. The essential events in this piece are the individual moments when
+  the attention of the listener detaches itself from the perceived sound wh
+ ich evolves only very slowly and which seems to be rather static for a lon
+ g time.\nLooking for changes in the environment and being alerted by sudde
+ n events is the daily business of our brains - a heritage of our evolution
+ ary history. We are adapting our senses to the slightest input changes if 
+ nothing else is happening. So even when there is just one and the same sou
+ nd texture we tend to extract a foreground from a slowly changing backgrou
+ nd after a while - even when there is no real difference.\nThe points of a
+  change in the listeners perception\, the detection - or rather invention 
+ - of events or objects\, are highly individual here - they are not compose
+ d\, they appear only in the heads of the listeners.\nMy advice for listeni
+ ng to this piece is: do not try to analyze the sounds as you would do with
+  other pieces but try to focus on how you listen to it - be attentive to y
+ our attention!\n\nThis piece is generated in realtime with SuperCollider. 
+ It is based on additive synthesis techniques:\nthere are 140 single sine o
+ scillators which are always modulated in frequency\, amplitude and spatial
+  position. The modulation processes for all oscillators are basically the 
+ same but the do not happen exactly at the same time\, they are spread over
+  long time intervals - resulting in slowly evolving sound textures.\nThe 1
+ 40 generated audio signals are dynamically distributed in space by the sof
+ tware and adapted to as many as available loudspeakers in order to get a r
+ eal immersive experience.\nID: 16
 DTSTART;TZID=Europe/Berlin:20180608T213000
 DTEND;TZID=Europe/Berlin:20180608T214500
 END:VEVENT
@@ -275,22 +275,22 @@ LAST-MODIFIED:20180426T205646
 UID:556FQJXC2DGDHS9HX20SOG
 SUMMARY:Atlas Of Uncertainty
 CLASS:PUBLIC
-DESCRIPTION:Author: Massimo Vito Avantaggiato\nType: Performance\nTopics: M
- edia Art\, Music Composition\, Video\nKeywords: csound\, linux\,  Acousmat
- ic\, experimental\nAbstract: Atlas of Uncertainty is an experimental music
-  video based on the representation of 4 Classical elements\, that typicall
- y refer to the concepts in Ancient Greece of water\, fire\, earth and aeth
- er\, which were proposed to explain the nature and complexity of all matte
- r in terms of simpler substances.\nThe music that accompanies this compute
- r generated video is a sonic continuum ranging from unaltered natural soun
- ds to entirely new sounds - or\, more poetically -- from the real world to
-  the realm of the imagination. of the imagination.\nHeterogeneous inharmon
- ic sound materials are explored through various techniques (granular\, sub
- tractive). The sounds and the images are here combined in well- identifiab
- le gestures.\n\nThe video received two HONORABLE MENTIONS in India and USA
- \; and a prize as best short in Canada and has also been finalist in some 
- competitions (ROMART BIENNALE 2017\,\nRome\, Italy; MATERA INTERMEDIA 201
- 7\, Matera\, ITALY)\;\n\nID: 1
+DESCRIPTION:Author: 23:Massimo Vito Avantaggiato\nType: Performance\nTopics
+ : Media Art\, Music Composition\, Video\nKeywords: csound\, linux\,  Acous
+ matic\, experimental\nAbstract: Atlas of Uncertainty is an experimental mu
+ sic video based on the representation of 4 Classical elements\, that typic
+ ally refer to the concepts in Ancient Greece of water\, fire\, earth and a
+ ether\, which were proposed to explain the nature and complexity of all ma
+ tter in terms of simpler substances.\nThe music that accompanies this comp
+ uter generated video is a sonic continuum ranging from unaltered natural s
+ ounds to entirely new sounds - or\, more poetically -- from the real world
+  to the realm of the imagination. of the imagination.\nHeterogeneous inhar
+ monic sound materials are explored through various techniques (granular\, 
+ subtractive). The sounds and the images are here combined in well- identif
+ iable gestures.\n\nThe video received two HONORABLE MENTIONS in India and 
+ USA\; and a prize as best short in Canada and has also been finalist in so
+ me competitions (ROMART BIENNALE 2017\,\nRome\, Italy; MATERA INTERMEDIA 
+ 2017\, Matera\, ITALY)\;\n\nID: 1
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
 DTSTART;TZID=Europe/Berlin:20180608T203000
@@ -305,19 +305,19 @@ SUMMARY:SpectMorph: Morphing the Timbre of Musical Instruments
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Stefan Westerfeld\nType: Paper\nTopics: Audio Plugins\,
-  Signal Processing and Sound Synthesis\nKeywords: Morphing\, timbre\, audi
- o\, spectral modelling\nAbstract: SpectMorph is an open source software wh
- ich performs morphing of the timbre of musical instruments. This allows cr
- eating sounds that smoothly transition from the timbre of one instrument t
- o the timbre of another instrument. There are three steps necessary to obt
- ain the final sound. In the analysis\, we use the fourier transform to cre
- ate models of the spectrum of the input samples. During synthesis a time d
- omain signal can be obtained from these data. An algorithm for morphing th
- e spectral models of multiple instruments is the core of our method. Synth
- esis and morphing can be done in real-time. After the description of the t
- heoretical background\, we provide an overview of the features of the Spec
- tMorph plugin.\nID: 18
+DESCRIPTION:Author: 5:Stefan Westerfeld\nType: Paper\nTopics: Audio Plugins
+ \, Signal Processing and Sound Synthesis\nKeywords: Morphing\, timbre\, au
+ dio\, spectral modelling\nAbstract: SpectMorph is an open source software 
+ which performs morphing of the timbre of musical instruments. This allows 
+ creating sounds that smoothly transition from the timbre of one instrument
+  to the timbre of another instrument. There are three steps necessary to o
+ btain the final sound. In the analysis\, we use the fourier transform to c
+ reate models of the spectrum of the input samples. During synthesis a time
+  domain signal can be obtained from these data. An algorithm for morphing 
+ the spectral models of multiple instruments is the core of our method. Syn
+ thesis and morphing can be done in real-time. After the description of the
+  theoretical background\, we provide an overview of the features of the Sp
+ ectMorph plugin.\nID: 18
 DTSTART;TZID=Europe/Berlin:20180608T103000
 DTEND;TZID=Europe/Berlin:20180608T110000
 END:VEVENT
@@ -330,7 +330,7 @@ SUMMARY:Superdirt
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10997 Berlin
-DESCRIPTION:Author: Superdirt^2\nType: Concert\nAbstract: \nID: 58
+DESCRIPTION:Author: 2:Superdirt^2\nType: Concert\nAbstract: \nID: 58
 DTSTART;TZID=Europe/Berlin:20180607T210000
 DTEND;TZID=Europe/Berlin:20180607T223000
 END:VEVENT
@@ -342,8 +342,8 @@ UID:NSSM4V6EGFPGUA2SPL7YC
 SUMMARY:Iammix
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Magnus Johansson\nType: Performance\nAbstract: Electroa
- coustic 8-channel fixed media composition\nID: 51
+DESCRIPTION:Author: 28:Magnus Johansson\nType: Performance\nAbstract: Elect
+ roacoustic 8-channel fixed media composition\nID: 51
 DTSTART;TZID=Europe/Berlin:20180608T230000
 DTEND;TZID=Europe/Berlin:20180608T231100
 END:VEVENT
@@ -355,15 +355,16 @@ UID:8SILO0DSUYA6S0DEK24NDW
 SUMMARY:Pro-audio on Arch Linux (revisited)
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
 CLASS:PUBLIC
-DESCRIPTION:Author: David Runge\nType: Workshop\nTopics: Audio and Music La
- nguages\, Audio Plugins\, Drivers\, System and Sound Architecture\nKeyword
- s: Arch Linux\, pro-audio\, packaging\, end-user\, JACK\nAbstract: This wo
- rkshop will be a recap and show-case on pro-audio packaging and end-user a
- ppliances on Arch Linux. The emphasis will be on direct best practices and
-  use-cases\, beginning with a short introduction to important changes appl
- ied to the [community] repository over the past months.\nThe workshop is m
- eant as an entry point for long standing\, new or only interested (and may
- be soon to be) Arch Linux users to the use of pro-audio software.\nID: 34
+DESCRIPTION:Author: 47:David Runge\nType: Workshop\nTopics: Audio and Music
+  Languages\, Audio Plugins\, Drivers\, System and Sound Architecture\nKeyw
+ ords: Arch Linux\, pro-audio\, packaging\, end-user\, JACK\nAbstract: This
+  workshop will be a recap and show-case on pro-audio packaging and end-use
+ r appliances on Arch Linux. The emphasis will be on direct best practices 
+ and use-cases\, beginning with a short introduction to important changes a
+ pplied to the [community] repository over the past months.\nThe workshop i
+ s meant as an entry point for long standing\, new or only interested (and 
+ maybe soon to be) Arch Linux users to the use of pro-audio software.\nID: 
+ 34
 STATUS:CONFIRMED
 DTSTART;TZID=Europe/Berlin:20180610T120000
 DTEND;TZID=Europe/Berlin:20180610T130000
@@ -376,17 +377,17 @@ UID:RY74MDBP25QV2MGQVNEMOC
 SUMMARY:Ableton Link – A technology to synchronize music software
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Florian Goltz\nType: Paper\nTopics: MIDI\, OSC\, Music 
- Production\, Networked Audio\, Standards and Protocols\nKeywords: Audio\, 
- Network\, Peer-to-peer\, Time\, Synchronization\nAbstract: Ableton Link is
-  a technology that synchronizes musical beat\, tempo\, phase\, and start/s
- top commands across multiple applications running on one or more devices. 
- Unlike conventional musical synchronization technologies\, Link does not r
- equire master/client roles. Automatic discovery on a local area network en
- ables a peer-to-peer system\, which peers can join or leave at any time wi
- thout disrupting others. Musical information is shared equally among peers
- \, so any peer can start or stop while staying in time\, or change the tem
- po\, which is followed by all other peers.\nID: 42
+DESCRIPTION:Author: 33:Florian Goltz\nType: Paper\nTopics: MIDI\, OSC\, Mus
+ ic Production\, Networked Audio\, Standards and Protocols\nKeywords: Audio
+ \, Network\, Peer-to-peer\, Time\, Synchronization\nAbstract: Ableton Link
+  is a technology that synchronizes musical beat\, tempo\, phase\, and star
+ t/stop commands across multiple applications running on one or more device
+ s. Unlike conventional musical synchronization technologies\, Link does no
+ t require master/client roles. Automatic discovery on a local area network
+  enables a peer-to-peer system\, which peers can join or leave at any time
+  without disrupting others. Musical information is shared equally among pe
+ ers\, so any peer can start or stop while staying in time\, or change the 
+ tempo\, which is followed by all other peers.\nID: 42
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
 DTSTART;TZID=Europe/Berlin:20180609T120000
 DTEND;TZID=Europe/Berlin:20180609T123000
@@ -400,20 +401,20 @@ SUMMARY:Getting Started with Purr Data
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Albert Gräf\nType: Workshop\nTopics: Audio and Music L
- anguages\nKeywords: data-flow\, pd\, pd-l2ork\, pd-lua\nAbstract: This han
- ds-on workshop is intended for Pd and Linux audio users who want to start 
- using Purr Data. For an introduction to Purr Data\, please check our [LAC1
- 7 presentation](https://www.youtube.com/watch?v=T1wo496Zx0s) and the [Quic
- k Introduction](https://agraef.github.io/purr-data-intro). Topics of the 9
- 0 min workshop vary from the basics to the moderately advanced and include
- :\n\n- Getting a minimal Purr Data installation up and running quickly on 
- Linux (compiling from source).\n\n- First-time setup (configuring MIDI and
-  audio devices\, setting up Pd-Lua).\n\n- Real-time audio and MIDI process
- ing\, making music with Purr Data.\n\n- Programming new objects (a.k.a. Pd
-  externals) the easy way with [Pd-Lua](https://github.com/agraef/pd-lua).\
- n\n- Custom graphics and data structure visualizations in Purr Data.\n\nID
- : 15
+DESCRIPTION:Author: 21:Albert Gräf\nType: Workshop\nTopics: Audio and Musi
+ c Languages\nKeywords: data-flow\, pd\, pd-l2ork\, pd-lua\nAbstract: This 
+ hands-on workshop is intended for Pd and Linux audio users who want to sta
+ rt using Purr Data. For an introduction to Purr Data\, please check our [L
+ AC17 presentation](https://www.youtube.com/watch?v=T1wo496Zx0s) and the [Q
+ uick Introduction](https://agraef.github.io/purr-data-intro). Topics of th
+ e 90 min workshop vary from the basics to the moderately advanced and incl
+ ude:\n\n- Getting a minimal Purr Data installation up and running quickly 
+ on Linux (compiling from source).\n\n- First-time setup (configuring MIDI 
+ and audio devices\, setting up Pd-Lua).\n\n- Real-time audio and MIDI proc
+ essing\, making music with Purr Data.\n\n- Programming new objects (a.k.a.
+  Pd externals) the easy way with [Pd-Lua](https://github.com/agraef/pd-lua
+ ).\n\n- Custom graphics and data structure visualizations in Purr Data.\n\
+ nID: 15
 DTSTART;TZID=Europe/Berlin:20180608T170000
 DTEND;TZID=Europe/Berlin:20180608T183000
 END:VEVENT
@@ -427,21 +428,21 @@ SUMMARY:Software Architecture for a Multiple AVB Listener and Talker Scenar
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Christoph Kuhr & Alexander Carôt\nType: Paper\nTopics:
-  Drivers\, System and Sound Architecture\, Networked Audio\, Realtime Kern
- el and Linux Distributions\, Signal Processing and Sound Synthesis Standar
- ds and Protocols\nKeywords: AVB\, JACK\, signal processing\, public intern
- et\, mutlimedia streaming\nAbstract: This paper presents a design approach
-  for an AVB network segment deploying two different types of AVB server fo
- r multiple parallel streams. The first type is an UDP proxy server and the
-  second server type is a digital signal processing server. The Linux real 
- time operating system configurations are discussed\, as well as the softwa
- re architecture itself and the integration of the Jack audio server. A pro
- per operation of the JACK server\, alongside two JACK clients\, in this mu
- ltiprocessing environment could be shown\, although a persisting buffer le
- ak prevents significant jitter and latency measurements. A coarse assessme
- nt shows however\, that the operations are within reasonable bounds.\nID: 
- 43
+DESCRIPTION:Author: 34:Christoph Kuhr| 35:Alexander Carôt\nType: Paper\nTo
+ pics: Drivers\, System and Sound Architecture\, Networked Audio\, Realtime
+  Kernel and Linux Distributions\, Signal Processing and Sound Synthesis St
+ andards and Protocols\nKeywords: AVB\, JACK\, signal processing\, public i
+ nternet\, mutlimedia streaming\nAbstract: This paper presents a design app
+ roach for an AVB network segment deploying two different types of AVB serv
+ er for multiple parallel streams. The first type is an UDP proxy server an
+ d the second server type is a digital signal processing server. The Linux 
+ real time operating system configurations are discussed\, as well as the s
+ oftware architecture itself and the integration of the Jack audio server. 
+ A proper operation of the JACK server\, alongside two JACK clients\, in th
+ is multiprocessing environment could be shown\, although a persisting buff
+ er leak prevents significant jitter and latency measurements. A coarse ass
+ essment shows however\, that the operations are within reasonable bounds.\
+ nID: 43
 DTSTART;TZID=Europe/Berlin:20180609T123000
 DTEND;TZID=Europe/Berlin:20180609T130000
 END:VEVENT
@@ -454,20 +455,20 @@ SUMMARY:MRuby-Zest: a Scriptable Audio GUI Framework
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Mark McCurry\nType: Paper\nTopics: Audio Plugins\, Inte
- rface Design\, Live Coding\, Projects Realized using Linux Audio\nKeywords
- : Interface Design\, LV2\, VST\, Ruby\nAbstract: Audio tools face a set of
-  uncommon user interface\ndesign and implementation challenges. These cons
- traints make high quality interfaces within the open\nsource realm particu
- lar difficult to execute on volunteer time. The challenges include produci
- ng a\nunique identity for the application\, providing easy\nto use control
- s for the parameters of the application\,\nand providing interesting ways 
- to visualize the data\nwithin the application. Additionally\, existing too
- lkits produce technical issues when embedding within\nplugin hosts. MRuby-
- Zest is a new toolkit that was\nbuild while the ZynAddSubFX user interface
-  was\nrewritten. This toolkit possesses unique characteristics within open
-  source toolkits which target the\nproblems specific to audio applications
- .\nID: 38
+DESCRIPTION:Author: 16:Mark McCurry\nType: Paper\nTopics: Audio Plugins\, I
+ nterface Design\, Live Coding\, Projects Realized using Linux Audio\nKeywo
+ rds: Interface Design\, LV2\, VST\, Ruby\nAbstract: Audio tools face a set
+  of uncommon user interface\ndesign and implementation challenges. These c
+ onstraints make high quality interfaces within the open\nsource realm part
+ icular difficult to execute on volunteer time. The challenges include prod
+ ucing a\nunique identity for the application\, providing easy\nto use cont
+ rols for the parameters of the application\,\nand providing interesting wa
+ ys to visualize the data\nwithin the application. Additionally\, existing 
+ toolkits produce technical issues when embedding within\nplugin hosts. MRu
+ by-Zest is a new toolkit that was\nbuild while the ZynAddSubFX user interf
+ ace was\nrewritten. This toolkit possesses unique characteristics within o
+ pen source toolkits which target the\nproblems specific to audio applicati
+ ons.\nID: 38
 DTSTART;TZID=Europe/Berlin:20180608T123000
 DTEND;TZID=Europe/Berlin:20180608T130000
 END:VEVENT
@@ -479,16 +480,16 @@ UID:44D4QY45NDVWEAIHBRDS6
 SUMMARY:Chrysalis - Interactive Sound Sculpture
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Ezequiel Abregu\nType: Poster\nTopics: Interactive Art\
- , Interface Design\, Projects Realized using Linux Audio\nKeywords: Sound 
- Sculpture\, Pure Data\, Raspberry Pi\, Arduino\nAbstract: Chrysalis is an 
- interactive sound sculpture that relates sustainability\, the link of the 
- human being with his environment and the processes that it generates throu
- gh time. The authors are Carla Colombini (sculptor)\, Martin Matus and Eze
- quiel Abregu (sound artists). The sound production system comprises three 
- stages: Input - Process - Feedback. In this work are exposed the technical
-  details of the sound device of the sculpture and the different stages imp
- lemented using\, mostly\, free software and open hardware.\nID: 9
+DESCRIPTION:Author: 37:Ezequiel Abregu\nType: Poster\nTopics: Interactive A
+ rt\, Interface Design\, Projects Realized using Linux Audio\nKeywords: Sou
+ nd Sculpture\, Pure Data\, Raspberry Pi\, Arduino\nAbstract: Chrysalis is 
+ an interactive sound sculpture that relates sustainability\, the link of t
+ he human being with his environment and the processes that it generates th
+ rough time. The authors are Carla Colombini (sculptor)\, Martin Matus and 
+ Ezequiel Abregu (sound artists). The sound production system comprises thr
+ ee stages: Input - Process - Feedback. In this work are exposed the techni
+ cal details of the sound device of the sculpture and the different stages 
+ implemented using\, mostly\, free software and open hardware.\nID: 9
 DTSTART;TZID=Europe/Berlin:20180609T143000
 DTEND;TZID=Europe/Berlin:20180609T150000
 END:VEVENT
@@ -501,15 +502,15 @@ SUMMARY:Camomile: Creating audio plugins with Pure Data
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Pierre Guillot\nType: Paper\nTopics: Audio Plugins\, Mu
- sic Composition\, Music Production\nKeywords: Pure Data\, Plugin\, DAW\, V
- ST\, Audio Unit\nAbstract: Camomile is an audio plugin with Pure Data embe
- dded allowing to create original and cross-platform audio plugins using pa
- tches and that could run in any digital audio workstation that accepts the
-  VST or Audio Unit formats. The paper presents an overview of the current 
- functionalities of Camomile and the possibilities offered by this tool. Fo
- llowing this\, the main lines of the future developments are exposed.\nID:
-  44
+DESCRIPTION:Author: 17:Pierre Guillot\nType: Paper\nTopics: Audio Plugins\,
+  Music Composition\, Music Production\nKeywords: Pure Data\, Plugin\, DAW\
+ , VST\, Audio Unit\nAbstract: Camomile is an audio plugin with Pure Data e
+ mbedded allowing to create original and cross-platform audio plugins using
+  patches and that could run in any digital audio workstation that accepts 
+ the VST or Audio Unit formats. The paper presents an overview of the curre
+ nt functionalities of Camomile and the possibilities offered by this tool.
+  Following this\, the main lines of the future developments are exposed.\n
+ ID: 44
 DTSTART;TZID=Europe/Berlin:20180608T130000
 DTEND;TZID=Europe/Berlin:20180608T133000
 END:VEVENT
@@ -522,22 +523,22 @@ SUMMARY:RSVP\, a preset system solution for Pure Data
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Jose Rafael Subía Valdez\nType: Paper\nTopics: Audio a
- nd Music Languages\, Interface Design\, Live Performance\, Music Compositi
- on\, Music Production\nKeywords: state-saving\, GUI\, interpolation\, exte
- rnal\, abstraction\nAbstract: This paper describes the logic and process b
- ehind the development of the RSVP preset library for the Pure Data program
- ming environment. The library aims to tackle the lack of a native preset s
- ystem in Pure Data. Other projects like Kollabs\, CREAM\, sssad\, and othe
- rs\, have produced different solutions for this issue. However\, after exp
- erimenting with the mentioned libraries\, I decided to approach the matter
-  with a different strategy. This led to the creation of the RSVP library w
- hich I will be describing in detail. During the development of this projec
- t\, I have been theorizing of a feature request for PD that will also be s
- hared here. This paper will offer a detailed description of how the system
-  works\, but will not go into extensive Pure Data patch descriptions. Inst
- ead\, I wish to show how I structured the code and describe how the system
-  functions with the users own projects.\nID: 32
+DESCRIPTION:Author: 6:Jose Rafael Subía Valdez\nType: Paper\nTopics: Audio
+  and Music Languages\, Interface Design\, Live Performance\, Music Composi
+ tion\, Music Production\nKeywords: state-saving\, GUI\, interpolation\, ex
+ ternal\, abstraction\nAbstract: This paper describes the logic and process
+  behind the development of the RSVP preset library for the Pure Data progr
+ amming environment. The library aims to tackle the lack of a native preset
+  system in Pure Data. Other projects like Kollabs\, CREAM\, sssad\, and ot
+ hers\, have produced different solutions for this issue. However\, after e
+ xperimenting with the mentioned libraries\, I decided to approach the matt
+ er with a different strategy. This led to the creation of the RSVP library
+  which I will be describing in detail. During the development of this proj
+ ect\, I have been theorizing of a feature request for PD that will also be
+  shared here. This paper will offer a detailed description of how the syst
+ em works\, but will not go into extensive Pure Data patch descriptions. In
+ stead\, I wish to show how I structured the code and describe how the syst
+ em functions with the users own projects.\nID: 32
 DTSTART;TZID=Europe/Berlin:20180608T110000
 DTEND;TZID=Europe/Berlin:20180608T113000
 END:VEVENT
@@ -550,8 +551,8 @@ SUMMARY:BBQ
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10997 Berlin
-DESCRIPTION:Author: LAC team\nType: Informal\nAbstract: There will be a bar
- becue with a limited set of food. First come\, first served!\nID: 101
+DESCRIPTION:Author: 1:LAC team\nType: Informal\nAbstract: There will be a b
+ arbecue with a limited set of food. First come\, first served!\nID: 101
 DTSTART;TZID=Europe/Berlin:20180607T190000
 DTEND;TZID=Europe/Berlin:20180607T210000
 END:VEVENT
@@ -564,16 +565,16 @@ SUMMARY:Distributed time-centric APIs with CLAPI
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Paul Weaver & David Honour\nType: Paper\nTopics: Interf
- ace Design\, MIDI\, OSC\, Music Production\, Networked Audio\nKeywords: AP
- I\, Distributed\, Pub/Sub\, Semantics\, Introspection\nAbstract: Distribut
- ed control of applications by multiple simultaneous devices has traditiona
- lly been achieved via protocols such as MIDI or OSC. These simple protocol
- s require additional semantics\, often communicated out of band\, in order
-  to construct meaningful APIs.\nWe present the Concert Light-weight API (C
- LAPI) framework: a session-based pub/sub API framework that aims to simpli
- fy the definition and usage of semantic\, time-centric distributed control
- s.\nID: 54
+DESCRIPTION:Author: 51:Paul Weaver| 52:David Honour\nType: Paper\nTopics: I
+ nterface Design\, MIDI\, OSC\, Music Production\, Networked Audio\nKeyword
+ s: API\, Distributed\, Pub/Sub\, Semantics\, Introspection\nAbstract: Dist
+ ributed control of applications by multiple simultaneous devices has tradi
+ tionally been achieved via protocols such as MIDI or OSC. These simple pro
+ tocols require additional semantics\, often communicated out of band\, in 
+ order to construct meaningful APIs.\nWe present the Concert Light-weight A
+ PI (CLAPI) framework: a session-based pub/sub API framework that aims to s
+ implify the definition and usage of semantic\, time-centric distributed co
+ ntrols.\nID: 54
 DTSTART;TZID=Europe/Berlin:20180610T113000
 DTEND;TZID=Europe/Berlin:20180610T120000
 END:VEVENT
@@ -586,8 +587,8 @@ SUMMARY:Welcome Speech
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10997 Berlin
-DESCRIPTION:Author: LAC team\nType: Informal\nAbstract: A short welcome spe
- ech by the team.\nID: 100
+DESCRIPTION:Author: 1:LAC team\nType: Informal\nAbstract: A short welcome s
+ peech by the team.\nID: 100
 DTSTART;TZID=Europe/Berlin:20180607T180000
 DTEND;TZID=Europe/Berlin:20180607T183000
 END:VEVENT
@@ -600,16 +601,16 @@ SUMMARY:Jacktools - Realtime Audio Processors as Python Classes
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Fons Adriaensen\nType: Paper\nTopics: Audio and Music L
- anguages\, Audio Plugins\, Signal Processing and Sound Synthesis\, Sound S
- patialization\nKeywords: Jack\, Python\, Audio measurements\, Modular audi
- o systems\nAbstract: This paper introduces a set of real-time audio proces
- sing blocks that can be used as components in Python scripts. Each of them
-  is both a Jack client and a Python class. The full power of Python can be
-  used to control these modules\, to combine them into systems of arbitrary
-  complexity\, and to interface them to anything that can be controlled fro
- m Python. The rationale behind this approach\, some of the the implementat
- ions details\, and possible applications are discussed.\nID: 46
+DESCRIPTION:Author: 50:Fons Adriaensen\nType: Paper\nTopics: Audio and Musi
+ c Languages\, Audio Plugins\, Signal Processing and Sound Synthesis\, Soun
+ d Spatialization\nKeywords: Jack\, Python\, Audio measurements\, Modular a
+ udio systems\nAbstract: This paper introduces a set of real-time audio pro
+ cessing blocks that can be used as components in Python scripts. Each of t
+ hem is both a Jack client and a Python class. The full power of Python can
+  be used to control these modules\, to combine them into systems of arbitr
+ ary complexity\, and to interface them to anything that can be controlled 
+ from Python. The rationale behind this approach\, some of the the implemen
+ tations details\, and possible applications are discussed.\nID: 46
 DTSTART;TZID=Europe/Berlin:20180610T110000
 DTEND;TZID=Europe/Berlin:20180610T113000
 END:VEVENT
@@ -622,22 +623,22 @@ SUMMARY:Understanding and being creative with Pure Data’s data structures
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Joao Pais\nType: Workshop\nTopics: Audio and Music Lang
- uages\nKeywords: pure data\, data structures\, data visualization\, data i
- nteraction\nAbstract: Pure Data’s data structures are one of the few cor
- e features that distinguish Pd from Max/MSP. Yet\, they’re also one of t
- he few modules which are used solely by a small group of users. The main r
- easons for this would be both the not yet very mature and complete collect
- ion of objects\, as well as not very intuitive implementation in Pd’s la
- nguage.\nThis workshop illustrates the possibilities of Pd’s data struct
- ures as a fruitful companion to any Pd user interested in a closer and mor
- e flexible interaction with the graphical representation of data.\nThe fir
- st part explains how to program with data structures (and their shortcomin
- gs). The second part analyses several examples of “real life” situatio
- ns (display and control examples\, up to complex patches to control / gene
- rate music in realtime).\nAfter this workshop\, it should be clear how to 
- program with data structures\, and integrate them inindividual patches.\nI
- D: 26
+DESCRIPTION:Author: 7:Joao Pais\nType: Workshop\nTopics: Audio and Music La
+ nguages\nKeywords: pure data\, data structures\, data visualization\, data
+  interaction\nAbstract: Pure Data’s data structures are one of the few c
+ ore features that distinguish Pd from Max/MSP. Yet\, they’re also one of
+  the few modules which are used solely by a small group of users. The main
+  reasons for this would be both the not yet very mature and complete colle
+ ction of objects\, as well as not very intuitive implementation in Pd’s 
+ language.\nThis workshop illustrates the possibilities of Pd’s data stru
+ ctures as a fruitful companion to any Pd user interested in a closer and m
+ ore flexible interaction with the graphical representation of data.\nThe f
+ irst part explains how to program with data structures (and their shortcom
+ ings). The second part analyses several examples of “real life” situat
+ ions (display and control examples\, up to complex patches to control / ge
+ nerate music in realtime).\nAfter this workshop\, it should be clear how t
+ o program with data structures\, and integrate them inindividual patches.\
+ nID: 26
 DTSTART;TZID=Europe/Berlin:20180609T170000
 DTEND;TZID=Europe/Berlin:20180609T190000
 END:VEVENT
@@ -649,8 +650,8 @@ UID:F18DMUFGMDVKXRHQQ52GTD
 SUMMARY:Bus No. 1
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Helene Hedsund\nType: Performance\nAbstractElectroacous
- tic Music\, 8 channels\nID: 45
+DESCRIPTION:Author: 27:Helene Hedsund\nType: Performance\nAbstractElectroac
+ oustic Music\, 8 channels\nID: 45
 DTSTART;TZID=Europe/Berlin:20180608T223000
 DTEND;TZID=Europe/Berlin:20180608T223900
 END:VEVENT
@@ -663,20 +664,20 @@ SUMMARY:AAMA  - DIY HOA microphone kits with Linux
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: Winfried Ritsch & Paul Tirk\nType: Workshop\nTopics: Au
- dio Hardware Support\, Drivers\, System and Sound Architecture\, Mobile Au
- dio\nKeywords: Microphone\, Audio Interface\, Mobile Audio\, embedded Linu
- x devices\nAbstract: The overall target is the making of affordable DIY Am
- bisonics field recorders with individual flair.\nOne central part of this 
- aim is the "Affordable Ambisonics Microphones Array" (AAMA).\nThe usage of
-  an embedded Linux computer simplified and accelerated the development of 
- individual solutions of Ambisonics Microphones.\nExtensions to the embedde
- d Linux systems as capes or modules are developed to interface and manage 
- the microphone arrays.\nAlso micro-controller usage for intermediate inter
- facing Linux computers is in focus.\nSensors enhancing the usage of these 
- higher order Ambisonics microphone arrays\, combined with corresponding so
- ftware tools enables the construction of your individual Ambisonics microp
- hone array instance.\nID: 31
+DESCRIPTION:Author: 53:Winfried Ritsch| 54:Paul Tirk\nType: Workshop\nTopic
+ s: Audio Hardware Support\, Drivers\, System and Sound Architecture\, Mobi
+ le Audio\nKeywords: Microphone\, Audio Interface\, Mobile Audio\, embedded
+  Linux devices\nAbstract: The overall target is the making of affordable D
+ IY Ambisonics field recorders with individual flair.\nOne central part of 
+ this aim is the "Affordable Ambisonics Microphones Array" (AAMA).\nThe usa
+ ge of an embedded Linux computer simplified and accelerated the developmen
+ t of individual solutions of Ambisonics Microphones.\nExtensions to the em
+ bedded Linux systems as capes or modules are developed to interface and ma
+ nage the microphone arrays.\nAlso micro-controller usage for intermediate 
+ interfacing Linux computers is in focus.\nSensors enhancing the usage of t
+ hese higher order Ambisonics microphone arrays\, combined with correspondi
+ ng software tools enables the construction of your individual Ambisonics m
+ icrophone array instance.\nID: 31
 DTSTART;TZID=Europe/Berlin:20180610T140000
 DTEND;TZID=Europe/Berlin:20180610T160000
 END:VEVENT
@@ -689,8 +690,8 @@ SUMMARY:Lightning Talks
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: LAC team\nType: Lightning Talks\nAbstract: A set of lig
- htning talks by you!\nID: 103
+DESCRIPTION:Author: 1:LAC team\nType: Lightning Talks\nAbstract: A set of l
+ ightning talks by you!\nID: 103
 DTSTART;TZID=Europe/Berlin:20180609T150000
 DTEND;TZID=Europe/Berlin:20180609T163000
 END:VEVENT
@@ -701,14 +702,15 @@ LAST-MODIFIED:20180501T222014
 UID:MPNVUGISV4NMJ4Q8FXQS
 SUMMARY:Ziggurat: A Step Sequencer for Linux
 CLASS:PUBLIC
-DESCRIPTION:Author: Chris Chronopoulos\nType: Poster\nTopics: Interface Des
- ign\, Live Performance\, MIDI\, OSC\, Music Composition\nKeywords: Sequenc
- ing\, MIDI\, Generative Music\, RtMidi\nAbstract: We introduce a new\, sta
- ndalone software sequencer based on the hardware step sequencers common in
-  electronic music production. Ziggurat supports both ALSA and JACK MIDI\, 
- and features polymetric sequencing\, flexible signal routing\, and dynamic
-  sequence manipulation for live performance. This poster presents the moti
- vation\, design goals\, implementation and status of the project.\nID: 41
+DESCRIPTION:Author: 38:Chris Chronopoulos\nType: Poster\nTopics: Interface 
+ Design\, Live Performance\, MIDI\, OSC\, Music Composition\nKeywords: Sequ
+ encing\, MIDI\, Generative Music\, RtMidi\nAbstract: We introduce a new\, 
+ standalone software sequencer based on the hardware step sequencers common
+  in electronic music production. Ziggurat supports both ALSA and JACK MIDI
+ \, and features polymetric sequencing\, flexible signal routing\, and dyna
+ mic sequence manipulation for live performance. This poster presents the m
+ otivation\, design goals\, implementation and status of the project.\nID: 
+ 41
 STATUS:CONFIRMED
 DTSTART;TZID=Europe/Berlin:20180609T143000
 DTEND;TZID=Europe/Berlin:20180609T150000

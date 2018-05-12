@@ -28,25 +28,25 @@ LAST-MODIFIED:20180502T225610
 UID:K57B60WTJ79G70TEPH8HR
 SUMMARY:Sentire
 CLASS:PUBLIC
-DESCRIPTION:Author: Marcello Lussana\nType: Installation\nTopics: Audio and
-  Music Languages\, Interactive Art\, Music Composition\, Projects Realized
-  using Linux Audio\, Signal Processing and Sound Synthesis\nKeywords: embo
- diement\, interactive\, sound\, installation\, performance\nAbstract: Sent
- ire is an Italian word that means both to hear and to feel. The project is
-  about exploring the fine mixture of these two senses and\, particularly\,
-  to their amplification and morphing.\n\n'Sentire' project was initiated b
- y two Berlin-based artists Marcello Lussana and Olga Kozmanidze in 2016. T
- he project consists of two parts: immersive performance series based on in
- teractive sound and PhD research on human perception. In the course of the
-  project we have been using a device (bracelets) connecting two people to 
- the sound system and tracking distance and touch events between them. We a
- pply and constantly develop a method of device usage according to which pa
- rticipants proceed through a scenario of two phases interaction. Depending
-  on distance and touch between them different sounds are triggered and cha
- nging\, creating an instant sound feedback. Gradually both hearing and sen
- se of touch morth one into another giving a chance to perceive one's body 
- on a deep level.\n\nThe interactive system has been designed with the Supe
- rcollider software and it runs on Linux Mint.\nID: 17
+DESCRIPTION:Author: 40:Marcello Lussana\nType: Installation\nTopics: Audio 
+ and Music Languages\, Interactive Art\, Music Composition\, Projects Reali
+ zed using Linux Audio\, Signal Processing and Sound Synthesis\nKeywords: e
+ mbodiement\, interactive\, sound\, installation\, performance\nAbstract: S
+ entire is an Italian word that means both to hear and to feel. The project
+  is about exploring the fine mixture of these two senses and\, particularl
+ y\, to their amplification and morphing.\n\n'Sentire' project was initiate
+ d by two Berlin-based artists Marcello Lussana and Olga Kozmanidze in 2016
+ . The project consists of two parts: immersive performance series based on
+  interactive sound and PhD research on human perception. In the course of 
+ the project we have been using a device (bracelets) connecting two people 
+ to the sound system and tracking distance and touch events between them. W
+ e apply and constantly develop a method of device usage according to which
+  participants proceed through a scenario of two phases interaction. Depend
+ ing on distance and touch between them different sounds are triggered and 
+ changing\, creating an instant sound feedback. Gradually both hearing and 
+ sense of touch morth one into another giving a chance to perceive one's bo
+ dy on a deep level.\n\nThe interactive system has been designed with the S
+ upercollider software and it runs on Linux Mint.\nID: 17
 STATUS:CONFIRMED
 DTSTART;TZID=Europe/Berlin:20180609T200000
 DTEND;TZID=Europe/Berlin:20180610T000000
@@ -60,22 +60,22 @@ SUMMARY:TXTED - interactive audio-visual performance using open-source musi
  cal machine learning interaction
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Shawn Trail\nType: Performance\nKeywords: NIME\, Pureda
- ta\, Raspberry Pi\nAbstract: This is a proposal to perform a new body of w
- ork using a new pitched percussion hyperinstrument system featuring a mach
- ine learning tool designed for music performance. All software was designe
- d in Puredata and runs on a Raspberry Pi with multichannel audio in/out. T
- he framework consists of custom idiomatic gesture interfaces and processin
- g software for an electric lamellophone with embedded gesture sensing. The
-  instrumental framework is accompanied by an interactive video synthesizer
-  built in GEM and also running on a Raspberry Pi\, networked together wire
- lessly. The project represents the culmination of the Phd research recentl
- y completed by the artist [1][2].\n\n1.Non-invasive sensing and gesture co
- ntrol for pitched percussion hyper-instruments using the Kinect.\nS Trail\
- , M Dean\, G Odowichuk\, TF Tavares\, PF Driessen\, WA Schloss\, G Tzaneta
- kis. NIME 2012.\n\n2. El-Lamellophone A Low-cost\, DIY\, Open Framework fo
- r Acoustic Lemellophone Based Hyperinstruments.\nS Trail\, D MacConnell\, 
- L Jenkins\, J Snyder\, G Tzanetakis\, PF Driessen. NIME\, 2014.\nID: 56
+DESCRIPTION:Author: 42:Shawn Trail\nType: Performance\nKeywords: NIME\, Pur
+ edata\, Raspberry Pi\nAbstract: This is a proposal to perform a new body o
+ f work using a new pitched percussion hyperinstrument system featuring a m
+ achine learning tool designed for music performance. All software was desi
+ gned in Puredata and runs on a Raspberry Pi with multichannel audio in/out
+ . The framework consists of custom idiomatic gesture interfaces and proces
+ sing software for an electric lamellophone with embedded gesture sensing. 
+ The instrumental framework is accompanied by an interactive video synthesi
+ zer built in GEM and also running on a Raspberry Pi\, networked together w
+ irelessly. The project represents the culmination of the Phd research rece
+ ntly completed by the artist [1][2].\n\n1.Non-invasive sensing and gesture
+  control for pitched percussion hyper-instruments using the Kinect.\nS Tra
+ il\, M Dean\, G Odowichuk\, TF Tavares\, PF Driessen\, WA Schloss\, G Tzan
+ etakis. NIME 2012.\n\n2. El-Lamellophone A Low-cost\, DIY\, Open Framework
+  for Acoustic Lemellophone Based Hyperinstruments.\nS Trail\, D MacConnell
+ \, L Jenkins\, J Snyder\, G Tzanetakis\, PF Driessen. NIME\, 2014.\nID: 56
 DTSTART;TZID=Europe/Berlin:20180609T210000
 DTEND;TZID=Europe/Berlin:20180609T211500
 END:VEVENT
@@ -87,14 +87,14 @@ UID:AS2CZUECWT9ILZ5TBVHJKG
 SUMMARY:COSMO
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Felix Hofmann\nType: Performance\nKeywords: performance
- \, saxophone\, raspberry pi\, csound\nAbstract: COSMO Collective is an ope
- n musical collaboration for musicians using DIY electronics and custom sof
- tware written in Csound. There is no definite musical style\, though it co
- uld perhaps be characterized as electro-acoustic\nimprovisation. The focus
-  is on the exploration of sound and timbre\, rather than traditional harmo
- nics and rhythm\, and exploiting the powers of Csound in this pursuit.\nID
- : 21
+DESCRIPTION:Author: 43:Felix Hofmann\nType: Performance\nKeywords: performa
+ nce\, saxophone\, raspberry pi\, csound\nAbstract: COSMO Collective is an 
+ open musical collaboration for musicians using DIY electronics and custom 
+ software written in Csound. There is no definite musical style\, though it
+  could perhaps be characterized as electro-acoustic\nimprovisation. The fo
+ cus is on the exploration of sound and timbre\, rather than traditional ha
+ rmonics and rhythm\, and exploiting the powers of Csound in this pursuit.\
+ nID: 21
 DTSTART;TZID=Europe/Berlin:20180609T220000
 DTEND;TZID=Europe/Berlin:20180609T221000
 END:VEVENT
@@ -106,19 +106,19 @@ UID:5FZFBEGNYVRD7CMYP6ZIPQ
 SUMMARY:Tessellations
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: José Rafael Subía Valdez\nType: Performance\nTopics: 
- Live Performance\, Music Composition\nKeywords: live electronics\, pure da
- ta\nAbstract: Tessellations plays with the repetition of material generate
- d by manipulating the interval structure of the chord and submitting it to
-  short processes that I generate myself in Python and execute them inside 
- PD with the py object. This piece is an experimentation on the way I link 
- time\, material and narrative. The “tessellated” object not only morph
- s the musical material but also the space where it occurs and the performe
- r responsible for it – player or computer –. Furthermore\, the piece h
- as 2 solos\, one in which the performer improvises based on visual cues an
- d musical anchor points\, and the other which was generated algorithmicall
- y and is “written” on the score\, this incorporates the idea of the ac
- t of composition as the tessellated object itself.\nID: 23
+DESCRIPTION:Author: 44:José Rafael Subía Valdez\nType: Performance\nTopic
+ s: Live Performance\, Music Composition\nKeywords: live electronics\, pure
+  data\nAbstract: Tessellations plays with the repetition of material gener
+ ated by manipulating the interval structure of the chord and submitting it
+  to short processes that I generate myself in Python and execute them insi
+ de PD with the py object. This piece is an experimentation on the way I li
+ nk time\, material and narrative. The “tessellated” object not only mo
+ rphs the musical material but also the space where it occurs and the perfo
+ rmer responsible for it – player or computer –. Furthermore\, the piec
+ e has 2 solos\, one in which the performer improvises based on visual cues
+  and musical anchor points\, and the other which was generated algorithmic
+ ally and is “written” on the score\, this incorporates the idea of the
+  act of composition as the tessellated object itself.\nID: 23
 DTSTART;TZID=Europe/Berlin:20180609T223000
 DTEND;TZID=Europe/Berlin:20180609T224500
 END:VEVENT
@@ -130,19 +130,19 @@ UID:89D26VV861P10OJJV4U5XPB
 SUMMARY:mathr performs with Clive
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Claude Heiland-Allen\nType: Performance\nTopics: Live C
- oding\nKeywords: audio\, live-coding\, performance\, C\nAbstract: Claude H
- eiland-Allen (https://mathr.co.uk) is an artist from London interested in 
- the complex emergent behaviour of simple systems\, unusual geometries\, an
- d mathematical aesthetics.\n\nClive is an audio live-coding skeleton\, imp
- lemented in C. It supports a two-phase edit-commit coding cycle allowing l
- ong-lived signal processing graphs to be modified without interrupting the
-  sound.\n\nPerformance with Clive usually involves pre-preparation\, from 
- simple unit generators up to more complete compositions. The live-coding a
- spect involves editing a file in the performer’s favourite text editor\,
-  with the act of saving with Ctrl-S or other shortcut being timed to allow
-  the new code to start executing in sync after the latency of compilation.
- \nID: 22
+DESCRIPTION:Author: 45:Claude Heiland-Allen\nType: Performance\nTopics: Liv
+ e Coding\nKeywords: audio\, live-coding\, performance\, C\nAbstract: Claud
+ e Heiland-Allen (https://mathr.co.uk) is an artist from London interested 
+ in the complex emergent behaviour of simple systems\, unusual geometries\,
+  and mathematical aesthetics.\n\nClive is an audio live-coding skeleton\, 
+ implemented in C. It supports a two-phase edit-commit coding cycle allowin
+ g long-lived signal processing graphs to be modified without interrupting 
+ the sound.\n\nPerformance with Clive usually involves pre-preparation\, fr
+ om simple unit generators up to more complete compositions. The live-codin
+ g aspect involves editing a file in the performer’s favourite text edito
+ r\, with the act of saving with Ctrl-S or other shortcut being timed to al
+ low the new code to start executing in sync after the latency of compilati
+ on.\nID: 22
 DTSTART;TZID=Europe/Berlin:20180609T230000
 DTEND;TZID=Europe/Berlin:20180609T232000
 END:VEVENT
@@ -155,21 +155,21 @@ SUMMARY:The Electronic Orchestra Berlin: The Metaphysics of Notation
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:
-DESCRIPTION:Author: Henrik von Coler & David Runge\nType: Performance\nKeyw
- ords: Performance\, Live Electronics\, Modular Synth\, Live Spatialization
- \, VBAP\, Ambisonics\, Graphical Scores\nAbstract: 12 electronic and elect
- roacoustic instruments\, live\nspatialized on a 12-speaker system - the El
- ectronic\nOrchestra Charlottenburg (EOC)\, a project of the Electronic\nMu
- sic Studio at TU Berlin\, explores means of organizing and\nspatializing t
- he seemingly infinite diversity of electronic\nsounds in a larger ensemble
- .\n\nThe Metaphysics of Notation (2008)\, by Mark Applebaum\, is a\ngraphi
- cal score with a length of 22 meters\, divided into 12\npanels.For the int
- erpretation of the score\, each instrument is assigned one or several pane
- ls. The piece is performed\nwithout a fixed time grid.\nThe performance wi
- ll be spatialized using the SSR\, PD and\nPython\, running on a Linux Serv
- er with Ubuntu Studio. The\nserver is remote controlled by the sound direc
- tor via OSC and various input devices. Inputs and outputs are managed with
-  a RME MADI card and several AD/DA converters.\nID: 47
+DESCRIPTION:Author: 46:Henrik von Coler| 47:David Runge\nType: Performance\
+ nKeywords: Performance\, Live Electronics\, Modular Synth\, Live Spatializ
+ ation\, VBAP\, Ambisonics\, Graphical Scores\nAbstract: 12 electronic and 
+ electroacoustic instruments\, live\nspatialized on a 12-speaker system - t
+ he Electronic\nOrchestra Charlottenburg (EOC)\, a project of the Electroni
+ c\nMusic Studio at TU Berlin\, explores means of organizing and\nspatializ
+ ing the seemingly infinite diversity of electronic\nsounds in a larger ens
+ emble.\n\nThe Metaphysics of Notation (2008)\, by Mark Applebaum\, is a\ng
+ raphical score with a length of 22 meters\, divided into 12\npanels.For th
+ e interpretation of the score\, each instrument is assigned one or several
+  panels. The piece is performed\nwithout a fixed time grid.\nThe performan
+ ce will be spatialized using the SSR\, PD and\nPython\, running on a Linux
+  Server with Ubuntu Studio. The\nserver is remote controlled by the sound 
+ director via OSC and various input devices. Inputs and outputs are managed
+  with a RME MADI card and several AD/DA converters.\nID: 47
 DTSTART;TZID=Europe/Berlin:20180609T233000
 DTEND;TZID=Europe/Berlin:20180609T234500
 END:VEVENT
@@ -181,11 +181,11 @@ UID:1HW9S4VKBN2TS2ON79ERZ
 SUMMARY:Pick It Up
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Krzysztof Gawlas\nType: Performance\nTopics: Interactiv
- e Art\, Media Art\, Music Composition\, Signal Processing and Sound Synthe
- sis\, Sound Spatialization\nKeywords: live performance\, prepared guitar\n
- Abstract: Composition for prepared electric guitar and live electronics (S
- uperCollider)\, with multichannel spatialization.\nID: 49
+DESCRIPTION:Author: 41:Krzysztof Gawlas\nType: Performance\nTopics: Interac
+ tive Art\, Media Art\, Music Composition\, Signal Processing and Sound Syn
+ thesis\, Sound Spatialization\nKeywords: live performance\, prepared guita
+ r\nAbstract: Composition for prepared electric guitar and live electronics
+  (SuperCollider)\, with multichannel spatialization.\nID: 49
 DTSTART;TZID=Europe/Berlin:20180609T203000
 DTEND;TZID=Europe/Berlin:20180609T204000
 END:VEVENT
@@ -197,16 +197,16 @@ UID:KGZ7YDVU9NR2QDG0KJDKN
 SUMMARY:Gestural Performance 2
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: Joao Pais\nType: Performance\nKeywords: gestural perfor
- mance\, leapmotion\, pure data\nAbstract: This semi-improvised performance
-  is the next step of an ongoing research for a gestural performance instru
- ment being developed by Pais. Using the LeapMotion sensor together with cu
- stom-made gesture interpretation and synthesis objects in Pure Data\, the 
- expressiveness of the performer's hand movements is reflected in the expre
- ssiveness of the sound that is produced and in its integration in space in
-  a multichannel setup. The aim is to produce a developing event\, where th
- e gestures visible to the audience acquire a new meaning in each new sound
-  context present in during the performance.\nID: 27
+DESCRIPTION:Author: 7:Joao Pais\nType: Performance\nKeywords: gestural perf
+ ormance\, leapmotion\, pure data\nAbstract: This semi-improvised performan
+ ce is the next step of an ongoing research for a gestural performance inst
+ rument being developed by Pais. Using the LeapMotion sensor together with 
+ custom-made gesture interpretation and synthesis objects in Pure Data\, th
+ e expressiveness of the performer's hand movements is reflected in the exp
+ ressiveness of the sound that is produced and in its integration in space 
+ in a multichannel setup. The aim is to produce a developing event\, where 
+ the gestures visible to the audience acquire a new meaning in each new sou
+ nd context present in during the performance.\nID: 27
 DTSTART;TZID=Europe/Berlin:20180609T213000
 DTEND;TZID=Europe/Berlin:20180609T214500
 END:VEVENT
