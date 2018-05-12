@@ -13,7 +13,7 @@
 
 **Time**: 14:30 - 15:30
 
-**Author(s)**: Marten Seedorf & Simon Steinhaus
+**Author(s)**: Marten Seedorf, Simon Steinhaus
 
 **Keywords**: education, sound synthesis, pure data, purr data, modular, toolset
 

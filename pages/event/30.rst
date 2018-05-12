@@ -13,7 +13,7 @@
 
 **Time**: 11:00 - 12:00
 
-**Author(s)**: Daniel James & Christopher Obbard
+**Author(s)**: Daniel James, Christopher Obbard
 
 **Keywords**: GNU/Linux distributions, reference platform, hardware support, business models
 

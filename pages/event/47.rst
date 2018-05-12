@@ -13,7 +13,7 @@
 
 **Time**: 23:30 - 23:45
 
-**Author(s)**: Henrik von Coler & David Runge
+**Author(s)**: Henrik von Coler, David Runge
 
 **Keywords**: Performance, Live Electronics, Modular Synth, Live Spatialization, VBAP, Ambisonics, Graphical Scores
 

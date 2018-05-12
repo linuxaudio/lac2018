@@ -13,7 +13,7 @@
 
 **Time**: 11:30 - 12:00
 
-**Author(s)**: Paul Weaver & David Honour
+**Author(s)**: Paul Weaver, David Honour
 
 **Keywords**: API, Distributed, Pub/Sub, Semantics, Introspection
 

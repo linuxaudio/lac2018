@@ -13,7 +13,7 @@
 
 **Time**: 14:00 - 16:00
 
-**Author(s)**: Winfried Ritsch & Paul Tirk
+**Author(s)**: Winfried Ritsch, Paul Tirk
 
 **Keywords**: Microphone, Audio Interface, Mobile Audio, embedded Linux devices
 

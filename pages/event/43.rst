@@ -13,7 +13,7 @@
 
 **Time**: 12:30 - 13:00
 
-**Author(s)**: Christoph Kuhr & Alexander Carôt
+**Author(s)**: Christoph Kuhr, Alexander Carôt
 
 **Keywords**: AVB, JACK, signal processing, public internet, mutlimedia streaming
 

@@ -13,7 +13,7 @@
 
 **Time**: 12:00 - 12:30
 
-**Author(s)**: Tobias Herzke, Hendrik Kayser, Christopher Seifert, Paul Maanen, Christopher Obbard, Guillermo Payá-Vayá, Holger Blume and Volker Hohmann
+**Author(s)**: Tobias Herzke, Hendrik Kayser, Christopher Seifert, Paul Maanen, Christopher Obbard, Guillermo Payá-Vayá, Holger Blume,  Volker Hohmann
 
 **Keywords**: Hearing aids, audio signal processing, sound hardware
 
