@@ -147,11 +147,23 @@ CREATED:20180426T191713
 DTSTAMP:20180426T191713
 LAST-MODIFIED:20180426T191745
 UID:H8IIR32R4CH8CQ2CY90FCB
-SUMMARY:Keynote
+SUMMARY:MOD: building a sustainable Linux Audio based business
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: 30:TBA\nType: Presentation\nTopics: TBA\nKeywords: TBA\
- nAbstract: TBA\nID: 102
+DESCRIPTION:Author: 30:Gianfranco Ceccolini\nType: Keynote\nTopics: Hardwar
+ e\nKeywords: lv2\, MOD\, hardware\, business\nAbstract: The MOD Project: a
+ n overview of the history\, some comments and\nconsiderations about an Ope
+ n Source Linux Audio centric hardware business\nattempt and some insights 
+ for the future.\n\nMOD was born in 2010\, first debuted at LAC in 2013\, c
+ rowdfunded a mass\nproduct in 2014\, delivered it in 2016\, consolidated i
+ n 2017 and got funded\nin 2018.\n\nThese 8 years have been quite interesti
+ ng and a lot has happened along. I\nwould like to go over this history and
+  present what were the main\ndifficulties found along the way. I’d also 
+ put on the table some\nconsiderations about the Open Source Linux Audio ce
+ ntric aspect and its\npros/cons. Finally\, I’d like to share some insigh
+ ts and considerations for\nthe future\, both for our company as for the Li
+ nux Audio Community and the\npossible efforts towards attaining a sustaina
+ ble business model with the\ncommunity efforts.\nID: 102
 DTSTART;TZID=Europe/Berlin:20180609T100000
 DTEND;TZID=Europe/Berlin:20180609T110000
 END:VEVENT

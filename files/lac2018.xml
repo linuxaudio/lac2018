@@ -817,26 +817,60 @@ This workshop introduces the levTools.
   </day>
   <day index="3" date="2018-06-09" start="2018-06-09T10:00:00" end="2018-06-10T00:00:00">
     <room name="mainhall">
-      <event guid="507805c6-08ca-5dd6-adae-ad0d0f5f24d7" id="102">
+      <event guid="3d83e6db-b841-500d-bbcb-9cb282c1c9f1" id="102">
         <date>2018-06-09T10:00:00</date>
         <start>10:00</start>
         <duration>1:00</duration>
         <room>mainhall</room>
-        <slug>lac2018-102-keynote</slug>
+        <slug>lac2018-102-mod_building_a_sustainable_linux_audio_based_business</slug>
         <recording>
           <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
           <optout>false</optout>
         </recording>
-        <title>Keynote</title>
+        <title>MOD: building a sustainable Linux Audio based business</title>
         <language>en</language>
         <subtitle />
         <track />
         <type />
-        <abstract>TBA</abstract>
-        <description>TBA</description>
+        <abstract>
+The MOD Project: an overview of the history, some comments and
+considerations about an Open Source Linux Audio centric hardware business
+attempt and some insights for the future.
+
+MOD was born in 2010, first debuted at LAC in 2013, crowdfunded a mass
+product in 2014, delivered it in 2016, consolidated in 2017 and got funded
+in 2018.
+
+These 8 years have been quite interesting and a lot has happened along. I
+would like to go over this history and present what were the main
+difficulties found along the way. I’d also put on the table some
+considerations about the Open Source Linux Audio centric aspect and its
+pros/cons. Finally, I’d like to share some insights and considerations for
+the future, both for our company as for the Linux Audio Community and the
+possible efforts towards attaining a sustainable business model with the
+community efforts.
+        </abstract>
+        <description>
+The MOD Project: an overview of the history, some comments and
+considerations about an Open Source Linux Audio centric hardware business
+attempt and some insights for the future.
+
+MOD was born in 2010, first debuted at LAC in 2013, crowdfunded a mass
+product in 2014, delivered it in 2016, consolidated in 2017 and got funded
+in 2018.
+
+These 8 years have been quite interesting and a lot has happened along. I
+would like to go over this history and present what were the main
+difficulties found along the way. I’d also put on the table some
+considerations about the Open Source Linux Audio centric aspect and its
+pros/cons. Finally, I’d like to share some insights and considerations for
+the future, both for our company as for the Linux Audio Community and the
+possible efforts towards attaining a sustainable business model with the
+community efforts.
+        </description>
         <logo />
         <persons>
-          <person id="30">TBA</person>
+          <person id="30">Gianfranco Ceccolini</person>
         </persons>
         <links />
         <attachments />
@@ -1309,7 +1343,7 @@ improvisation. The focus is on the exploration of sound and timbre, rather than 
         </description>
         <logo />
         <persons>
-          <person id="43">Felix Hofmann</person>
+          <person id="43">Alex Hofmann</person>
         </persons>
         <links />
         <attachments />
