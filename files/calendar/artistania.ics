@@ -87,14 +87,14 @@ UID:AS2CZUECWT9ILZ5TBVHJKG
 SUMMARY:COSMO
 CLASS:PUBLIC
 STATUS:CONFIRMED
-DESCRIPTION:Author: 43:Felix Hofmann\nType: Performance\nKeywords: performa
- nce\, saxophone\, raspberry pi\, csound\nAbstract: COSMO Collective is an 
- open musical collaboration for musicians using DIY electronics and custom 
- software written in Csound. There is no definite musical style\, though it
-  could perhaps be characterized as electro-acoustic\nimprovisation. The fo
- cus is on the exploration of sound and timbre\, rather than traditional ha
- rmonics and rhythm\, and exploiting the powers of Csound in this pursuit.\
- nID: 21
+DESCRIPTION:Author: 43:Alex Hofmann\nType: Performance\nKeywords: performan
+ ce\, saxophone\, raspberry pi\, csound\nAbstract: COSMO Collective is an o
+ pen musical collaboration for musicians using DIY electronics and custom s
+ oftware written in Csound. There is no definite musical style\, though it 
+ could perhaps be characterized as electro-acoustic\nimprovisation. The foc
+ us is on the exploration of sound and timbre\, rather than traditional har
+ monics and rhythm\, and exploiting the powers of Csound in this pursuit.\n
+ ID: 21
 DTSTART;TZID=Europe/Berlin:20180609T220000
 DTEND;TZID=Europe/Berlin:20180609T221000
 END:VEVENT

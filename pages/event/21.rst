@@ -13,7 +13,7 @@
 
 **Time**: 22:00 - 22:10
 
-**Author(s)**: Felix Hofmann
+**Author(s)**: Alex Hofmann
 
 **Keywords**: performance, saxophone, raspberry pi, csound
 
