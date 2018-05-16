@@ -121,8 +121,8 @@
 
    * - 10:00 - 11:00
      - mainhall
-     - Presentation
-     - `Keynote </pages/event/102/>`_
+     - Keynote
+     - `MOD: building a sustainable Linux Audio based business </pages/event/102/>`_
    * - 11:30 - 13:10
      - ceminar
      - Workshop

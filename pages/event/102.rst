@@ -1,23 +1,38 @@
-.. title: Keynote
+.. title: MOD: building a sustainable Linux Audio based business
 .. slug: 102
 .. date: 
-.. tags: TBA
-.. category: Presentation
+.. tags: lv2, MOD, hardware, business
+.. category: Keynote
 .. link: 
 .. description: 
 .. type: text
 
-**Type**: Presentation
+**Type**: Keynote
 
 **Day**: 2018-06-09
 
 **Time**: 10:00 - 11:00
 
-**Author(s)**: TBA
+**Author(s)**: Gianfranco Ceccolini
 
-**Keywords**: TBA
+**Keywords**: lv2, MOD, hardware, business
 
 **Abstract**: 
-TBA
+The MOD Project: an overview of the history, some comments and
+considerations about an Open Source Linux Audio centric hardware business
+attempt and some insights for the future.
+
+MOD was born in 2010, first debuted at LAC in 2013, crowdfunded a mass
+product in 2014, delivered it in 2016, consolidated in 2017 and got funded
+in 2018.
+
+These 8 years have been quite interesting and a lot has happened along. I
+would like to go over this history and present what were the main
+difficulties found along the way. I’d also put on the table some
+considerations about the Open Source Linux Audio centric aspect and its
+pros/cons. Finally, I’d like to share some insights and considerations for
+the future, both for our company as for the Linux Audio Community and the
+possible efforts towards attaining a sustainable business model with the
+community efforts.
 
 **Downloads**: 
