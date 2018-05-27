@@ -25,7 +25,7 @@
   dedicated mailing list, that will be disposed of after the conference.
 
 | A short introduction/workshop for the different kinds of tasks will be held
-  on Thursday, **20180607** **16:00 (CEST)** (two hours before the `Welcome
+  on Thursday, **2018-06-07** **16:00 (CEST)** (two hours before the `Welcome
   Speech </pages/event/100/>`_).
 |
 | We would be very thankful, if you could spent some time with us to help with

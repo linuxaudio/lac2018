@@ -2,7 +2,6 @@
 .. slug: call-for-lightning-talks-starts
 .. date: 2018-05-25 19:59:28 UTC+02:00
 .. tags: lightning talks, schedule, live
-.. status: draft
 .. category: 
 .. link: 
 .. description: 
@@ -21,8 +20,8 @@
   Please don't forget to upload your slides! We can not accept lightning talks
   without a submitted PDF (with the exception of you not needing any slides).
   Your talk should be related to the topic of Linux Audio. Deadline for
-  submissions is **5.6.2018** and the lightning talk track will be held between
-  **15:00** and **16:30** on **9.6.2018** at c-base mainhall.
+  submissions is **2018-05-06** and the lightning talk track will be held
+  between **15:00** and **16:30** on **2018-06-09** at c-base mainhall.
 
 
 | If you encounter any problems, please contact |riot|, who is curating the
