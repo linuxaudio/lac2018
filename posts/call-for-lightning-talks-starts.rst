@@ -10,10 +10,10 @@
 | We are happy to announce, that we will also offer a track for lightning
   talks.
 
-* To get an overview of what is already submitted, have a look at the
-  |list_of_sessions|.
 * To submit a lightning talk, login or register with the
   |live_conference_system| and click the "Sessions" icon.
+* To get an overview of what you already submitted, have a look at the
+  |list_of_sessions|.
 
 .. note::
 
@@ -28,15 +28,15 @@
   lightning talks.
 
 
-.. |list_of_sessions| raw:: html
-
-  <a href="https://live.linuxaudio.org/#!/sessions" target="_blank">list of sessions</a>
-
 .. |live_conference_system| raw:: html
 
   <a href="https://live.linuxaudio.org/" target="_blank">live conference system</a>
 
+.. |list_of_sessions| raw:: html
+
+  <a href="https://live.linuxaudio.org/#!/sessions" target="_blank">list of sessions</a>
+
 .. |riot| raw:: html
 
-  <a href="mailto://riot@c-base.org">riot</a>
+  <a href="mailto:riot@c-base.org">riot</a>
 
