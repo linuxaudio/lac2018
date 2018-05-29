@@ -177,6 +177,7 @@ def retrieve_events_from_calendar(name, events):
 def write_schedule(events):
     schedule = open('pages/schedule.rst', 'w')
     days = {}
+    day_counter = 1
     # write header
     schedule.write('.. title: Schedule\n')
     schedule.write('.. slug: schedule\n')
@@ -193,8 +194,8 @@ def write_schedule(events):
     # write schedule, sorted by day, start time and location
     for day in sorted(days.keys()):
         schedule.write('\n')
-        schedule.write(str(day)+"\n")
-        schedule.write("==========\n")
+        schedule.write("Day "+str(day_counter)+" ("+str(day)+")\n")
+        schedule.write("==================\n")
         schedule.write("\n")
         schedule.write(".. list-table::\n")
         schedule.write("   :widths: auto\n")
@@ -208,6 +209,7 @@ def write_schedule(events):
             schedule.write("     - "+event.pretty_print_author()+"\n")
             schedule.write("     - `" + event.name +
                            " </pages/event/"+str(event.id)+"/>`_\n")
+        day_counter = day_counter + 1
 
     # write links
     schedule.write("\n")
