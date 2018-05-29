@@ -9,7 +9,7 @@ import datetime
 
 base_url = "https://cloud.sleepmap.de/remote.php/dav/public-calendars/"
 calendars = {
-    "artistania":
+    "nativespace":
     "PW6EescRREt9Bmte?export",
     "ceminar":
     "oqm2Tq2HqtxAM95a?export",
@@ -205,6 +205,7 @@ def write_schedule(events):
                            + str(event.end.time().isoformat('minutes'))+"\n")
             schedule.write("     - "+event.relative_location+"\n")
             schedule.write("     - "+event.type+"\n")
+            schedule.write("     - "+event.pretty_print_author()+"\n")
             schedule.write("     - `" + event.name +
                            " </pages/event/"+str(event.id)+"/>`_\n")
 
