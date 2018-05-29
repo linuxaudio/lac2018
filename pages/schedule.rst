@@ -7,8 +7,8 @@
 .. description: 
 .. type: text
 
-2018-06-07
-==========
+Day 1 (2018-06-07)
+==================
 
 .. list-table::
    :widths: auto
@@ -34,8 +34,8 @@
      - Louigi Verona
      - `Louigi Verona </pages/event/8/>`_
 
-2018-06-08
-==========
+Day 2 (2018-06-08)
+==================
 
 .. list-table::
    :widths: auto
@@ -141,8 +141,8 @@
      - Andre Bartetzki
      - `SHIFT </pages/event/16/>`_
 
-2018-06-09
-==========
+Day 3 (2018-06-09)
+==================
 
 .. list-table::
    :widths: auto
@@ -228,8 +228,8 @@
      - Claude Heiland-Allen
      - `mathr performs with Clive </pages/event/22/>`_
 
-2018-06-10
-==========
+Day 4 (2018-06-10)
+==================
 
 .. list-table::
    :widths: auto
