@@ -26,8 +26,8 @@ Day 1 (2018-06-07)
    * - 21:00 - 22:30
      - mainhall
      - Concert
-     - Superdirt^2
-     - `Superdirt </pages/event/58/>`_
+     - Superdirt²
+     - `Superdirt² </pages/event/58/>`_
    * - 23:00 - 01:00
      - mainhall
      - Concert

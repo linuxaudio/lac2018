@@ -18,7 +18,7 @@
 **Keywords**: data-flow, pd, pd-l2ork, pd-lua
 
 **Abstract**: 
-This hands-on workshop is intended for Pd and Linux audio users who want to start using Purr Data. For an introduction to Purr Data, please check our [LAC17 presentation](https://www.youtube.com/watch?v=T1wo496Zx0s) and the [Quick Introduction](https://agraef.github.io/purr-data-intro). Topics of the 90 min workshop vary from the basics to the moderately advanced and include:
+This hands-on workshop is intended for Pd and Linux audio users who want to start using Purr Data. For an introduction to Purr Data, please check our LAC17 presentation (https://www.youtube.com/watch?v=T1wo496Zx0s) and the Quick Introduction (https://agraef.github.io/purr-data-intro). Topics of the 90 min workshop vary from the basics to the moderately advanced and include:
 
 - Getting a minimal Purr Data installation up and running quickly on Linux (compiling from source).
 
@@ -26,7 +26,7 @@ This hands-on workshop is intended for Pd and Linux audio users who want to star
 
 - Real-time audio and MIDI processing, making music with Purr Data.
 
-- Programming new objects (a.k.a. Pd externals) the easy way with [Pd-Lua](https://github.com/agraef/pd-lua).
+- Programming new objects (a.k.a. Pd externals) the easy way with Pd-Lua (https://github.com/agraef/pd-lua).
 
 - Custom graphics and data structure visualizations in Purr Data.
 

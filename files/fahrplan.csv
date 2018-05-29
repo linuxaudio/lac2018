@@ -1,28 +1,60 @@
 Room,Date,Day,Start,Duration,Title,ID,Abstract,Description,Language,Speakers,File URL
 mainhall,2018-06-07,1,18:00,00:30,Welcome Speech,100,A short welcome speech by the team.,A short welcome speech by the team.,en,1:LAC team, 
 mainhall,2018-06-07,1,19:00,02:00,BBQ,101,"There will be a barbecue with a limited set of food. First come, first served!","There will be a barbecue with a limited set of food. First come, first served!",en,1:LAC team, 
-mainhall,2018-06-07,1,21:00,01:30,Superdirt,58,,,en,2:Superdirt^2, 
+mainhall,2018-06-07,1,21:00,01:30,Superdirt²,58," Fascinating electro beats mixed in with virtuous performed cello sounds which give a result of a never achieved before dance ability! With Ras Tilo at the synthesizers and Käpt'n Dirt with the cello it provides a musical experience which is situated between drum'n'bass, jungle, dub, dubstep and even far beyond...
+
+The Band:
+The two independent musicians knew each other through many musical projects and as flatmates, but are coming from totally different musical genres. While Ras Tilo (Vincent   Rateau) got in place as a music producer and multi-instrumentalist, Käpt'n Dirt (Daniel Fritzsche) continued his classical cello studies with an open mind and ears to new musical genres.
+One year ago, after a request to mix cello and electronic beats at a party they founded the project Superdirt² within two weeks, got straight away a lot of bookings and played this year up to 18 gigs - from small parties to big festivals.
+They are mixing musical genres, looping, synthesizing, improvising and never get tired of going beyond the thinkable knowledge of music.
+They just released their first full-length  album called “Algoriddims” - licensed under a Creative Commons license.
+
+Links:
+
+* http://superdirt.net/
+* http://soundcloud.com/superdirt
+* https://vimeo.com/76955070
+* http://www.facebook.com/Superdirt2
+"," Fascinating electro beats mixed in with virtuous performed cello sounds which give a result of a never achieved before dance ability! With Ras Tilo at the synthesizers and Käpt'n Dirt with the cello it provides a musical experience which is situated between drum'n'bass, jungle, dub, dubstep and even far beyond...
+
+The Band:
+The two independent musicians knew each other through many musical projects and as flatmates, but are coming from totally different musical genres. While Ras Tilo (Vincent   Rateau) got in place as a music producer and multi-instrumentalist, Käpt'n Dirt (Daniel Fritzsche) continued his classical cello studies with an open mind and ears to new musical genres.
+One year ago, after a request to mix cello and electronic beats at a party they founded the project Superdirt² within two weeks, got straight away a lot of bookings and played this year up to 18 gigs - from small parties to big festivals.
+They are mixing musical genres, looping, synthesizing, improvising and never get tired of going beyond the thinkable knowledge of music.
+They just released their first full-length  album called “Algoriddims” - licensed under a Creative Commons license.
+
+Links:
+
+* http://superdirt.net/
+* http://soundcloud.com/superdirt
+* https://vimeo.com/76955070
+* http://www.facebook.com/Superdirt2
+",en,2:Superdirt², 
 mainhall,2018-06-07,1,23:00,02:00,Louigi Verona,8,"A minimal house DJ set with Mixxx. Already performed at Sonoj to positive reviews, so I am confident this could be a nice addition to music nights.
 
 Unfortunately, I don’t have any recordings of my performances, however I am using only my 
 original music for sets and here are the links to some of the tunes I will definitely include into the 
 playlist:
-https://soundcloud.com/louigiverona/serenity-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/boat-at-the-mouth-of-a-river-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/i-am-at-the-club-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/berlin-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/stranger-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/berlin-songbook-vol-2-lair","A minimal house DJ set with Mixxx. Already performed at Sonoj to positive reviews, so I am confident this could be a nice addition to music nights.
+
+* https://soundcloud.com/louigiverona/serenity-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/boat-at-the-mouth-of-a-river-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/i-am-at-the-club-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/berlin-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/stranger-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/berlin-songbook-vol-2-lair
+","A minimal house DJ set with Mixxx. Already performed at Sonoj to positive reviews, so I am confident this could be a nice addition to music nights.
 
 Unfortunately, I don’t have any recordings of my performances, however I am using only my 
 original music for sets and here are the links to some of the tunes I will definitely include into the 
 playlist:
-https://soundcloud.com/louigiverona/serenity-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/boat-at-the-mouth-of-a-river-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/i-am-at-the-club-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/berlin-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/stranger-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/berlin-songbook-vol-2-lair",en,3:Louigi Verona, 
+
+* https://soundcloud.com/louigiverona/serenity-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/boat-at-the-mouth-of-a-river-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/i-am-at-the-club-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/berlin-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/stranger-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/berlin-songbook-vol-2-lair
+",en,3:Louigi Verona, 
 mainhall,2018-06-08,2,10:00,00:30,Using Perlin noise in sound synthesis,14,"Perlin noise is a well known algorithm in computer graphics applications and one of the first algorithms for generating procedural textures. It has been very widely used in movies, games, demos, and landscape generators, but despite its popularity it has been seldom used for creative purposes in the fields outside the world of computer graphics. This paper discusses the use of Perlin noise and fractional Brownian motion for sound synthesis applications.","Perlin noise is a well known algorithm in computer graphics applications and one of the first algorithms for generating procedural textures. It has been very widely used in movies, games, demos, and landscape generators, but despite its popularity it has been seldom used for creative purposes in the fields outside the world of computer graphics. This paper discusses the use of Perlin noise and fractional Brownian motion for sound synthesis applications.",en,4:Artem Popov, 
 mainhall,2018-06-08,2,10:30,00:30,SpectMorph: Morphing the Timbre of Musical Instruments,18,"SpectMorph is an open source software which performs morphing of the timbre of musical instruments. This allows creating sounds that smoothly transition from the timbre of one instrument to the timbre of another instrument. There are three steps necessary to obtain the final sound. In the analysis, we use the fourier transform to create models of the spectrum of the input samples. During synthesis a time domain signal can be obtained from these data. An algorithm for morphing the spectral models of multiple instruments is the core of our method. Synthesis and morphing can be done in real-time. After the description of the theoretical background, we provide an overview of the features of the SpectMorph plugin.","SpectMorph is an open source software which performs morphing of the timbre of musical instruments. This allows creating sounds that smoothly transition from the timbre of one instrument to the timbre of another instrument. There are three steps necessary to obtain the final sound. In the analysis, we use the fourier transform to create models of the spectrum of the input samples. During synthesis a time domain signal can be obtained from these data. An algorithm for morphing the spectral models of multiple instruments is the core of our method. Synthesis and morphing can be done in real-time. After the description of the theoretical background, we provide an overview of the features of the SpectMorph plugin.",en,5:Stefan Westerfeld, 
 mainhall,2018-06-08,2,11:00,00:30,"RSVP, a preset system solution for Pure Data",32,"This paper describes the logic and process behind the development of the RSVP preset library for the Pure Data programming environment. The library aims to tackle the lack of a native preset system in Pure Data. Other projects like Kollabs, CREAM, sssad, and others, have produced different solutions for this issue. However, after experimenting with the mentioned libraries, I decided to approach the matter with a different strategy. This led to the creation of the RSVP library which I will be describing in detail. During the development of this project, I have been theorizing of a feature request for PD that will also be shared here. This paper will offer a detailed description of how the system works, but will not go into extensive Pure Data patch descriptions. Instead, I wish to show how I structured the code and describe how the system functions with the users own projects.","This paper describes the logic and process behind the development of the RSVP preset library for the Pure Data programming environment. The library aims to tackle the lack of a native preset system in Pure Data. Other projects like Kollabs, CREAM, sssad, and others, have produced different solutions for this issue. However, after experimenting with the mentioned libraries, I decided to approach the matter with a different strategy. This led to the creation of the RSVP library which I will be describing in detail. During the development of this project, I have been theorizing of a feature request for PD that will also be shared here. This paper will offer a detailed description of how the system works, but will not go into extensive Pure Data patch descriptions. Instead, I wish to show how I structured the code and describe how the system functions with the users own projects.",en,6:Jose Rafael Subía Valdez, 
@@ -126,7 +158,7 @@ A list of things discussed:
 ",en,3:Louigi Verona, 
 spektrum,2018-06-08,2,16:00,04:00,Caracoles IV,57,"Caracoles IV is an installation that uses interactive feedback systems to sonically explore modified conch shells known as a pututus, which are andean musical instruments fashioned out of conch shells. These instruments existed far before colonial occupation in the 15th century and work as a kind of cornet or trumpet, by adding an embouchure to the shell. However, this musical instrument is not created by a human alone, but is also the creation of a large snail which once inhabited it; it is the mollusc’s exoskeleton and home and it is shaped by its existence. When the snail dies, the spiral-shaped shell is emptied of its organic body and eventually appropriated by the instrument maker to fashion an instrument out of it. In this installation, a third appropriation takes place: I place a microphone in the embouchure and a speaker at the end of the spiral canal and connect them through a feedback system controlled by a Pure Data (Pd) patch running on a raspberry pi zero, all hidden inside the shell. The system detects resonant feedback frequencies and temporarily cancels them with filters to push the system to find another resonant frequency, and so on, generating in this way a sequence of resonant frequencies of the shell. This installation is also a play on the belief that conch shells are a way to listen to the sea. In fact, the shell acts as a filter and resonant cavity to our own bodies and spaces, thus, its resonant frequencies are activated by the presence of people in the installation space. In this way, each shell is a collaboration between humans, conch-shells and interactive systems, but also an interaction between all of the shells because each of them have their own acoustic properties, but their resonances are audible to each other, thus generating unpredictable sonic landscapes.","Caracoles IV is an installation that uses interactive feedback systems to sonically explore modified conch shells known as a pututus, which are andean musical instruments fashioned out of conch shells. These instruments existed far before colonial occupation in the 15th century and work as a kind of cornet or trumpet, by adding an embouchure to the shell. However, this musical instrument is not created by a human alone, but is also the creation of a large snail which once inhabited it; it is the mollusc’s exoskeleton and home and it is shaped by its existence. When the snail dies, the spiral-shaped shell is emptied of its organic body and eventually appropriated by the instrument maker to fashion an instrument out of it. In this installation, a third appropriation takes place: I place a microphone in the embouchure and a speaker at the end of the spiral canal and connect them through a feedback system controlled by a Pure Data (Pd) patch running on a raspberry pi zero, all hidden inside the shell. The system detects resonant feedback frequencies and temporarily cancels them with filters to push the system to find another resonant frequency, and so on, generating in this way a sequence of resonant frequencies of the shell. This installation is also a play on the belief that conch shells are a way to listen to the sea. In fact, the shell acts as a filter and resonant cavity to our own bodies and spaces, thus, its resonant frequencies are activated by the presence of people in the installation space. In this way, each shell is a collaboration between humans, conch-shells and interactive systems, but also an interaction between all of the shells because each of them have their own acoustic properties, but their resonances are audible to each other, thus generating unpredictable sonic landscapes.",en,22:Jaime E Oliver La Rosa, 
 ceminar,2018-06-08,2,17:00,02:00,Inbuilt Musicality,12,"This Workshop demonstrates the use of the Yoshimi soft synthesiser as a platform for building entirely synthetic musical instruments, based on exploring the structure and interplay of defining traits within musical sound. Starting from characteristic overtones and spectral patterns as foundation, the specific body of the tone can be shaped by fine tuning the transients. Further techniques of transforming the sound are used to build a fabric of related sound layers and create a distinct voice, able to operate within the musical context of the composition.","This Workshop demonstrates the use of the Yoshimi soft synthesiser as a platform for building entirely synthetic musical instruments, based on exploring the structure and interplay of defining traits within musical sound. Starting from characteristic overtones and spectral patterns as foundation, the specific body of the tone can be shaped by fine tuning the transients. Further techniques of transforming the sound are used to build a fabric of related sound layers and create a distinct voice, able to operate within the musical context of the composition.",en,20:Hermann Voßeler, 
-mainhall,2018-06-08,2,17:00,01:30,Getting Started with Purr Data,15,"This hands-on workshop is intended for Pd and Linux audio users who want to start using Purr Data. For an introduction to Purr Data, please check our [LAC17 presentation](https://www.youtube.com/watch?v=T1wo496Zx0s) and the [Quick Introduction](https://agraef.github.io/purr-data-intro). Topics of the 90 min workshop vary from the basics to the moderately advanced and include:
+mainhall,2018-06-08,2,17:00,01:30,Getting Started with Purr Data,15,"This hands-on workshop is intended for Pd and Linux audio users who want to start using Purr Data. For an introduction to Purr Data, please check our LAC17 presentation (https://www.youtube.com/watch?v=T1wo496Zx0s) and the Quick Introduction (https://agraef.github.io/purr-data-intro). Topics of the 90 min workshop vary from the basics to the moderately advanced and include:
 
 - Getting a minimal Purr Data installation up and running quickly on Linux (compiling from source).
 
@@ -134,10 +166,10 @@ mainhall,2018-06-08,2,17:00,01:30,Getting Started with Purr Data,15,"This hands-
 
 - Real-time audio and MIDI processing, making music with Purr Data.
 
-- Programming new objects (a.k.a. Pd externals) the easy way with [Pd-Lua](https://github.com/agraef/pd-lua).
+- Programming new objects (a.k.a. Pd externals) the easy way with Pd-Lua (https://github.com/agraef/pd-lua).
 
 - Custom graphics and data structure visualizations in Purr Data.
-","This hands-on workshop is intended for Pd and Linux audio users who want to start using Purr Data. For an introduction to Purr Data, please check our [LAC17 presentation](https://www.youtube.com/watch?v=T1wo496Zx0s) and the [Quick Introduction](https://agraef.github.io/purr-data-intro). Topics of the 90 min workshop vary from the basics to the moderately advanced and include:
+","This hands-on workshop is intended for Pd and Linux audio users who want to start using Purr Data. For an introduction to Purr Data, please check our LAC17 presentation (https://www.youtube.com/watch?v=T1wo496Zx0s) and the Quick Introduction (https://agraef.github.io/purr-data-intro). Topics of the 90 min workshop vary from the basics to the moderately advanced and include:
 
 - Getting a minimal Purr Data installation up and running quickly on Linux (compiling from source).
 
@@ -145,7 +177,7 @@ mainhall,2018-06-08,2,17:00,01:30,Getting Started with Purr Data,15,"This hands-
 
 - Real-time audio and MIDI processing, making music with Purr Data.
 
-- Programming new objects (a.k.a. Pd externals) the easy way with [Pd-Lua](https://github.com/agraef/pd-lua).
+- Programming new objects (a.k.a. Pd externals) the easy way with Pd-Lua (https://github.com/agraef/pd-lua).
 
 - Custom graphics and data structure visualizations in Purr Data.
 ",en,21:Albert Gräf, 

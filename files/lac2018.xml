@@ -60,26 +60,58 @@
         <attachments />
         <video_download_url> </video_download_url>
       </event>
-      <event guid="69f841bd-0c68-5536-b67d-2e969acf1c5a" id="58">
+      <event guid="f6286be9-0708-5bc9-b669-5d783e2516e6" id="58">
         <date>2018-06-07T21:00:00</date>
         <start>21:00</start>
         <duration>1:30</duration>
         <room>mainhall</room>
-        <slug>lac2018-58-superdirt</slug>
+        <slug>lac2018-58-superdirt2</slug>
         <recording>
           <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
           <optout>false</optout>
         </recording>
-        <title>Superdirt</title>
+        <title>Superdirt²</title>
         <language>en</language>
         <subtitle />
         <track />
         <type />
-        <abstract />
-        <description />
+        <abstract>
+ Fascinating electro beats mixed in with virtuous performed cello sounds which give a result of a never achieved before dance ability! With Ras Tilo at the synthesizers and Käpt'n Dirt with the cello it provides a musical experience which is situated between drum'n'bass, jungle, dub, dubstep and even far beyond...
+
+The Band:
+The two independent musicians knew each other through many musical projects and as flatmates, but are coming from totally different musical genres. While Ras Tilo (Vincent   Rateau) got in place as a music producer and multi-instrumentalist, Käpt'n Dirt (Daniel Fritzsche) continued his classical cello studies with an open mind and ears to new musical genres.
+One year ago, after a request to mix cello and electronic beats at a party they founded the project Superdirt² within two weeks, got straight away a lot of bookings and played this year up to 18 gigs - from small parties to big festivals.
+They are mixing musical genres, looping, synthesizing, improvising and never get tired of going beyond the thinkable knowledge of music.
+They just released their first full-length  album called “Algoriddims” - licensed under a Creative Commons license.
+
+Links:
+
+* http://superdirt.net/
+* http://soundcloud.com/superdirt
+* https://vimeo.com/76955070
+* http://www.facebook.com/Superdirt2
+
+        </abstract>
+        <description>
+ Fascinating electro beats mixed in with virtuous performed cello sounds which give a result of a never achieved before dance ability! With Ras Tilo at the synthesizers and Käpt'n Dirt with the cello it provides a musical experience which is situated between drum'n'bass, jungle, dub, dubstep and even far beyond...
+
+The Band:
+The two independent musicians knew each other through many musical projects and as flatmates, but are coming from totally different musical genres. While Ras Tilo (Vincent   Rateau) got in place as a music producer and multi-instrumentalist, Käpt'n Dirt (Daniel Fritzsche) continued his classical cello studies with an open mind and ears to new musical genres.
+One year ago, after a request to mix cello and electronic beats at a party they founded the project Superdirt² within two weeks, got straight away a lot of bookings and played this year up to 18 gigs - from small parties to big festivals.
+They are mixing musical genres, looping, synthesizing, improvising and never get tired of going beyond the thinkable knowledge of music.
+They just released their first full-length  album called “Algoriddims” - licensed under a Creative Commons license.
+
+Links:
+
+* http://superdirt.net/
+* http://soundcloud.com/superdirt
+* https://vimeo.com/76955070
+* http://www.facebook.com/Superdirt2
+
+        </description>
         <logo />
         <persons>
-          <person id="2">Superdirt^2</person>
+          <person id="2">Superdirt²</person>
         </persons>
         <links />
         <attachments />
@@ -106,12 +138,14 @@ A minimal house DJ set with Mixxx. Already performed at Sonoj to positive review
 Unfortunately, I don’t have any recordings of my performances, however I am using only my 
 original music for sets and here are the links to some of the tunes I will definitely include into the 
 playlist:
-https://soundcloud.com/louigiverona/serenity-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/boat-at-the-mouth-of-a-river-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/i-am-at-the-club-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/berlin-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/stranger-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/berlin-songbook-vol-2-lair
+
+* https://soundcloud.com/louigiverona/serenity-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/boat-at-the-mouth-of-a-river-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/i-am-at-the-club-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/berlin-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/stranger-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/berlin-songbook-vol-2-lair
+
         </abstract>
         <description>
 A minimal house DJ set with Mixxx. Already performed at Sonoj to positive reviews, so I am confident this could be a nice addition to music nights.
@@ -119,12 +153,14 @@ A minimal house DJ set with Mixxx. Already performed at Sonoj to positive review
 Unfortunately, I don’t have any recordings of my performances, however I am using only my 
 original music for sets and here are the links to some of the tunes I will definitely include into the 
 playlist:
-https://soundcloud.com/louigiverona/serenity-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/boat-at-the-mouth-of-a-river-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/i-am-at-the-club-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/berlin-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/stranger-berlin-songbook-vol2
-https://soundcloud.com/louigiverona/berlin-songbook-vol-2-lair
+
+* https://soundcloud.com/louigiverona/serenity-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/boat-at-the-mouth-of-a-river-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/i-am-at-the-club-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/berlin-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/stranger-berlin-songbook-vol2
+* https://soundcloud.com/louigiverona/berlin-songbook-vol-2-lair
+
         </description>
         <logo />
         <persons>
@@ -436,7 +472,7 @@ A list of things discussed:
         <track />
         <type />
         <abstract>
-This hands-on workshop is intended for Pd and Linux audio users who want to start using Purr Data. For an introduction to Purr Data, please check our [LAC17 presentation](https://www.youtube.com/watch?v=T1wo496Zx0s) and the [Quick Introduction](https://agraef.github.io/purr-data-intro). Topics of the 90 min workshop vary from the basics to the moderately advanced and include:
+This hands-on workshop is intended for Pd and Linux audio users who want to start using Purr Data. For an introduction to Purr Data, please check our LAC17 presentation (https://www.youtube.com/watch?v=T1wo496Zx0s) and the Quick Introduction (https://agraef.github.io/purr-data-intro). Topics of the 90 min workshop vary from the basics to the moderately advanced and include:
 
 - Getting a minimal Purr Data installation up and running quickly on Linux (compiling from source).
 
@@ -444,13 +480,13 @@ This hands-on workshop is intended for Pd and Linux audio users who want to star
 
 - Real-time audio and MIDI processing, making music with Purr Data.
 
-- Programming new objects (a.k.a. Pd externals) the easy way with [Pd-Lua](https://github.com/agraef/pd-lua).
+- Programming new objects (a.k.a. Pd externals) the easy way with Pd-Lua (https://github.com/agraef/pd-lua).
 
 - Custom graphics and data structure visualizations in Purr Data.
 
         </abstract>
         <description>
-This hands-on workshop is intended for Pd and Linux audio users who want to start using Purr Data. For an introduction to Purr Data, please check our [LAC17 presentation](https://www.youtube.com/watch?v=T1wo496Zx0s) and the [Quick Introduction](https://agraef.github.io/purr-data-intro). Topics of the 90 min workshop vary from the basics to the moderately advanced and include:
+This hands-on workshop is intended for Pd and Linux audio users who want to start using Purr Data. For an introduction to Purr Data, please check our LAC17 presentation (https://www.youtube.com/watch?v=T1wo496Zx0s) and the Quick Introduction (https://agraef.github.io/purr-data-intro). Topics of the 90 min workshop vary from the basics to the moderately advanced and include:
 
 - Getting a minimal Purr Data installation up and running quickly on Linux (compiling from source).
 
@@ -458,7 +494,7 @@ This hands-on workshop is intended for Pd and Linux audio users who want to star
 
 - Real-time audio and MIDI processing, making music with Purr Data.
 
-- Programming new objects (a.k.a. Pd externals) the easy way with [Pd-Lua](https://github.com/agraef/pd-lua).
+- Programming new objects (a.k.a. Pd externals) the easy way with Pd-Lua (https://github.com/agraef/pd-lua).
 
 - Custom graphics and data structure visualizations in Purr Data.
 
