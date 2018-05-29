@@ -205,45 +205,6 @@ DTSTART;TZID=Europe/Berlin:20180610T110000
 DTEND;TZID=Europe/Berlin:20180610T120000
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20180428T224549
-DTSTAMP:20180428T224549
-LAST-MODIFIED:20180428T224639
-UID:UVX7ALW5CSQYIVYOOAEBTR
-SUMMARY:Caracoles IV
-CLASS:PUBLIC
-STATUS:CONFIRMED
-LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: 22:Jaime E Oliver La Rosa\nType: Installation\nKeywords
- : sound installation\, feedback\nAbstract: Caracoles IV is an installation
-  that uses interactive feedback systems to sonically explore modified conc
- h shells known as a pututus\, which are andean musical instruments fashion
- ed out of conch shells. These instruments existed far before colonial occu
- pation in the 15th century and work as a kind of cornet or trumpet\, by ad
- ding an embouchure to the shell. However\, this musical instrument is not 
- created by a human alone\, but is also the creation of a large snail which
-  once inhabited it\; it is the mollusc’s exoskeleton and home and it is 
- shaped by its existence. When the snail dies\, the spiral-shaped shell is 
- emptied of its organic body and eventually appropriated by the instrument 
- maker to fashion an instrument out of it. In this installation\, a third a
- ppropriation takes place: I place a microphone in the embouchure and a spe
- aker at the end of the spiral canal and connect them through a feedback sy
- stem controlled by a Pure Data (Pd) patch running on a raspberry pi zero\,
-  all hidden inside the shell. The system detects resonant feedback frequen
- cies and temporarily cancels them with filters to push the system to find 
- another resonant frequency\, and so on\, generating in this way a sequence
-  of resonant frequencies of the shell. This installation is also a play on
-  the belief that conch shells are a way to listen to the sea. In fact\, th
- e shell acts as a filter and resonant cavity to our own bodies and spaces\
- , thus\, its resonant frequencies are activated by the presence of people 
- in the installation space. In this way\, each shell is a collaboration bet
- ween humans\, conch-shells and interactive systems\, but also an interacti
- on between all of the shells because each of them have their own acoustic 
- properties\, but their resonances are audible to each other\, thus generat
- ing unpredictable sonic landscapes.\nID: 57
-DTSTART;TZID=Europe/Berlin:20180608T200000
-DTEND;TZID=Europe/Berlin:20180609T000000
-END:VEVENT
-BEGIN:VEVENT
 CREATED:20180426T190247
 DTSTAMP:20180426T190247
 LAST-MODIFIED:20180426T190247
@@ -258,5 +219,35 @@ DESCRIPTION:Author: 36:Will Godfrey\nType: Workshop\nKeywords: Soft-synth L
  venues.\nID: 4
 DTSTART;TZID=Europe/Berlin:20180609T143000
 DTEND;TZID=Europe/Berlin:20180609T160000
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20180502T225610
+DTSTAMP:20180502T225610
+LAST-MODIFIED:20180529T230256
+UID:K57B60WTJ79G70TEPH8HR
+SUMMARY:Sentire
+CLASS:PUBLIC
+DESCRIPTION:Author: 40:Marcello Lussana\nType: Installation\nTopics: Audio 
+ and Music Languages\, Interactive Art\, Music Composition\, Projects Reali
+ zed using Linux Audio\, Signal Processing and Sound Synthesis\nKeywords: e
+ mbodiement\, interactive\, sound\, installation\, performance\nAbstract: S
+ entire is an Italian word that means both to hear and to feel. The project
+  is about exploring the fine mixture of these two senses and\, particularl
+ y\, to their amplification and morphing.\n\n'Sentire' project was initiate
+ d by two Berlin-based artists Marcello Lussana and Olga Kozmanidze in 2016
+ . The project consists of two parts: immersive performance series based on
+  interactive sound and PhD research on human perception. In the course of 
+ the project we have been using a device (bracelets) connecting two people 
+ to the sound system and tracking distance and touch events between them. W
+ e apply and constantly develop a method of device usage according to which
+  participants proceed through a scenario of two phases interaction. Depend
+ ing on distance and touch between them different sounds are triggered and 
+ changing\, creating an instant sound feedback. Gradually both hearing and 
+ sense of touch morth one into another giving a chance to perceive one's bo
+ dy on a deep level.\n\nThe interactive system has been designed with the S
+ upercollider software and it runs on Linux Mint.\nID: 17
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Berlin:20180608T200000
+DTEND;TZID=Europe/Berlin:20180609T000000
 END:VEVENT
 END:VCALENDAR

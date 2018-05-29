@@ -137,7 +137,9 @@ https://soundcloud.com/louigiverona/berlin-songbook-vol-2-lair
     </room>
     <room name="ceminar">
     </room>
-    <room name="artistania">
+    <room name="spektrum">
+    </room>
+    <room name="nativespace">
     </room>
   </day>
   <day index="2" date="2018-06-08" start="2018-06-08T10:00:00" end="2018-06-09T00:00:00">
@@ -469,9 +471,115 @@ This hands-on workshop is intended for Pd and Linux audio users who want to star
         <attachments />
         <video_download_url> </video_download_url>
       </event>
+      <event guid="6c4ed469-afa0-5966-8865-a20a53550bbb" id="29">
+        <date>2018-06-08T21:00:00</date>
+        <start>21:00</start>
+        <duration>0:10</duration>
+        <room>mainhall</room>
+        <slug>lac2018-29-memorie</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Memorie</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+This composition is made up of sounds that represent various moments of my childhood. In particular, I used sounds that still make me feel special emotions such as: the rain, the planes, the clamour of people, musical bands, the tick of old clocks, the glitches, etc. By listening to this piece I go back to that period of my life which I am particularly attached to and which unfortunately will not return any more.
+This composition has been realized with Linux KXstudio.
+        </abstract>
+        <description>
+This composition is made up of sounds that represent various moments of my childhood. In particular, I used sounds that still make me feel special emotions such as: the rain, the planes, the clamour of people, musical bands, the tick of old clocks, the glitches, etc. By listening to this piece I go back to that period of my life which I am particularly attached to and which unfortunately will not return any more.
+This composition has been realized with Linux KXstudio.
+        </description>
+        <logo />
+        <persons>
+          <person id="24">Massimo Fragalà</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="d9864745-7ee1-5ee4-897a-b044d6ece6ad" id="55">
+        <date>2018-06-08T21:11:00</date>
+        <start>21:11</start>
+        <duration>0:08</duration>
+        <room>mainhall</room>
+        <slug>lac2018-55-dark_path_2_multichannel_vers</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Dark Path #2 (multichannel vers.)</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>None</abstract>
+        <description>None</description>
+        <logo />
+        <persons>
+          <person id="26">Anna Terzaroli</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="5b3a9f31-41e6-5581-9a4e-30e33af8bc2f" id="51">
+        <date>2018-06-08T21:22:00</date>
+        <start>21:22</start>
+        <duration>0:11</duration>
+        <room>mainhall</room>
+        <slug>lac2018-51-iammix</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Iammix</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Electroacoustic 8-channel fixed media composition</abstract>
+        <description>Electroacoustic 8-channel fixed media composition</description>
+        <logo />
+        <persons>
+          <person id="28">Magnus Johansson</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="c933fba2-47fe-5c6c-9269-31d7fc02a750" id="45">
+        <date>2018-06-08T21:35:00</date>
+        <start>21:35</start>
+        <duration>0:09</duration>
+        <room>mainhall</room>
+        <slug>lac2018-45-bus_no_1</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Bus No. 1</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>None</abstract>
+        <description>None</description>
+        <logo />
+        <persons>
+          <person id="27">Helene Hedsund</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url> </video_download_url>
+      </event>
       <event guid="6f134a86-0d7a-51dd-aaf7-7fbcf7e903a3" id="1">
-        <date>2018-06-08T20:30:00</date>
-        <start>20:30</start>
+        <date>2018-06-08T22:30:00</date>
+        <start>22:30</start>
         <duration>0:08</duration>
         <room>mainhall</room>
         <slug>lac2018-1-atlas_of_uncertainty</slug>
@@ -510,40 +618,34 @@ Rome, Italy; MATERA INTERMEDIA 2017, Matera, ITALY);
         <attachments />
         <video_download_url> </video_download_url>
       </event>
-      <event guid="6c4ed469-afa0-5966-8865-a20a53550bbb" id="29">
-        <date>2018-06-08T21:00:00</date>
-        <start>21:00</start>
+      <event guid="00fd8c56-524c-5bcc-9aa4-75fe2b54f35e" id="48">
+        <date>2018-06-08T22:40:00</date>
+        <start>22:40</start>
         <duration>0:10</duration>
         <room>mainhall</room>
-        <slug>lac2018-29-memorie</slug>
+        <slug>lac2018-48-spycher</slug>
         <recording>
           <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
           <optout>false</optout>
         </recording>
-        <title>Memorie</title>
+        <title>Spycher</title>
         <language>en</language>
         <subtitle />
         <track />
         <type />
-        <abstract>
-This composition is made up of sounds that represent various moments of my childhood. In particular, I used sounds that still make me feel special emotions such as: the rain, the planes, the clamour of people, musical bands, the tick of old clocks, the glitches, etc. By listening to this piece I go back to that period of my life which I am particularly attached to and which unfortunately will not return any more.
-This composition has been realized with Linux KXstudio.
-        </abstract>
-        <description>
-This composition is made up of sounds that represent various moments of my childhood. In particular, I used sounds that still make me feel special emotions such as: the rain, the planes, the clamour of people, musical bands, the tick of old clocks, the glitches, etc. By listening to this piece I go back to that period of my life which I am particularly attached to and which unfortunately will not return any more.
-This composition has been realized with Linux KXstudio.
-        </description>
+        <abstract>tape 8 ch</abstract>
+        <description>tape 8 ch</description>
         <logo />
         <persons>
-          <person id="24">Massimo Fragalà</person>
+          <person id="29">Michele Del Prete</person>
         </persons>
         <links />
         <attachments />
         <video_download_url> </video_download_url>
       </event>
       <event guid="7ab1cd40-11ba-58fc-b99c-44dbfc16943c" id="16">
-        <date>2018-06-08T21:30:00</date>
-        <start>21:30</start>
+        <date>2018-06-08T22:52:00</date>
+        <start>22:52</start>
         <duration>0:15</duration>
         <room>mainhall</room>
         <slug>lac2018-16-shift</slug>
@@ -585,106 +687,6 @@ The 140 generated audio signals are dynamically distributed in space by the soft
         <logo />
         <persons>
           <person id="25">Andre Bartetzki</person>
-        </persons>
-        <links />
-        <attachments />
-        <video_download_url> </video_download_url>
-      </event>
-      <event guid="d9864745-7ee1-5ee4-897a-b044d6ece6ad" id="55">
-        <date>2018-06-08T22:00:00</date>
-        <start>22:00</start>
-        <duration>0:08</duration>
-        <room>mainhall</room>
-        <slug>lac2018-55-dark_path_2_multichannel_vers</slug>
-        <recording>
-          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
-          <optout>false</optout>
-        </recording>
-        <title>Dark Path #2 (multichannel vers.)</title>
-        <language>en</language>
-        <subtitle />
-        <track />
-        <type />
-        <abstract>None</abstract>
-        <description>None</description>
-        <logo />
-        <persons>
-          <person id="26">Anna Terzaroli</person>
-        </persons>
-        <links />
-        <attachments />
-        <video_download_url> </video_download_url>
-      </event>
-      <event guid="c933fba2-47fe-5c6c-9269-31d7fc02a750" id="45">
-        <date>2018-06-08T22:30:00</date>
-        <start>22:30</start>
-        <duration>0:09</duration>
-        <room>mainhall</room>
-        <slug>lac2018-45-bus_no_1</slug>
-        <recording>
-          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
-          <optout>false</optout>
-        </recording>
-        <title>Bus No. 1</title>
-        <language>en</language>
-        <subtitle />
-        <track />
-        <type />
-        <abstract>None</abstract>
-        <description>None</description>
-        <logo />
-        <persons>
-          <person id="27">Helene Hedsund</person>
-        </persons>
-        <links />
-        <attachments />
-        <video_download_url> </video_download_url>
-      </event>
-      <event guid="5b3a9f31-41e6-5581-9a4e-30e33af8bc2f" id="51">
-        <date>2018-06-08T23:00:00</date>
-        <start>23:00</start>
-        <duration>0:11</duration>
-        <room>mainhall</room>
-        <slug>lac2018-51-iammix</slug>
-        <recording>
-          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
-          <optout>false</optout>
-        </recording>
-        <title>Iammix</title>
-        <language>en</language>
-        <subtitle />
-        <track />
-        <type />
-        <abstract>Electroacoustic 8-channel fixed media composition</abstract>
-        <description>Electroacoustic 8-channel fixed media composition</description>
-        <logo />
-        <persons>
-          <person id="28">Magnus Johansson</person>
-        </persons>
-        <links />
-        <attachments />
-        <video_download_url> </video_download_url>
-      </event>
-      <event guid="00fd8c56-524c-5bcc-9aa4-75fe2b54f35e" id="48">
-        <date>2018-06-08T23:30:00</date>
-        <start>23:30</start>
-        <duration>0:10</duration>
-        <room>mainhall</room>
-        <slug>lac2018-48-spycher</slug>
-        <recording>
-          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
-          <optout>false</optout>
-        </recording>
-        <title>Spycher</title>
-        <language>en</language>
-        <subtitle />
-        <track />
-        <type />
-        <abstract>tape 8 ch</abstract>
-        <description>tape 8 ch</description>
-        <logo />
-        <persons>
-          <person id="29">Michele Del Prete</person>
         </persons>
         <links />
         <attachments />
@@ -786,11 +788,50 @@ This workshop introduces the levTools.
         <attachments />
         <video_download_url> </video_download_url>
       </event>
-      <event guid="649fbc91-42e9-5103-ba1d-66c4996a578f" id="57">
+      <event guid="a09184d6-d5d5-5c7d-9dcb-2817b7f14009" id="17">
         <date>2018-06-08T20:00:00</date>
         <start>20:00</start>
         <duration>4:00</duration>
         <room>ceminar</room>
+        <slug>lac2018-17-sentire</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Sentire</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Sentire is an Italian word that means both to hear and to feel. The project is about exploring the fine mixture of these two senses and, particularly, to their amplification and morphing.
+
+'Sentire' project was initiated by two Berlin-based artists Marcello Lussana and Olga Kozmanidze in 2016. The project consists of two parts: immersive performance series based on interactive sound and PhD research on human perception. In the course of the project we have been using a device (bracelets) connecting two people to the sound system and tracking distance and touch events between them. We apply and constantly develop a method of device usage according to which participants proceed through a scenario of two phases interaction. Depending on distance and touch between them different sounds are triggered and changing, creating an instant sound feedback. Gradually both hearing and sense of touch morth one into another giving a chance to perceive one's body on a deep level.
+
+The interactive system has been designed with the Supercollider software and it runs on Linux Mint.
+        </abstract>
+        <description>
+Sentire is an Italian word that means both to hear and to feel. The project is about exploring the fine mixture of these two senses and, particularly, to their amplification and morphing.
+
+'Sentire' project was initiated by two Berlin-based artists Marcello Lussana and Olga Kozmanidze in 2016. The project consists of two parts: immersive performance series based on interactive sound and PhD research on human perception. In the course of the project we have been using a device (bracelets) connecting two people to the sound system and tracking distance and touch events between them. We apply and constantly develop a method of device usage according to which participants proceed through a scenario of two phases interaction. Depending on distance and touch between them different sounds are triggered and changing, creating an instant sound feedback. Gradually both hearing and sense of touch morth one into another giving a chance to perceive one's body on a deep level.
+
+The interactive system has been designed with the Supercollider software and it runs on Linux Mint.
+        </description>
+        <logo />
+        <persons>
+          <person id="40">Marcello Lussana</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url> </video_download_url>
+      </event>
+    </room>
+    <room name="spektrum">
+      <event guid="649fbc91-42e9-5103-ba1d-66c4996a578f" id="57">
+        <date>2018-06-08T16:00:00</date>
+        <start>16:00</start>
+        <duration>4:00</duration>
+        <room>spektrum</room>
         <slug>lac2018-57-caracoles_iv</slug>
         <recording>
           <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
@@ -812,10 +853,10 @@ This workshop introduces the levTools.
         <video_download_url> </video_download_url>
       </event>
     </room>
-    <room name="artistania">
+    <room name="nativespace">
     </room>
   </day>
-  <day index="3" date="2018-06-09" start="2018-06-09T10:00:00" end="2018-06-10T00:00:00">
+  <day index="3" date="2018-06-09" start="2018-06-09T10:00:00" end="2018-06-09T23:17:00">
     <room name="mainhall">
       <event guid="3d83e6db-b841-500d-bbcb-9cb282c1c9f1" id="102">
         <date>2018-06-09T10:00:00</date>
@@ -1189,233 +1230,14 @@ This workshop plans to give a quick overview of Carla and go through some workfl
         <video_download_url> </video_download_url>
       </event>
     </room>
-    <room name="artistania">
-      <event guid="a09184d6-d5d5-5c7d-9dcb-2817b7f14009" id="17">
-        <date>2018-06-09T20:00:00</date>
-        <start>20:00</start>
-        <duration>4:00</duration>
-        <room>artistania</room>
-        <slug>lac2018-17-sentire</slug>
-        <recording>
-          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
-          <optout>false</optout>
-        </recording>
-        <title>Sentire</title>
-        <language>en</language>
-        <subtitle />
-        <track />
-        <type />
-        <abstract>
-Sentire is an Italian word that means both to hear and to feel. The project is about exploring the fine mixture of these two senses and, particularly, to their amplification and morphing.
-
-'Sentire' project was initiated by two Berlin-based artists Marcello Lussana and Olga Kozmanidze in 2016. The project consists of two parts: immersive performance series based on interactive sound and PhD research on human perception. In the course of the project we have been using a device (bracelets) connecting two people to the sound system and tracking distance and touch events between them. We apply and constantly develop a method of device usage according to which participants proceed through a scenario of two phases interaction. Depending on distance and touch between them different sounds are triggered and changing, creating an instant sound feedback. Gradually both hearing and sense of touch morth one into another giving a chance to perceive one's body on a deep level.
-
-The interactive system has been designed with the Supercollider software and it runs on Linux Mint.
-        </abstract>
-        <description>
-Sentire is an Italian word that means both to hear and to feel. The project is about exploring the fine mixture of these two senses and, particularly, to their amplification and morphing.
-
-'Sentire' project was initiated by two Berlin-based artists Marcello Lussana and Olga Kozmanidze in 2016. The project consists of two parts: immersive performance series based on interactive sound and PhD research on human perception. In the course of the project we have been using a device (bracelets) connecting two people to the sound system and tracking distance and touch events between them. We apply and constantly develop a method of device usage according to which participants proceed through a scenario of two phases interaction. Depending on distance and touch between them different sounds are triggered and changing, creating an instant sound feedback. Gradually both hearing and sense of touch morth one into another giving a chance to perceive one's body on a deep level.
-
-The interactive system has been designed with the Supercollider software and it runs on Linux Mint.
-        </description>
-        <logo />
-        <persons>
-          <person id="40">Marcello Lussana</person>
-        </persons>
-        <links />
-        <attachments />
-        <video_download_url> </video_download_url>
-      </event>
-      <event guid="63ae2c3e-c123-52e7-9047-36bd1d016532" id="49">
-        <date>2018-06-09T20:30:00</date>
-        <start>20:30</start>
-        <duration>0:10</duration>
-        <room>artistania</room>
-        <slug>lac2018-49-pick_it_up</slug>
-        <recording>
-          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
-          <optout>false</optout>
-        </recording>
-        <title>Pick It Up</title>
-        <language>en</language>
-        <subtitle />
-        <track />
-        <type />
-        <abstract>Composition for prepared electric guitar and live electronics (SuperCollider), with multichannel spatialization.</abstract>
-        <description>Composition for prepared electric guitar and live electronics (SuperCollider), with multichannel spatialization.</description>
-        <logo />
-        <persons>
-          <person id="41">Krzysztof Gawlas</person>
-        </persons>
-        <links />
-        <attachments />
-        <video_download_url> </video_download_url>
-      </event>
-      <event guid="073f743d-193e-56ac-8298-b23905983568" id="56">
+    <room name="spektrum">
+    </room>
+    <room name="nativespace">
+      <event guid="b60cbc0f-9f28-5d28-a928-501c0f7b2152" id="47">
         <date>2018-06-09T21:00:00</date>
         <start>21:00</start>
         <duration>0:15</duration>
-        <room>artistania</room>
-        <slug>lac2018-56-txted_interactive_audio_visual_performance_using_open_source_musical_machine_learning_interaction</slug>
-        <recording>
-          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
-          <optout>false</optout>
-        </recording>
-        <title>TXTED - interactive audio-visual performance using open-source musical machine learning interaction</title>
-        <language>en</language>
-        <subtitle />
-        <track />
-        <type />
-        <abstract>
-This is a proposal to perform a new body of work using a new pitched percussion hyperinstrument system featuring a machine learning tool designed for music performance. All software was designed in Puredata and runs on a Raspberry Pi with multichannel audio in/out. The framework consists of custom idiomatic gesture interfaces and processing software for an electric lamellophone with embedded gesture sensing. The instrumental framework is accompanied by an interactive video synthesizer built in GEM and also running on a Raspberry Pi, networked together wirelessly. The project represents the culmination of the Phd research recently completed by the artist [1][2].
-
-1.Non-invasive sensing and gesture control for pitched percussion hyper-instruments using the Kinect.
-S Trail, M Dean, G Odowichuk, TF Tavares, PF Driessen, WA Schloss, G Tzanetakis. NIME 2012.
-
-2. El-Lamellophone A Low-cost, DIY, Open Framework for Acoustic Lemellophone Based Hyperinstruments.
-S Trail, D MacConnell, L Jenkins, J Snyder, G Tzanetakis, PF Driessen. NIME, 2014.
-        </abstract>
-        <description>
-This is a proposal to perform a new body of work using a new pitched percussion hyperinstrument system featuring a machine learning tool designed for music performance. All software was designed in Puredata and runs on a Raspberry Pi with multichannel audio in/out. The framework consists of custom idiomatic gesture interfaces and processing software for an electric lamellophone with embedded gesture sensing. The instrumental framework is accompanied by an interactive video synthesizer built in GEM and also running on a Raspberry Pi, networked together wirelessly. The project represents the culmination of the Phd research recently completed by the artist [1][2].
-
-1.Non-invasive sensing and gesture control for pitched percussion hyper-instruments using the Kinect.
-S Trail, M Dean, G Odowichuk, TF Tavares, PF Driessen, WA Schloss, G Tzanetakis. NIME 2012.
-
-2. El-Lamellophone A Low-cost, DIY, Open Framework for Acoustic Lemellophone Based Hyperinstruments.
-S Trail, D MacConnell, L Jenkins, J Snyder, G Tzanetakis, PF Driessen. NIME, 2014.
-        </description>
-        <logo />
-        <persons>
-          <person id="42">Shawn Trail</person>
-        </persons>
-        <links />
-        <attachments />
-        <video_download_url> </video_download_url>
-      </event>
-      <event guid="1ea6c172-ab94-5edb-97e1-a97e858da8b4" id="27">
-        <date>2018-06-09T21:30:00</date>
-        <start>21:30</start>
-        <duration>0:15</duration>
-        <room>artistania</room>
-        <slug>lac2018-27-gestural_performance_2</slug>
-        <recording>
-          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
-          <optout>false</optout>
-        </recording>
-        <title>Gestural Performance 2</title>
-        <language>en</language>
-        <subtitle />
-        <track />
-        <type />
-        <abstract>This semi-improvised performance is the next step of an ongoing research for a gestural performance instrument being developed by Pais. Using the LeapMotion sensor together with custom-made gesture interpretation and synthesis objects in Pure Data, the expressiveness of the performer's hand movements is reflected in the expressiveness of the sound that is produced and in its integration in space in a multichannel setup. The aim is to produce a developing event, where the gestures visible to the audience acquire a new meaning in each new sound context present in during the performance.</abstract>
-        <description>This semi-improvised performance is the next step of an ongoing research for a gestural performance instrument being developed by Pais. Using the LeapMotion sensor together with custom-made gesture interpretation and synthesis objects in Pure Data, the expressiveness of the performer's hand movements is reflected in the expressiveness of the sound that is produced and in its integration in space in a multichannel setup. The aim is to produce a developing event, where the gestures visible to the audience acquire a new meaning in each new sound context present in during the performance.</description>
-        <logo />
-        <persons>
-          <person id="7">Joao Pais</person>
-        </persons>
-        <links />
-        <attachments />
-        <video_download_url> </video_download_url>
-      </event>
-      <event guid="750ed88f-1237-56a0-8023-d1dda9c6c5c0" id="21">
-        <date>2018-06-09T22:00:00</date>
-        <start>22:00</start>
-        <duration>0:10</duration>
-        <room>artistania</room>
-        <slug>lac2018-21-cosmo</slug>
-        <recording>
-          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
-          <optout>false</optout>
-        </recording>
-        <title>COSMO</title>
-        <language>en</language>
-        <subtitle />
-        <track />
-        <type />
-        <abstract>
-COSMO Collective is an open musical collaboration for musicians using DIY electronics and custom software written in Csound. There is no definite musical style, though it could perhaps be characterized as electro-acoustic
-improvisation. The focus is on the exploration of sound and timbre, rather than traditional harmonics and rhythm, and exploiting the powers of Csound in this pursuit.
-        </abstract>
-        <description>
-COSMO Collective is an open musical collaboration for musicians using DIY electronics and custom software written in Csound. There is no definite musical style, though it could perhaps be characterized as electro-acoustic
-improvisation. The focus is on the exploration of sound and timbre, rather than traditional harmonics and rhythm, and exploiting the powers of Csound in this pursuit.
-        </description>
-        <logo />
-        <persons>
-          <person id="43">Alex Hofmann</person>
-        </persons>
-        <links />
-        <attachments />
-        <video_download_url> </video_download_url>
-      </event>
-      <event guid="c48d7b3d-10dc-55fe-a37f-1bc8029988b7" id="23">
-        <date>2018-06-09T22:30:00</date>
-        <start>22:30</start>
-        <duration>0:15</duration>
-        <room>artistania</room>
-        <slug>lac2018-23-tessellations</slug>
-        <recording>
-          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
-          <optout>false</optout>
-        </recording>
-        <title>Tessellations</title>
-        <language>en</language>
-        <subtitle />
-        <track />
-        <type />
-        <abstract>Tessellations plays with the repetition of material generated by manipulating the interval structure of the chord and submitting it to short processes that I generate myself in Python and execute them inside PD with the py object. This piece is an experimentation on the way I link time, material and narrative. The “tessellated” object not only morphs the musical material but also the space where it occurs and the performer responsible for it – player or computer –. Furthermore, the piece has 2 solos, one in which the performer improvises based on visual cues and musical anchor points, and the other which was generated algorithmically and is “written” on the score, this incorporates the idea of the act of composition as the tessellated object itself.</abstract>
-        <description>Tessellations plays with the repetition of material generated by manipulating the interval structure of the chord and submitting it to short processes that I generate myself in Python and execute them inside PD with the py object. This piece is an experimentation on the way I link time, material and narrative. The “tessellated” object not only morphs the musical material but also the space where it occurs and the performer responsible for it – player or computer –. Furthermore, the piece has 2 solos, one in which the performer improvises based on visual cues and musical anchor points, and the other which was generated algorithmically and is “written” on the score, this incorporates the idea of the act of composition as the tessellated object itself.</description>
-        <logo />
-        <persons>
-          <person id="44">José Rafael Subía Valdez</person>
-        </persons>
-        <links />
-        <attachments />
-        <video_download_url> </video_download_url>
-      </event>
-      <event guid="d47b09a5-145d-5109-9780-73e2c68f78e0" id="22">
-        <date>2018-06-09T23:00:00</date>
-        <start>23:00</start>
-        <duration>0:20</duration>
-        <room>artistania</room>
-        <slug>lac2018-22-mathr_performs_with_clive</slug>
-        <recording>
-          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
-          <optout>false</optout>
-        </recording>
-        <title>mathr performs with Clive</title>
-        <language>en</language>
-        <subtitle />
-        <track />
-        <type />
-        <abstract>
-Claude Heiland-Allen (https://mathr.co.uk) is an artist from London interested in the complex emergent behaviour of simple systems, unusual geometries, and mathematical aesthetics.
-
-Clive is an audio live-coding skeleton, implemented in C. It supports a two-phase edit-commit coding cycle allowing long-lived signal processing graphs to be modified without interrupting the sound.
-
-Performance with Clive usually involves pre-preparation, from simple unit generators up to more complete compositions. The live-coding aspect involves editing a file in the performer’s favourite text editor, with the act of saving with Ctrl-S or other shortcut being timed to allow the new code to start executing in sync after the latency of compilation.
-        </abstract>
-        <description>
-Claude Heiland-Allen (https://mathr.co.uk) is an artist from London interested in the complex emergent behaviour of simple systems, unusual geometries, and mathematical aesthetics.
-
-Clive is an audio live-coding skeleton, implemented in C. It supports a two-phase edit-commit coding cycle allowing long-lived signal processing graphs to be modified without interrupting the sound.
-
-Performance with Clive usually involves pre-preparation, from simple unit generators up to more complete compositions. The live-coding aspect involves editing a file in the performer’s favourite text editor, with the act of saving with Ctrl-S or other shortcut being timed to allow the new code to start executing in sync after the latency of compilation.
-        </description>
-        <logo />
-        <persons>
-          <person id="45">Claude Heiland-Allen</person>
-        </persons>
-        <links />
-        <attachments />
-        <video_download_url> </video_download_url>
-      </event>
-      <event guid="b60cbc0f-9f28-5d28-a928-501c0f7b2152" id="47">
-        <date>2018-06-09T23:30:00</date>
-        <start>23:30</start>
-        <duration>0:15</duration>
-        <room>artistania</room>
+        <room>nativespace</room>
         <slug>lac2018-47-the_electronic_orchestra_berlin_the_metaphysics_of_notation</slug>
         <recording>
           <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
@@ -1467,9 +1289,127 @@ server is remote controlled by the sound director via OSC and various input devi
         <attachments />
         <video_download_url> </video_download_url>
       </event>
+      <event guid="63ae2c3e-c123-52e7-9047-36bd1d016532" id="49">
+        <date>2018-06-09T21:25:00</date>
+        <start>21:25</start>
+        <duration>0:10</duration>
+        <room>nativespace</room>
+        <slug>lac2018-49-pick_it_up</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Pick It Up</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Composition for prepared electric guitar and live electronics (SuperCollider), with multichannel spatialization.</abstract>
+        <description>Composition for prepared electric guitar and live electronics (SuperCollider), with multichannel spatialization.</description>
+        <logo />
+        <persons>
+          <person id="41">Krzysztof Gawlas</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="750ed88f-1237-56a0-8023-d1dda9c6c5c0" id="21">
+        <date>2018-06-09T21:40:00</date>
+        <start>21:40</start>
+        <duration>0:12</duration>
+        <room>nativespace</room>
+        <slug>lac2018-21-cosmo</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>COSMO</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+COSMO Collective is an open musical collaboration for musicians using DIY electronics and custom software written in Csound. There is no definite musical style, though it could perhaps be characterized as electro-acoustic
+improvisation. The focus is on the exploration of sound and timbre, rather than traditional harmonics and rhythm, and exploiting the powers of Csound in this pursuit.
+        </abstract>
+        <description>
+COSMO Collective is an open musical collaboration for musicians using DIY electronics and custom software written in Csound. There is no definite musical style, though it could perhaps be characterized as electro-acoustic
+improvisation. The focus is on the exploration of sound and timbre, rather than traditional harmonics and rhythm, and exploiting the powers of Csound in this pursuit.
+        </description>
+        <logo />
+        <persons>
+          <person id="43">Alex Hofmann</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="c48d7b3d-10dc-55fe-a37f-1bc8029988b7" id="23">
+        <date>2018-06-09T22:30:00</date>
+        <start>22:30</start>
+        <duration>0:15</duration>
+        <room>nativespace</room>
+        <slug>lac2018-23-tessellations</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Tessellations</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>Tessellations plays with the repetition of material generated by manipulating the interval structure of the chord and submitting it to short processes that I generate myself in Python and execute them inside PD with the py object. This piece is an experimentation on the way I link time, material and narrative. The “tessellated” object not only morphs the musical material but also the space where it occurs and the performer responsible for it – player or computer –. Furthermore, the piece has 2 solos, one in which the performer improvises based on visual cues and musical anchor points, and the other which was generated algorithmically and is “written” on the score, this incorporates the idea of the act of composition as the tessellated object itself.</abstract>
+        <description>Tessellations plays with the repetition of material generated by manipulating the interval structure of the chord and submitting it to short processes that I generate myself in Python and execute them inside PD with the py object. This piece is an experimentation on the way I link time, material and narrative. The “tessellated” object not only morphs the musical material but also the space where it occurs and the performer responsible for it – player or computer –. Furthermore, the piece has 2 solos, one in which the performer improvises based on visual cues and musical anchor points, and the other which was generated algorithmically and is “written” on the score, this incorporates the idea of the act of composition as the tessellated object itself.</description>
+        <logo />
+        <persons>
+          <person id="44">José Rafael Subía Valdez</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="d47b09a5-145d-5109-9780-73e2c68f78e0" id="22">
+        <date>2018-06-09T22:47:00</date>
+        <start>22:47</start>
+        <duration>0:30</duration>
+        <room>nativespace</room>
+        <slug>lac2018-22-mathr_performs_with_clive</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>mathr performs with Clive</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>
+Claude Heiland-Allen (https://mathr.co.uk) is an artist from London interested in the complex emergent behaviour of simple systems, unusual geometries, and mathematical aesthetics.
+
+Clive is an audio live-coding skeleton, implemented in C. It supports a two-phase edit-commit coding cycle allowing long-lived signal processing graphs to be modified without interrupting the sound.
+
+Performance with Clive usually involves pre-preparation, from simple unit generators up to more complete compositions. The live-coding aspect involves editing a file in the performer’s favourite text editor, with the act of saving with Ctrl-S or other shortcut being timed to allow the new code to start executing in sync after the latency of compilation.
+        </abstract>
+        <description>
+Claude Heiland-Allen (https://mathr.co.uk) is an artist from London interested in the complex emergent behaviour of simple systems, unusual geometries, and mathematical aesthetics.
+
+Clive is an audio live-coding skeleton, implemented in C. It supports a two-phase edit-commit coding cycle allowing long-lived signal processing graphs to be modified without interrupting the sound.
+
+Performance with Clive usually involves pre-preparation, from simple unit generators up to more complete compositions. The live-coding aspect involves editing a file in the performer’s favourite text editor, with the act of saving with Ctrl-S or other shortcut being timed to allow the new code to start executing in sync after the latency of compilation.
+        </description>
+        <logo />
+        <persons>
+          <person id="45">Claude Heiland-Allen</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url> </video_download_url>
+      </event>
     </room>
   </day>
-  <day index="4" date="2018-06-10" start="2018-06-10T11:00:00" end="2018-06-10T17:00:00">
+  <day index="4" date="2018-06-10" start="2018-06-10T11:00:00" end="2018-06-10T16:30:00">
     <room name="mainhall">
       <event guid="0cebf60f-0411-5ac1-a647-945f42c793fe" id="46">
         <date>2018-06-10T11:00:00</date>
@@ -1559,49 +1499,9 @@ The workshop is meant as an entry point for long standing, new or only intereste
         <attachments />
         <video_download_url> </video_download_url>
       </event>
-      <event guid="1b46ae11-77b9-5203-b46c-463331a8de66" id="31">
+      <event guid="70d43993-3f4d-5b18-8303-703bdfe41e85" id="36">
         <date>2018-06-10T14:00:00</date>
         <start>14:00</start>
-        <duration>2:00</duration>
-        <room>mainhall</room>
-        <slug>lac2018-31-aama_diy_hoa_microphone_kits_with_linux</slug>
-        <recording>
-          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
-          <optout>false</optout>
-        </recording>
-        <title>AAMA  - DIY HOA microphone kits with Linux</title>
-        <language>en</language>
-        <subtitle />
-        <track />
-        <type />
-        <abstract>
-The overall target is the making of affordable DIY Ambisonics field recorders with individual flair.
-One central part of this aim is the "Affordable Ambisonics Microphones Array" (AAMA).
-The usage of an embedded Linux computer simplified and accelerated the development of individual solutions of Ambisonics Microphones.
-Extensions to the embedded Linux systems as capes or modules are developed to interface and manage the microphone arrays.
-Also micro-controller usage for intermediate interfacing Linux computers is in focus.
-Sensors enhancing the usage of these higher order Ambisonics microphone arrays, combined with corresponding software tools enables the construction of your individual Ambisonics microphone array instance.
-        </abstract>
-        <description>
-The overall target is the making of affordable DIY Ambisonics field recorders with individual flair.
-One central part of this aim is the "Affordable Ambisonics Microphones Array" (AAMA).
-The usage of an embedded Linux computer simplified and accelerated the development of individual solutions of Ambisonics Microphones.
-Extensions to the embedded Linux systems as capes or modules are developed to interface and manage the microphone arrays.
-Also micro-controller usage for intermediate interfacing Linux computers is in focus.
-Sensors enhancing the usage of these higher order Ambisonics microphone arrays, combined with corresponding software tools enables the construction of your individual Ambisonics microphone array instance.
-        </description>
-        <logo />
-        <persons>
-          <person id="53">Winfried Ritsch</person>
-          <person id="54">Paul Tirk</person>
-        </persons>
-        <links />
-        <attachments />
-        <video_download_url> </video_download_url>
-      </event>
-      <event guid="70d43993-3f4d-5b18-8303-703bdfe41e85" id="36">
-        <date>2018-06-10T16:00:00</date>
-        <start>16:00</start>
         <duration>1:00</duration>
         <room>mainhall</room>
         <slug>lac2018-36-lmms_1_2_changes_and_improvements</slug>
@@ -1620,6 +1520,31 @@ Sensors enhancing the usage of these higher order Ambisonics microphone arrays, 
         <persons>
           <person id="31">Uroš Maravić</person>
           <person id="56">Tres Finocchiaro</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url> </video_download_url>
+      </event>
+      <event guid="7c027b66-2214-5224-8011-6ad71507cd29" id="104">
+        <date>2018-06-10T16:00:00</date>
+        <start>16:00</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-104-closing_speech</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Closing speech</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>A short closing speech by the team.</abstract>
+        <description>A short closing speech by the team.</description>
+        <logo />
+        <persons>
+          <person id="1">LAC team</person>
         </persons>
         <links />
         <attachments />
@@ -1755,7 +1680,9 @@ https://padthv1.sourceforge.io
         <video_download_url> </video_download_url>
       </event>
     </room>
-    <room name="artistania">
+    <room name="spektrum">
+    </room>
+    <room name="nativespace">
     </room>
   </day>
 </schedule>

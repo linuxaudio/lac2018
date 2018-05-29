@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 PRODID:-//SabreDAV//SabreDAV//EN
-X-WR-CALNAME:artistania (lac2018)
+X-WR-CALNAME:nativespace (lac2018)
 X-APPLE-CALENDAR-COLOR:#e78074
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
@@ -22,64 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-CREATED:20180502T225610
-DTSTAMP:20180502T225610
-LAST-MODIFIED:20180502T225610
-UID:K57B60WTJ79G70TEPH8HR
-SUMMARY:Sentire
-CLASS:PUBLIC
-DESCRIPTION:Author: 40:Marcello Lussana\nType: Installation\nTopics: Audio 
- and Music Languages\, Interactive Art\, Music Composition\, Projects Reali
- zed using Linux Audio\, Signal Processing and Sound Synthesis\nKeywords: e
- mbodiement\, interactive\, sound\, installation\, performance\nAbstract: S
- entire is an Italian word that means both to hear and to feel. The project
-  is about exploring the fine mixture of these two senses and\, particularl
- y\, to their amplification and morphing.\n\n'Sentire' project was initiate
- d by two Berlin-based artists Marcello Lussana and Olga Kozmanidze in 2016
- . The project consists of two parts: immersive performance series based on
-  interactive sound and PhD research on human perception. In the course of 
- the project we have been using a device (bracelets) connecting two people 
- to the sound system and tracking distance and touch events between them. W
- e apply and constantly develop a method of device usage according to which
-  participants proceed through a scenario of two phases interaction. Depend
- ing on distance and touch between them different sounds are triggered and 
- changing\, creating an instant sound feedback. Gradually both hearing and 
- sense of touch morth one into another giving a chance to perceive one's bo
- dy on a deep level.\n\nThe interactive system has been designed with the S
- upercollider software and it runs on Linux Mint.\nID: 17
-STATUS:CONFIRMED
-DTSTART;TZID=Europe/Berlin:20180609T200000
-DTEND;TZID=Europe/Berlin:20180610T000000
-END:VEVENT
-BEGIN:VEVENT
-CREATED:20180426T203543
-DTSTAMP:20180426T203543
-LAST-MODIFIED:20180426T205736
-UID:RQXZO4LQOUZEBWDH6T4YC
-SUMMARY:TXTED - interactive audio-visual performance using open-source musi
- cal machine learning interaction
-CLASS:PUBLIC
-STATUS:CONFIRMED
-DESCRIPTION:Author: 42:Shawn Trail\nType: Performance\nKeywords: NIME\, Pur
- edata\, Raspberry Pi\nAbstract: This is a proposal to perform a new body o
- f work using a new pitched percussion hyperinstrument system featuring a m
- achine learning tool designed for music performance. All software was desi
- gned in Puredata and runs on a Raspberry Pi with multichannel audio in/out
- . The framework consists of custom idiomatic gesture interfaces and proces
- sing software for an electric lamellophone with embedded gesture sensing. 
- The instrumental framework is accompanied by an interactive video synthesi
- zer built in GEM and also running on a Raspberry Pi\, networked together w
- irelessly. The project represents the culmination of the Phd research rece
- ntly completed by the artist [1][2].\n\n1.Non-invasive sensing and gesture
-  control for pitched percussion hyper-instruments using the Kinect.\nS Tra
- il\, M Dean\, G Odowichuk\, TF Tavares\, PF Driessen\, WA Schloss\, G Tzan
- etakis. NIME 2012.\n\n2. El-Lamellophone A Low-cost\, DIY\, Open Framework
-  for Acoustic Lemellophone Based Hyperinstruments.\nS Trail\, D MacConnell
- \, L Jenkins\, J Snyder\, G Tzanetakis\, PF Driessen. NIME\, 2014.\nID: 56
-DTSTART;TZID=Europe/Berlin:20180609T210000
-DTEND;TZID=Europe/Berlin:20180609T211500
-END:VEVENT
-BEGIN:VEVENT
 CREATED:20180426T203626
 DTSTAMP:20180426T203626
 LAST-MODIFIED:20180426T205712
@@ -95,8 +37,9 @@ DESCRIPTION:Author: 43:Alex Hofmann\nType: Performance\nKeywords: performan
  us is on the exploration of sound and timbre\, rather than traditional har
  monics and rhythm\, and exploiting the powers of Csound in this pursuit.\n
  ID: 21
-DTSTART;TZID=Europe/Berlin:20180609T220000
-DTEND;TZID=Europe/Berlin:20180609T221000
+LOCATION:Native Space\, Schlesische Straße 30\, 10997 Berlin
+DTSTART;TZID=Europe/Berlin:20180609T214000
+DTEND;TZID=Europe/Berlin:20180609T215200
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180426T203648
@@ -119,6 +62,7 @@ DESCRIPTION:Author: 44:José Rafael Subía Valdez\nType: Performance\nTopic
   and musical anchor points\, and the other which was generated algorithmic
  ally and is “written” on the score\, this incorporates the idea of the
   act of composition as the tessellated object itself.\nID: 23
+LOCATION:Native Space\, Schlesische Straße 30\, 10997 Berlin
 DTSTART;TZID=Europe/Berlin:20180609T223000
 DTEND;TZID=Europe/Berlin:20180609T224500
 END:VEVENT
@@ -143,8 +87,9 @@ DESCRIPTION:Author: 45:Claude Heiland-Allen\nType: Performance\nTopics: Liv
  r\, with the act of saving with Ctrl-S or other shortcut being timed to al
  low the new code to start executing in sync after the latency of compilati
  on.\nID: 22
-DTSTART;TZID=Europe/Berlin:20180609T230000
-DTEND;TZID=Europe/Berlin:20180609T232000
+LOCATION:Native Space\, Schlesische Straße 30\, 10997 Berlin
+DTSTART;TZID=Europe/Berlin:20180609T224700
+DTEND;TZID=Europe/Berlin:20180609T231700
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180426T203733
@@ -154,7 +99,7 @@ UID:WBH7I8IRNTJ55DKC4QYSA6
 SUMMARY:The Electronic Orchestra Berlin: The Metaphysics of Notation
 CLASS:PUBLIC
 STATUS:CONFIRMED
-LOCATION:
+LOCATION:Native Space\, Schlesische Straße 30\, 10997 Berlin
 DESCRIPTION:Author: 46:Henrik von Coler| 47:David Runge\nType: Performance\
  nKeywords: Performance\, Live Electronics\, Modular Synth\, Live Spatializ
  ation\, VBAP\, Ambisonics\, Graphical Scores\nAbstract: 12 electronic and 
@@ -170,8 +115,8 @@ DESCRIPTION:Author: 46:Henrik von Coler| 47:David Runge\nType: Performance\
   Server with Ubuntu Studio. The\nserver is remote controlled by the sound 
  director via OSC and various input devices. Inputs and outputs are managed
   with a RME MADI card and several AD/DA converters.\nID: 47
-DTSTART;TZID=Europe/Berlin:20180609T233000
-DTEND;TZID=Europe/Berlin:20180609T234500
+DTSTART;TZID=Europe/Berlin:20180609T210000
+DTEND;TZID=Europe/Berlin:20180609T211500
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180426T203521
@@ -186,28 +131,8 @@ DESCRIPTION:Author: 41:Krzysztof Gawlas\nType: Performance\nTopics: Interac
  thesis\, Sound Spatialization\nKeywords: live performance\, prepared guita
  r\nAbstract: Composition for prepared electric guitar and live electronics
   (SuperCollider)\, with multichannel spatialization.\nID: 49
-DTSTART;TZID=Europe/Berlin:20180609T203000
-DTEND;TZID=Europe/Berlin:20180609T204000
-END:VEVENT
-BEGIN:VEVENT
-CREATED:20180426T203602
-DTSTAMP:20180426T203602
-LAST-MODIFIED:20180426T205714
-UID:KGZ7YDVU9NR2QDG0KJDKN
-SUMMARY:Gestural Performance 2
-CLASS:PUBLIC
-STATUS:CONFIRMED
-DESCRIPTION:Author: 7:Joao Pais\nType: Performance\nKeywords: gestural perf
- ormance\, leapmotion\, pure data\nAbstract: This semi-improvised performan
- ce is the next step of an ongoing research for a gestural performance inst
- rument being developed by Pais. Using the LeapMotion sensor together with 
- custom-made gesture interpretation and synthesis objects in Pure Data\, th
- e expressiveness of the performer's hand movements is reflected in the exp
- ressiveness of the sound that is produced and in its integration in space 
- in a multichannel setup. The aim is to produce a developing event\, where 
- the gestures visible to the audience acquire a new meaning in each new sou
- nd context present in during the performance.\nID: 27
-DTSTART;TZID=Europe/Berlin:20180609T213000
-DTEND;TZID=Europe/Berlin:20180609T214500
+LOCATION:Native Space\, Schlesische Straße 30\, 10997 Berlin
+DTSTART;TZID=Europe/Berlin:20180609T212500
+DTEND;TZID=Europe/Berlin:20180609T213500
 END:VEVENT
 END:VCALENDAR

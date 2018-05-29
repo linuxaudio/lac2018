@@ -179,13 +179,13 @@ DESCRIPTION:Author: 26:Anna Terzaroli\nType: Performance\nTopics: Audio and
   Music Languages\, Music Composition\, Music Production\, Sound Spatializa
  tion\nKeywords: Electronic Music\, Acousmatic Music\, Spatialization\, Sou
  ndscape Composition\nID: 55
-DTSTART;TZID=Europe/Berlin:20180608T220000
-DTEND;TZID=Europe/Berlin:20180608T220800
+DTSTART;TZID=Europe/Berlin:20180608T211100
+DTEND;TZID=Europe/Berlin:20180608T211900
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180428T224949
 DTSTAMP:20180428T224949
-LAST-MODIFIED:20180428T224949
+LAST-MODIFIED:20180529T202431
 UID:2MXD2GVY4ZPKC4U1YBSY9I
 SUMMARY:LMMS 1.2: Changes and Improvements
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
@@ -197,8 +197,8 @@ DESCRIPTION:Author: 31:Uroš Maravić| 56:Tres Finocchiaro\nType: Workshop\
   1.2 as well as an open discussion on the future of the software itself. T
  he workshop is suitable for musicians and developers alike.\nID: 36
 STATUS:CONFIRMED
-DTSTART;TZID=Europe/Berlin:20180610T160000
-DTEND;TZID=Europe/Berlin:20180610T170000
+DTSTART;TZID=Europe/Berlin:20180610T140000
+DTEND;TZID=Europe/Berlin:20180610T150000
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180426T203421
@@ -210,8 +210,8 @@ CLASS:PUBLIC
 STATUS:CONFIRMED
 DESCRIPTION:Author: 29:Michele Del Prete\nType: Performance\nKeywords: Csou
  nd Tape Space\nAbstract: tape 8 ch\nID: 48
-DTSTART;TZID=Europe/Berlin:20180608T233000
-DTEND;TZID=Europe/Berlin:20180608T234000
+DTSTART;TZID=Europe/Berlin:20180608T224000
+DTEND;TZID=Europe/Berlin:20180608T225000
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180426T190935
@@ -277,8 +277,8 @@ DESCRIPTION:Author: 25:Andre Bartetzki\nType: Performance\nAbstract: SHIFT
  40 generated audio signals are dynamically distributed in space by the sof
  tware and adapted to as many as available loudspeakers in order to get a r
  eal immersive experience.\nID: 16
-DTSTART;TZID=Europe/Berlin:20180608T213000
-DTEND;TZID=Europe/Berlin:20180608T214500
+DTSTART;TZID=Europe/Berlin:20180608T225200
+DTEND;TZID=Europe/Berlin:20180608T230700
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180426T201605
@@ -305,8 +305,8 @@ DESCRIPTION:Author: 23:Massimo Vito Avantaggiato\nType: Performance\nTopics
  2017\, Matera\, ITALY)\;\n\nID: 1
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DTSTART;TZID=Europe/Berlin:20180608T203000
-DTEND;TZID=Europe/Berlin:20180608T203800
+DTSTART;TZID=Europe/Berlin:20180608T223000
+DTEND;TZID=Europe/Berlin:20180608T223800
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180426T185751
@@ -356,8 +356,8 @@ CLASS:PUBLIC
 STATUS:CONFIRMED
 DESCRIPTION:Author: 28:Magnus Johansson\nType: Performance\nAbstract: Elect
  roacoustic 8-channel fixed media composition\nID: 51
-DTSTART;TZID=Europe/Berlin:20180608T230000
-DTEND;TZID=Europe/Berlin:20180608T231100
+DTSTART;TZID=Europe/Berlin:20180608T212200
+DTEND;TZID=Europe/Berlin:20180608T213300
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180428T224600
@@ -627,6 +627,20 @@ DTSTART;TZID=Europe/Berlin:20180610T110000
 DTEND;TZID=Europe/Berlin:20180610T113000
 END:VEVENT
 BEGIN:VEVENT
+CREATED:20180529T204719
+DTSTAMP:20180529T204719
+LAST-MODIFIED:20180529T204719
+UID:TTRIJVJ21EOBNSYOKF4DWP
+SUMMARY:Closing speech
+LOCATION:c-base\, Rungestraße 20\, 10997 Berlin
+CLASS:PUBLIC
+STATUS:CONFIRMED
+DESCRIPTION:Author: 1:LAC team\nType: Informal\nAbstract: A short closing s
+ peech by the team.\nID: 104
+DTSTART;TZID=Europe/Berlin:20180610T160000
+DTEND;TZID=Europe/Berlin:20180610T163000
+END:VEVENT
+BEGIN:VEVENT
 CREATED:20180426T193603
 DTSTAMP:20180426T193603
 LAST-MODIFIED:20180426T193603
@@ -664,34 +678,8 @@ CLASS:PUBLIC
 STATUS:CONFIRMED
 DESCRIPTION:Author: 27:Helene Hedsund\nType: Performance\nAbstractElectroac
  oustic Music\, 8 channels\nID: 45
-DTSTART;TZID=Europe/Berlin:20180608T223000
-DTEND;TZID=Europe/Berlin:20180608T223900
-END:VEVENT
-BEGIN:VEVENT
-CREATED:20180426T194013
-DTSTAMP:20180426T194013
-LAST-MODIFIED:20180426T194013
-UID:3VYWQEVEJW8YBK6QHKENT
-SUMMARY:AAMA  - DIY HOA microphone kits with Linux
-CLASS:PUBLIC
-STATUS:CONFIRMED
-LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
-DESCRIPTION:Author: 53:Winfried Ritsch| 54:Paul Tirk\nType: Workshop\nTopic
- s: Audio Hardware Support\, Drivers\, System and Sound Architecture\, Mobi
- le Audio\nKeywords: Microphone\, Audio Interface\, Mobile Audio\, embedded
-  Linux devices\nAbstract: The overall target is the making of affordable D
- IY Ambisonics field recorders with individual flair.\nOne central part of 
- this aim is the "Affordable Ambisonics Microphones Array" (AAMA).\nThe usa
- ge of an embedded Linux computer simplified and accelerated the developmen
- t of individual solutions of Ambisonics Microphones.\nExtensions to the em
- bedded Linux systems as capes or modules are developed to interface and ma
- nage the microphone arrays.\nAlso micro-controller usage for intermediate 
- interfacing Linux computers is in focus.\nSensors enhancing the usage of t
- hese higher order Ambisonics microphone arrays\, combined with correspondi
- ng software tools enables the construction of your individual Ambisonics m
- icrophone array instance.\nID: 31
-DTSTART;TZID=Europe/Berlin:20180610T140000
-DTEND;TZID=Europe/Berlin:20180610T160000
+DTSTART;TZID=Europe/Berlin:20180608T213500
+DTEND;TZID=Europe/Berlin:20180608T214400
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20180426T193211

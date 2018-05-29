@@ -4,4 +4,60 @@ CALSCALE:GREGORIAN
 PRODID:-//SabreDAV//SabreDAV//EN
 X-WR-CALNAME:spektrum (lac2018)
 X-APPLE-CALENDAR-COLOR:#e7e774
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED:20180428T224549
+DTSTAMP:20180428T224549
+LAST-MODIFIED:20180428T224639
+UID:UVX7ALW5CSQYIVYOOAEBTR
+SUMMARY:Caracoles IV
+CLASS:PUBLIC
+STATUS:CONFIRMED
+LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
+DESCRIPTION:Author: 22:Jaime E Oliver La Rosa\nType: Installation\nKeywords
+ : sound installation\, feedback\nAbstract: Caracoles IV is an installation
+  that uses interactive feedback systems to sonically explore modified conc
+ h shells known as a pututus\, which are andean musical instruments fashion
+ ed out of conch shells. These instruments existed far before colonial occu
+ pation in the 15th century and work as a kind of cornet or trumpet\, by ad
+ ding an embouchure to the shell. However\, this musical instrument is not 
+ created by a human alone\, but is also the creation of a large snail which
+  once inhabited it\; it is the mollusc’s exoskeleton and home and it is 
+ shaped by its existence. When the snail dies\, the spiral-shaped shell is 
+ emptied of its organic body and eventually appropriated by the instrument 
+ maker to fashion an instrument out of it. In this installation\, a third a
+ ppropriation takes place: I place a microphone in the embouchure and a spe
+ aker at the end of the spiral canal and connect them through a feedback sy
+ stem controlled by a Pure Data (Pd) patch running on a raspberry pi zero\,
+  all hidden inside the shell. The system detects resonant feedback frequen
+ cies and temporarily cancels them with filters to push the system to find 
+ another resonant frequency\, and so on\, generating in this way a sequence
+  of resonant frequencies of the shell. This installation is also a play on
+  the belief that conch shells are a way to listen to the sea. In fact\, th
+ e shell acts as a filter and resonant cavity to our own bodies and spaces\
+ , thus\, its resonant frequencies are activated by the presence of people 
+ in the installation space. In this way\, each shell is a collaboration bet
+ ween humans\, conch-shells and interactive systems\, but also an interacti
+ on between all of the shells because each of them have their own acoustic 
+ properties\, but their resonances are audible to each other\, thus generat
+ ing unpredictable sonic landscapes.\nID: 57
+DTSTART;TZID=Europe/Berlin:20180608T160000
+DTEND;TZID=Europe/Berlin:20180608T200000
+END:VEVENT
 END:VCALENDAR
