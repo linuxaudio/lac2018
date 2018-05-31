@@ -20,7 +20,7 @@
   Please don't forget to upload your slides! We can not accept lightning talks
   without a submitted PDF (with the exception of you not needing any slides).
   Your talk should be related to the topic of Linux Audio. Deadline for
-  submissions is **2018-05-06** and the lightning talk track will be held
+  submissions is **2018-06-05** and the lightning talk track will be held
   between **15:00** and **16:30** on **2018-06-09** at c-base mainhall.
 
 
