@@ -136,6 +136,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/pages/schedule", "Schedule"),
         ("https://www.ak.tu-berlin.de/index.php?id=195758", "Register"),
+        ("/pages/locations", "Locations"),
         ("/pages/travel-and-stay", "Travel & Stay"),
         ("/pages/contact", "Contact"),
         ("/pages/about", "About"),
