@@ -24,7 +24,7 @@
 
 .. |native_instruments| raw:: html
 
-  <a href="https://nativeinstruments.com" target="_blank">Native Instruments</a>
+  <a href="https://native-instruments.com" target="_blank">Native Instruments</a>
 
 .. |native_space| raw:: html
 
