@@ -12,6 +12,11 @@ c-base
 | The space station below Berlin-Mitte is located in the 2nd backyard of
   *Rungestraße 20, 10179 Berlin*.
 | This is very |c-base_location|.
+| c-base offers two locations for the presentations and workshops: **mainhall**
+  and **ceminar**.
+| Additionally, the small **soundlab** can be used for on-site try outs of
+  hard- and software.
+
 
 Public transport
 ________________
