@@ -63,9 +63,10 @@ _________
 | The videos will be made available on https://media.ccc.de and additionally
   (if desired by the presenter) also on https://youtube.com through the |voc|.
   In both cases, the media will be covered by a Creative Commons
-  Attribution-ShareAlike 4.0 International (|cc-by-sa|) license.
+  Attribution-NonCommercial-ShareAlike 4.0 International (|cc-by-nc-sa|)
+  license.
 | Works covered by |gema| or any other national or international collecting
-  society, not compatible with |cc-by-sa| can not be streamed and made publicly
+  society, not compatible with |cc-by-nc-sa| can not be streamed and made publicly
   available. This also applies to copyrighted works used during a presentation
   or workshop.
 |
@@ -100,9 +101,9 @@ _________
 
   <a href="https://ccc.de/" target="_blank">CCC e.V.</a>
 
-.. |cc-by-sa| raw:: html
+.. |cc-by-nc-sa| raw:: html
 
-  <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>
+  <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>
 
 .. |gema| raw:: html
 
