@@ -47,6 +47,14 @@ What to expect
 | Relevant information about the conference can be found on the pages for the
   |cfp|, |travelandstay| and |contact|.
 
+Privacy statement
+-----------------
+
+The conference's privacy and licensing statement can be found `here </pages/privacy>`_.
+
+Sources
+-------
+
 | This website is static HTML. Its repository can be found |here|.
 
 .. |c-base| raw:: html
