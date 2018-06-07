@@ -20,4 +20,4 @@
 **Abstract**: 
 SpectMorph is an open source software which performs morphing of the timbre of musical instruments. This allows creating sounds that smoothly transition from the timbre of one instrument to the timbre of another instrument. There are three steps necessary to obtain the final sound. In the analysis, we use the fourier transform to create models of the spectrum of the input samples. During synthesis a time domain signal can be obtained from these data. An algorithm for morphing the spectral models of multiple instruments is the core of our method. Synthesis and morphing can be done in real-time. After the description of the theoretical background, we provide an overview of the features of the SpectMorph plugin.
 
-**Downloads**: 
+**Downloads**: `Paper </pdf/18-paper.pdf>`_ 

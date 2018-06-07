@@ -103,7 +103,7 @@ Day 2 (2018-06-08)
    * - 20:00 - 00:00
      - ceminar
      - Installation
-     - Marcello Lussana
+     - Marcello Lussana, Olga Kozmanidze, Pascal Staudt
      - `Sentire </pages/event/17/>`_
    * - 21:00 - 21:10
      - mainhall

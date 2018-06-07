@@ -20,4 +20,4 @@
 **Abstract**: 
 Perlin noise is a well known algorithm in computer graphics applications and one of the first algorithms for generating procedural textures. It has been very widely used in movies, games, demos, and landscape generators, but despite its popularity it has been seldom used for creative purposes in the fields outside the world of computer graphics. This paper discusses the use of Perlin noise and fractional Brownian motion for sound synthesis applications.
 
-**Downloads**: 
+**Downloads**: `Paper </pdf/14-paper.pdf>`_ 

@@ -102,9 +102,16 @@ def __get_abstract_from_description(description):
         return "None"
 
 
-def __print_pdf_by_id(id):
-    if os.path.isfile("files/pdf/"+str(id)+".pdf"):
-        return "`pdf </pdf/"+str(id)+".pdf>`_"
+def __print_paper_link_by_id(id):
+    if os.path.isfile("files/pdf/"+str(id)+"-paper.pdf"):
+        return "`Paper </pdf/"+str(id)+"-paper.pdf>`_ "
+    else:
+        return ""
+
+
+def __print_compressed_link_by_id(id):
+    if os.path.isfile("files/compressed/"+str(id)+"-additional.tar.gz"):
+        return "`Archive </compressed/"+str(id)+"-additional.tar.gz>`_ "
     else:
         return ""
 
@@ -247,7 +254,9 @@ def write_events(events):
         event_page.write('\n')
         event_page.write('**Abstract**: \n'+event.abstract+'\n')
         event_page.write('\n')
-        event_page.write('**Downloads**: '+__print_pdf_by_id(event.id)+'\n')
+        event_page.write('**Downloads**: ' +
+                         __print_paper_link_by_id(event.id) +
+                         __print_compressed_link_by_id(event.id)+'\n')
 
 
 # write all events to files/fahrplan.csv, compatible with voctosched

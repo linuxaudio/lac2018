@@ -21,4 +21,4 @@
 Distributed control of applications by multiple simultaneous devices has traditionally been achieved via protocols such as MIDI or OSC. These simple protocols require additional semantics, often communicated out of band, in order to construct meaningful APIs.
 We present the Concert Light-weight API (CLAPI) framework: a session-based pub/sub API framework that aims to simplify the definition and usage of semantic, time-centric distributed controls.
 
-**Downloads**: 
+**Downloads**: `Paper </pdf/54-paper.pdf>`_ 

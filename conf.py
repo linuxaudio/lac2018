@@ -135,7 +135,9 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/pages/schedule", "Schedule"),
+        ("https://streaming.media.ccc.de/lac2018", "Streaming"),
         ("https://www.ak.tu-berlin.de/index.php?id=195758", "Register"),
+        ("/pages/locations", "Locations"),
         ("/pages/travel-and-stay", "Travel & Stay"),
         ("/pages/contact", "Contact"),
         ("/pages/about", "About"),
@@ -941,7 +943,12 @@ FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = ""
+LICENSE = """
+ <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+ <img alt="Creative Commons License BY-NC-SA"
+ style="border-width:0; margin-bottom:12px;"
+ src="/images/cc_by-nc-sa.png"></a>
+"""
 # I recommend using the Creative Commons' wizard:
 # https://creativecommons.org/choose/
 # LICENSE = """
@@ -952,7 +959,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> {license}'
+CONTENT_FOOTER = 'Contents &copy; {date} <a href="/pages/contact">{author}</a> {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
