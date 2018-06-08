@@ -359,6 +359,53 @@ Performance with Clive usually involves pre-preparation, from simple unit genera
 Clive is an audio live-coding skeleton, implemented in C. It supports a two-phase edit-commit coding cycle allowing long-lived signal processing graphs to be modified without interrupting the sound.
 
 Performance with Clive usually involves pre-preparation, from simple unit generators up to more complete compositions. The live-coding aspect involves editing a file in the performer’s favourite text editor, with the act of saving with Ctrl-S or other shortcut being timed to allow the new code to start executing in sync after the latency of compilation.",en,45:Claude Heiland-Allen, 
+nativespace,2018-06-09,3,23:20,02:00,Ambisonics DJ Set,121,"A DJ set in Ambisonic B-Format (3rd Order), on a circle of 6.5m radius, with 8 speakers surround and a 6 speaker mono-cluster for bass, originally presented at the Festival “Zu einer Zeit in Gardelegen 2018”. How to explain a new panning FX to DJs just a few minutes before gig? It must be simple, and there is no chance explaining a OSC with a lot of knobs and pan-sliders. A PD Patch is used, measuring the aux-send to mix the fixed standard stereo-encoder vs the remote controlled stereo-encoder from the DJ-Mixer (X one92). The VCA-Midi-Outputs were used to control azimuth and width of the fx- stereo-encoder.
+
+Thanks a lot to my Ambisonic Taskforce: Patric Schmitz und Sevinc Eroglu (RWTH Aachen), Benedikt Prechter (Ableton Live) and Mark Schulze (Bitwig Studio). Impressions of wavefield-synthesis and Ambisonics were given by Henrik von Coler (TU-Berlin).                                                                                                                                                        
+                                                                                                                                                                          
+Software: 
+
+* Fons Adriansen’s Ambdec Softwaredecoder                                                                                                                                 
+* AmbiX (ACN- Channel Order and SN3D normalisation)                                                                                                                       
+* IEM-Pluginsuite Stereo-Encoder                                                                                                                                          
+* Max-for-Live Patch für Ableton (Benedikt Prechter) 
+* Jackaudio Soundserver (Cadence)                                                                                                                                         
+* Carla Pluginhost                                                                                                                                                        
+* Pure Data                                                                                                                                                               
+                                                                                                                                                                          
+Hardware (Computing Ambisonics):
+
+* 4-Core AMD, 8gb Ram, SSD                                                                                                                                                
+* RME HDSP9652                                                                                                                                                            
+* RME Fireface UC                                                                                                                                                         
+* 2x Behringer ADA8000                                                                                                                                                    
+* Rosendahl Nanoclock                                                                                                                                                     
+* Target 24/8/8/2 Mixer (for Stereo-Fallback)                                                                                                                             
+* AH Xone92 DJ-Mixer
+","A DJ set in Ambisonic B-Format (3rd Order), on a circle of 6.5m radius, with 8 speakers surround and a 6 speaker mono-cluster for bass, originally presented at the Festival “Zu einer Zeit in Gardelegen 2018”. How to explain a new panning FX to DJs just a few minutes before gig? It must be simple, and there is no chance explaining a OSC with a lot of knobs and pan-sliders. A PD Patch is used, measuring the aux-send to mix the fixed standard stereo-encoder vs the remote controlled stereo-encoder from the DJ-Mixer (X one92). The VCA-Midi-Outputs were used to control azimuth and width of the fx- stereo-encoder.
+
+Thanks a lot to my Ambisonic Taskforce: Patric Schmitz und Sevinc Eroglu (RWTH Aachen), Benedikt Prechter (Ableton Live) and Mark Schulze (Bitwig Studio). Impressions of wavefield-synthesis and Ambisonics were given by Henrik von Coler (TU-Berlin).                                                                                                                                                        
+                                                                                                                                                                          
+Software: 
+
+* Fons Adriansen’s Ambdec Softwaredecoder                                                                                                                                 
+* AmbiX (ACN- Channel Order and SN3D normalisation)                                                                                                                       
+* IEM-Pluginsuite Stereo-Encoder                                                                                                                                          
+* Max-for-Live Patch für Ableton (Benedikt Prechter) 
+* Jackaudio Soundserver (Cadence)                                                                                                                                         
+* Carla Pluginhost                                                                                                                                                        
+* Pure Data                                                                                                                                                               
+                                                                                                                                                                          
+Hardware (Computing Ambisonics):
+
+* 4-Core AMD, 8gb Ram, SSD                                                                                                                                                
+* RME HDSP9652                                                                                                                                                            
+* RME Fireface UC                                                                                                                                                         
+* 2x Behringer ADA8000                                                                                                                                                    
+* Rosendahl Nanoclock                                                                                                                                                     
+* Target 24/8/8/2 Mixer (for Stereo-Fallback)                                                                                                                             
+* AH Xone92 DJ-Mixer
+",en,130:Raphael Eismann| 131: Benedikt Prechter, 
 ceminar,2018-06-10,4,11:00,01:00,How to create real-time audio appliances with Debian GNU/Linux,30,"This hands-on workshop will introduce participants to methods for creating single-purpose GNU/Linux distributions for inexpensive ARM boards like the Raspberry Pi 3, and open source hardware including the BeagleBone Black. There will be an emphasis on optimising performance for demanding real-time audio applications such as xwax, as used in the PiDeck[1] project. Issues of maintainability, field upgrades and security will also be covered.","This hands-on workshop will introduce participants to methods for creating single-purpose GNU/Linux distributions for inexpensive ARM boards like the Raspberry Pi 3, and open source hardware including the BeagleBone Black. There will be an emphasis on optimising performance for demanding real-time audio applications such as xwax, as used in the PiDeck[1] project. Issues of maintainability, field upgrades and security will also be covered.",en,48:Daniel James| 49:Christopher Obbard, 
 mainhall,2018-06-10,4,11:00,00:30,Jacktools - Realtime Audio Processors as Python Classes,46,"This paper introduces a set of real-time audio processing blocks that can be used as components in Python scripts. Each of them is both a Jack client and a Python class. The full power of Python can be used to control these modules, to combine them into systems of arbitrary complexity, and to interface them to anything that can be controlled from Python. The rationale behind this approach, some of the the implementations details, and possible applications are discussed.","This paper introduces a set of real-time audio processing blocks that can be used as components in Python scripts. Each of them is both a Jack client and a Python class. The full power of Python can be used to control these modules, to combine them into systems of arbitrary complexity, and to interface them to anything that can be controlled from Python. The rationale behind this approach, some of the the implementations details, and possible applications are discussed.",en,50:Fons Adriaensen, 
 mainhall,2018-06-10,4,11:30,00:30,Distributed time-centric APIs with CLAPI,54,"Distributed control of applications by multiple simultaneous devices has traditionally been achieved via protocols such as MIDI or OSC. These simple protocols require additional semantics, often communicated out of band, in order to construct meaningful APIs.

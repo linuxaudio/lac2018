@@ -227,6 +227,11 @@ Day 3 (2018-06-09)
      - Performance
      - Claude Heiland-Allen
      - `mathr performs with Clive </pages/event/22/>`_
+   * - 23:20 - 01:20
+     - nativespace
+     - Performance
+     - Raphael Eismann,  Benedikt Prechter
+     - `Ambisonics DJ Set </pages/event/121/>`_
 
 Day 4 (2018-06-10)
 ==================
