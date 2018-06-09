@@ -158,25 +158,25 @@ CREATED:20180426T203733
 DTSTAMP:20180426T203733
 LAST-MODIFIED:20180426T205704
 UID:WBH7I8IRNTJ55DKC4QYSA6
-SUMMARY:The Electronic Orchestra Berlin: The Metaphysics of Notation
+SUMMARY:Rotations 2
 CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:Native Space\, Schlesische Straße 30\, 10997 Berlin
-DESCRIPTION:Author: 46:Henrik von Coler| 47:David Runge\nType: Performance\
- nKeywords: Performance\, Live Electronics\, Modular Synth\, Live Spatializ
- ation\, VBAP\, Ambisonics\, Graphical Scores\nAbstract: 12 electronic and 
- electroacoustic instruments\, live\nspatialized on a 12-speaker system - t
- he Electronic\nOrchestra Charlottenburg (EOC)\, a project of the Electroni
- c\nMusic Studio at TU Berlin\, explores means of organizing and\nspatializ
- ing the seemingly infinite diversity of electronic\nsounds in a larger ens
- emble.\n\nThe Metaphysics of Notation (2008)\, by Mark Applebaum\, is a\ng
- raphical score with a length of 22 meters\, divided into 12\npanels.For th
- e interpretation of the score\, each instrument is assigned one or several
-  panels. The piece is performed\nwithout a fixed time grid.\nThe performan
- ce will be spatialized using the SSR\, PD and\nPython\, running on a Linux
-  Server with Ubuntu Studio. The\nserver is remote controlled by the sound 
- director via OSC and various input devices. Inputs and outputs are managed
-  with a RME MADI card and several AD/DA converters.\nID: 47
+DESCRIPTION:Author: 150:The Electronic Orchestra Charlottenburg\nType: Perf
+ ormance\nKeywords: Performance\, Live Electronics\, Modular Synth\, Live S
+ patialization\, VBAP\, Ambisonics\nAbstract: Six modular synthesizers and 
+ one digital instrument interact in an improvised performance. Their spatia
+ l movements are defined by rotations in opposite directions over time\, re
+ alized on an eight channel speaker system - the Electronic\nOrchestra Char
+ lottenburg (EOC) (https://www.ak.tu-berlin.de/menue/elektronisches_studio/
+ elektronisches_orchester_charlottenburg/)\, a project of the Electronic\nM
+ usic Studio at TU Berlin (https://www.ak.tu-berlin.de/menue/elektronisches
+ _studio/)\, explores means of organizing and\nspatializing the seemingly i
+ nfinite diversity of electronic\nsounds in a larger ensemble.\n\nThe perfo
+ rmance will be spatialized using the SSR\, Pd and\nPython\, running on a L
+ inux Server with Ubuntu Studio. The\nserver is remote controlled by the so
+ und director via OSC and various input devices. Inputs and outputs are man
+ aged with an RME MADI card and several AD/DA converters.\n\n\n\nID: 47
 DTSTART;TZID=Europe/Berlin:20180609T210000
 DTEND;TZID=Europe/Berlin:20180609T211500
 END:VEVENT

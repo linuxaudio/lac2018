@@ -1,7 +1,7 @@
-.. title: The Electronic Orchestra Berlin: The Metaphysics of Notation
+.. title: Rotations 2
 .. slug: 47
 .. date: 
-.. tags: Performance, Live Electronics, Modular Synth, Live Spatialization, VBAP, Ambisonics, Graphical Scores
+.. tags: Performance, Live Electronics, Modular Synth, Live Spatialization, VBAP, Ambisonics
 .. category: Performance
 .. link: 
 .. description: 
@@ -13,24 +13,22 @@
 
 **Time**: 21:00 - 21:15
 
-**Author(s)**: Henrik von Coler, David Runge
+**Author(s)**: The Electronic Orchestra Charlottenburg
 
-**Keywords**: Performance, Live Electronics, Modular Synth, Live Spatialization, VBAP, Ambisonics, Graphical Scores
+**Keywords**: Performance, Live Electronics, Modular Synth, Live Spatialization, VBAP, Ambisonics
 
 **Abstract**: 
-12 electronic and electroacoustic instruments, live
-spatialized on a 12-speaker system - the Electronic
-Orchestra Charlottenburg (EOC), a project of the Electronic
-Music Studio at TU Berlin, explores means of organizing and
+Six modular synthesizers and one digital instrument interact in an improvised performance. Their spatial movements are defined by rotations in opposite directions over time, realized on an eight channel speaker system - the Electronic
+Orchestra Charlottenburg (EOC) (https://www.ak.tu-berlin.de/menue/elektronisches_studio/elektronisches_orchester_charlottenburg/), a project of the Electronic
+Music Studio at TU Berlin (https://www.ak.tu-berlin.de/menue/elektronisches_studio/), explores means of organizing and
 spatializing the seemingly infinite diversity of electronic
 sounds in a larger ensemble.
 
-The Metaphysics of Notation (2008), by Mark Applebaum, is a
-graphical score with a length of 22 meters, divided into 12
-panels.For the interpretation of the score, each instrument is assigned one or several panels. The piece is performed
-without a fixed time grid.
-The performance will be spatialized using the SSR, PD and
+The performance will be spatialized using the SSR, Pd and
 Python, running on a Linux Server with Ubuntu Studio. The
-server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with a RME MADI card and several AD/DA converters.
+server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with an RME MADI card and several AD/DA converters.
+
+
+
 
 **Downloads**: 

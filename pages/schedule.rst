@@ -205,8 +205,8 @@ Day 3 (2018-06-09)
    * - 21:00 - 21:15
      - nativespace
      - Performance
-     - Henrik von Coler, David Runge
-     - `The Electronic Orchestra Berlin: The Metaphysics of Notation </pages/event/47/>`_
+     - The Electronic Orchestra Charlottenburg
+     - `Rotations 2 </pages/event/47/>`_
    * - 21:25 - 21:35
      - nativespace
      - Performance

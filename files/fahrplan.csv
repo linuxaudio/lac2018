@@ -318,33 +318,29 @@ After this workshop, it should be clear how to program with data structures, and
 This workshop illustrates the possibilities of Pd’s data structures as a fruitful companion to any Pd user interested in a closer and more flexible interaction with the graphical representation of data.
 The first part explains how to program with data structures (and their shortcomings). The second part analyses several examples of “real life” situations (display and control examples, up to complex patches to control / generate music in realtime).
 After this workshop, it should be clear how to program with data structures, and integrate them inindividual patches.",en,7:Joao Pais, 
-nativespace,2018-06-09,3,21:00,00:15,The Electronic Orchestra Berlin: The Metaphysics of Notation,47,"12 electronic and electroacoustic instruments, live
-spatialized on a 12-speaker system - the Electronic
-Orchestra Charlottenburg (EOC), a project of the Electronic
-Music Studio at TU Berlin, explores means of organizing and
+nativespace,2018-06-09,3,21:00,00:15,Rotations 2,47,"Six modular synthesizers and one digital instrument interact in an improvised performance. Their spatial movements are defined by rotations in opposite directions over time, realized on an eight channel speaker system - the Electronic
+Orchestra Charlottenburg (EOC) (https://www.ak.tu-berlin.de/menue/elektronisches_studio/elektronisches_orchester_charlottenburg/), a project of the Electronic
+Music Studio at TU Berlin (https://www.ak.tu-berlin.de/menue/elektronisches_studio/), explores means of organizing and
 spatializing the seemingly infinite diversity of electronic
 sounds in a larger ensemble.
 
-The Metaphysics of Notation (2008), by Mark Applebaum, is a
-graphical score with a length of 22 meters, divided into 12
-panels.For the interpretation of the score, each instrument is assigned one or several panels. The piece is performed
-without a fixed time grid.
-The performance will be spatialized using the SSR, PD and
+The performance will be spatialized using the SSR, Pd and
 Python, running on a Linux Server with Ubuntu Studio. The
-server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with a RME MADI card and several AD/DA converters.","12 electronic and electroacoustic instruments, live
-spatialized on a 12-speaker system - the Electronic
-Orchestra Charlottenburg (EOC), a project of the Electronic
-Music Studio at TU Berlin, explores means of organizing and
+server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with an RME MADI card and several AD/DA converters.
+
+
+","Six modular synthesizers and one digital instrument interact in an improvised performance. Their spatial movements are defined by rotations in opposite directions over time, realized on an eight channel speaker system - the Electronic
+Orchestra Charlottenburg (EOC) (https://www.ak.tu-berlin.de/menue/elektronisches_studio/elektronisches_orchester_charlottenburg/), a project of the Electronic
+Music Studio at TU Berlin (https://www.ak.tu-berlin.de/menue/elektronisches_studio/), explores means of organizing and
 spatializing the seemingly infinite diversity of electronic
 sounds in a larger ensemble.
 
-The Metaphysics of Notation (2008), by Mark Applebaum, is a
-graphical score with a length of 22 meters, divided into 12
-panels.For the interpretation of the score, each instrument is assigned one or several panels. The piece is performed
-without a fixed time grid.
-The performance will be spatialized using the SSR, PD and
+The performance will be spatialized using the SSR, Pd and
 Python, running on a Linux Server with Ubuntu Studio. The
-server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with a RME MADI card and several AD/DA converters.",en,46:Henrik von Coler| 47:David Runge, 
+server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with an RME MADI card and several AD/DA converters.
+
+
+",en,150:The Electronic Orchestra Charlottenburg, 
 nativespace,2018-06-09,3,21:25,00:10,Pick It Up,49,"Composition for prepared electric guitar and live electronics (SuperCollider), with multichannel spatialization.","Composition for prepared electric guitar and live electronics (SuperCollider), with multichannel spatialization.",en,41:Krzysztof Gawlas, 
 nativespace,2018-06-09,3,21:40,00:12,COSMO,21,"COSMO Collective is an open musical collaboration for musicians using DIY electronics and custom software written in Csound. There is no definite musical style, though it could perhaps be characterized as electro-acoustic
 improvisation. The focus is on the exploration of sound and timbre, rather than traditional harmonics and rhythm, and exploiting the powers of Csound in this pursuit.","COSMO Collective is an open musical collaboration for musicians using DIY electronics and custom software written in Csound. There is no definite musical style, though it could perhaps be characterized as electro-acoustic
