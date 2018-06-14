@@ -29,6 +29,4 @@ Python, running on a Linux Server with Ubuntu Studio. The
 server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with an RME MADI card and several AD/DA converters.
 
 
-
-
 **Downloads**: 

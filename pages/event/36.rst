@@ -13,7 +13,7 @@
 
 **Time**: 14:00 - 15:00
 
-**Author(s)**: Uroš Maravić, Tres Finocchiaro
+**Author(s)**: Uroš Maravić
 
 **Keywords**: LMMS, Open Software, Music Production, GUI design
 

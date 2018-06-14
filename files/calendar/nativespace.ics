@@ -176,7 +176,7 @@ DESCRIPTION:Author: 150:The Electronic Orchestra Charlottenburg\nType: Perf
  rmance will be spatialized using the SSR\, Pd and\nPython\, running on a L
  inux Server with Ubuntu Studio. The\nserver is remote controlled by the so
  und director via OSC and various input devices. Inputs and outputs are man
- aged with an RME MADI card and several AD/DA converters.\n\n\n\nID: 47
+ aged with an RME MADI card and several AD/DA converters.\n\nID: 47
 DTSTART;TZID=Europe/Berlin:20180609T210000
 DTEND;TZID=Europe/Berlin:20180609T211500
 END:VEVENT

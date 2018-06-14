@@ -267,7 +267,7 @@ Day 4 (2018-06-10)
    * - 14:00 - 15:00
      - mainhall
      - Workshop
-     - Uroš Maravić, Tres Finocchiaro
+     - Uroš Maravić
      - `LMMS 1.2: Changes and Improvements </pages/event/36/>`_
    * - 16:00 - 16:30
      - mainhall

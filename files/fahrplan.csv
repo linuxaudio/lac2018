@@ -327,8 +327,6 @@ sounds in a larger ensemble.
 The performance will be spatialized using the SSR, Pd and
 Python, running on a Linux Server with Ubuntu Studio. The
 server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with an RME MADI card and several AD/DA converters.
-
-
 ","Six modular synthesizers and one digital instrument interact in an improvised performance. Their spatial movements are defined by rotations in opposite directions over time, realized on an eight channel speaker system - the Electronic
 Orchestra Charlottenburg (EOC) (https://www.ak.tu-berlin.de/menue/elektronisches_studio/elektronisches_orchester_charlottenburg/), a project of the Electronic
 Music Studio at TU Berlin (https://www.ak.tu-berlin.de/menue/elektronisches_studio/), explores means of organizing and
@@ -338,8 +336,6 @@ sounds in a larger ensemble.
 The performance will be spatialized using the SSR, Pd and
 Python, running on a Linux Server with Ubuntu Studio. The
 server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with an RME MADI card and several AD/DA converters.
-
-
 ",en,150:The Electronic Orchestra Charlottenburg, 
 nativespace,2018-06-09,3,21:25,00:10,Pick It Up,49,"Composition for prepared electric guitar and live electronics (SuperCollider), with multichannel spatialization.","Composition for prepared electric guitar and live electronics (SuperCollider), with multichannel spatialization.",en,41:Krzysztof Gawlas, 
 nativespace,2018-06-09,3,21:40,00:12,COSMO,21,"COSMO Collective is an open musical collaboration for musicians using DIY electronics and custom software written in Csound. There is no definite musical style, though it could perhaps be characterized as electro-acoustic
@@ -483,5 +479,5 @@ https://drumkv1.sourceforge.io
 [11] padthv1 - an old-school polyphonic additive synthesizer
 https://padthv1.sourceforge.io
 ",en,55:Rui Nuno Capela, 
-mainhall,2018-06-10,4,14:00,01:00,LMMS 1.2: Changes and Improvements,36,A workshop focused on showcasing the new features and improvements of LMMS version 1.2 as well as an open discussion on the future of the software itself. The workshop is suitable for musicians and developers alike.,A workshop focused on showcasing the new features and improvements of LMMS version 1.2 as well as an open discussion on the future of the software itself. The workshop is suitable for musicians and developers alike.,en,31:Uroš Maravić| 56:Tres Finocchiaro, 
+mainhall,2018-06-10,4,14:00,01:00,LMMS 1.2: Changes and Improvements,36,A workshop focused on showcasing the new features and improvements of LMMS version 1.2 as well as an open discussion on the future of the software itself. The workshop is suitable for musicians and developers alike.,A workshop focused on showcasing the new features and improvements of LMMS version 1.2 as well as an open discussion on the future of the software itself. The workshop is suitable for musicians and developers alike.,en,31:Uroš Maravić, 
 mainhall,2018-06-10,4,16:00,00:30,Closing speech,104,A short closing speech by the team.,A short closing speech by the team.,en,1:LAC team, 

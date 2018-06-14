@@ -1295,8 +1295,6 @@ The performance will be spatialized using the SSR, Pd and
 Python, running on a Linux Server with Ubuntu Studio. The
 server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with an RME MADI card and several AD/DA converters.
 
-
-
         </abstract>
         <description>
 Six modular synthesizers and one digital instrument interact in an improvised performance. Their spatial movements are defined by rotations in opposite directions over time, realized on an eight channel speaker system - the Electronic
@@ -1308,8 +1306,6 @@ sounds in a larger ensemble.
 The performance will be spatialized using the SSR, Pd and
 Python, running on a Linux Server with Ubuntu Studio. The
 server is remote controlled by the sound director via OSC and various input devices. Inputs and outputs are managed with an RME MADI card and several AD/DA converters.
-
-
 
         </description>
         <logo />
@@ -1626,7 +1622,6 @@ The workshop is meant as an entry point for long standing, new or only intereste
         <logo />
         <persons>
           <person id="31">Uroš Maravić</person>
-          <person id="56">Tres Finocchiaro</person>
         </persons>
         <links />
         <attachments />

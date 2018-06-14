@@ -190,12 +190,12 @@ UID:2MXD2GVY4ZPKC4U1YBSY9I
 SUMMARY:LMMS 1.2: Changes and Improvements
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
 CLASS:PUBLIC
-DESCRIPTION:Author: 31:Uroš Maravić| 56:Tres Finocchiaro\nType: Workshop\
- nTopics: Music Production\, Projects Realized using Linux Audio \nKeywords
- : LMMS\, Open Software\, Music Production\, GUI design\nAbstract: A worksh
- op focused on showcasing the new features and improvements of LMMS version
-  1.2 as well as an open discussion on the future of the software itself. T
- he workshop is suitable for musicians and developers alike.\nID: 36
+DESCRIPTION:Author: 31:Uroš Maravić\nType: Workshop\nTopics: Music Produc
+ tion\, Projects Realized using Linux Audio \nKeywords: LMMS\, Open Softwar
+ e\, Music Production\, GUI design\nAbstract: A workshop focused on showcas
+ ing the new features and improvements of LMMS version 1.2 as well as an op
+ en discussion on the future of the software itself. The workshop is suitab
+ le for musicians and developers alike.\nID: 36
 STATUS:CONFIRMED
 DTSTART;TZID=Europe/Berlin:20180610T140000
 DTEND;TZID=Europe/Berlin:20180610T150000
