@@ -135,8 +135,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/pages/schedule", "Schedule"),
-        ("https://streaming.media.ccc.de/lac2018", "Streaming"),
-        ("https://www.ak.tu-berlin.de/index.php?id=195758", "Register"),
+        ("https://media.ccc.de/c/lac18", "Videos"),
         ("/pages/locations", "Locations"),
         ("/pages/travel-and-stay", "Travel & Stay"),
         ("/pages/contact", "Contact"),
