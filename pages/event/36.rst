@@ -21,3 +21,5 @@
 A workshop focused on showcasing the new features and improvements of LMMS version 1.2 as well as an open discussion on the future of the software itself. The workshop is suitable for musicians and developers alike.
 
 **Downloads**: 
+
+**Video**: https://media.ccc.de/v/lac2018-36-lmms_1_2_changes_and_improvements

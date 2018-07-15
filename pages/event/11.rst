@@ -23,3 +23,5 @@ The levTools are free and open source. They were developed by Marten Seedorf in 
 This workshop introduces the levTools.
 
 **Downloads**: 
+
+**Video**: https://media.ccc.de/v/lac2018-11-the_levtools_a_modular_toolset_in_purr_data_for_creating_and_teaching_electronic_music

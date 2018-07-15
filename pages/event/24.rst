@@ -22,3 +22,5 @@ Carla is a fully-featured audio plugin host with support for many plugin formats
 This workshop plans to give a quick overview of Carla and go through some workflows together with the audience.
 
 **Downloads**: 
+
+**Video**: https://media.ccc.de/v/lac2018-24-carla_plugin_host_feature_overview_and_workflows

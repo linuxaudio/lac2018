@@ -24,3 +24,5 @@ The workshop will use the software Pure Data; the participants will receive comm
 Partitipants should bring their own laptops and headphones.
 
 **Downloads**: 
+
+**Video**: https://media.ccc.de/v/lac2018-28-introduction_to_pmpd

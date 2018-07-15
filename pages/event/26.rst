@@ -24,3 +24,5 @@ The first part explains how to program with data structures (and their shortcomi
 After this workshop, it should be clear how to program with data structures, and integrate them inindividual patches.
 
 **Downloads**: 
+
+**Video**: https://media.ccc.de/v/lac2018-26-understanding_and_being_creative_with_pure_data_s_data_structures

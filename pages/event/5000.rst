@@ -1,5 +1,5 @@
-.. title: BBQ
-.. slug: 101
+.. title: Bitwig License Lottery
+.. slug: 5000
 .. date: 
 .. tags: None
 .. category: Informal
@@ -9,16 +9,16 @@
 
 **Type**: Informal
 
-**Day**: 2018-06-07
+**Day**: 2018-06-10
 
-**Time**: 19:00 - 21:00
+**Time**: 15:30 - 16:00
 
 **Author(s)**: LAC team
 
 **Keywords**: None
 
 **Abstract**: 
-There will be a barbecue with a limited set of food. First come, first served!
+The Bitwig License Lottery
 
 **Downloads**: 
 

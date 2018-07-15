@@ -269,6 +269,11 @@ Day 4 (2018-06-10)
      - Workshop
      - Uroš Maravić
      - `LMMS 1.2: Changes and Improvements </pages/event/36/>`_
+   * - 15:30 - 16:00
+     - mainhall
+     - Informal
+     - LAC team
+     - `Bitwig License Lottery </pages/event/5000/>`_
    * - 16:00 - 16:30
      - mainhall
      - Informal

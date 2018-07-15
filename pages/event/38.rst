@@ -30,4 +30,6 @@ build while the ZynAddSubFX user interface was
 rewritten. This toolkit possesses unique characteristics within open source toolkits which target the
 problems specific to audio applications.
 
-**Downloads**: `Paper </pdf/38-paper.pdf>`_ 
+**Downloads**: `Presentation </pdf/38-presentation.pdf>`_ `Paper </pdf/38-paper.pdf>`_ 
+
+**Video**: https://media.ccc.de/v/lac2018-38-mruby_zest_a_scriptable_audio_gui_framework

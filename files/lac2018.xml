@@ -1627,6 +1627,31 @@ The workshop is meant as an entry point for long standing, new or only intereste
         <attachments />
         <video_download_url> </video_download_url>
       </event>
+      <event guid="0a1e4ab0-d07c-5b1e-993c-05db2565282b" id="5000">
+        <date>2018-06-10T15:30:00</date>
+        <start>15:30</start>
+        <duration>0:30</duration>
+        <room>mainhall</room>
+        <slug>lac2018-5000-bitwig_license_lottery</slug>
+        <recording>
+          <license>"Creative Commons Attribution-NonCommercial 3.0"</license>
+          <optout>false</optout>
+        </recording>
+        <title>Bitwig License Lottery</title>
+        <language>en</language>
+        <subtitle />
+        <track />
+        <type />
+        <abstract>The Bitwig License Lottery</abstract>
+        <description>The Bitwig License Lottery</description>
+        <logo />
+        <persons>
+          <person id="1">LAC team</person>
+        </persons>
+        <links />
+        <attachments />
+        <video_download_url> </video_download_url>
+      </event>
       <event guid="7c027b66-2214-5224-8011-6ad71507cd29" id="104">
         <date>2018-06-10T16:00:00</date>
         <start>16:00</start>

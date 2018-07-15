@@ -25,3 +25,5 @@ Sentire is an Italian word that means both to hear and to feel. The project is a
 The interactive system has been designed with the Supercollider software and it runs on Linux Mint.
 
 **Downloads**: 
+
+**Video**: https://media.ccc.de/v/lac2018-17-sentire

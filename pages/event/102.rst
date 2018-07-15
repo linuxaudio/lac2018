@@ -36,3 +36,5 @@ possible efforts towards attaining a sustainable business model with the
 community efforts.
 
 **Downloads**: 
+
+**Video**: https://media.ccc.de/v/lac2018-102-mod_building_a_sustainable_linux_audio_based_business

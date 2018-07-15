@@ -30,3 +30,5 @@ hearing aid signal processing on the BeagleBone Black with a
 customized Debian distribution tailored to real-time audio signal processing.
 
 **Downloads**: `Paper </pdf/35-paper.pdf>`_ 
+
+**Video**: https://media.ccc.de/v/lac2018-35-open_hardware_multichannel_sound_interface_for_hearing_aid_research_on_beaglebone_black_with_openmha_cape4all

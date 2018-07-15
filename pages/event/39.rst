@@ -39,4 +39,6 @@ metadata system for representing application/library parameters.
 This combination is not available in any other OSC library at the time of
 writing.
 
-**Downloads**: `Paper </pdf/39-paper.pdf>`_ 
+**Downloads**: `Presentation </pdf/39-presentation.pdf>`_ `Paper </pdf/39-paper.pdf>`_ 
+
+**Video**: https://media.ccc.de/v/lac2018-39-rtosc_realtime_safe_open_sound_control_messaging

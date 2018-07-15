@@ -21,3 +21,5 @@
 This paper introduces a set of real-time audio processing blocks that can be used as components in Python scripts. Each of them is both a Jack client and a Python class. The full power of Python can be used to control these modules, to combine them into systems of arbitrary complexity, and to interface them to anything that can be controlled from Python. The rationale behind this approach, some of the the implementations details, and possible applications are discussed.
 
 **Downloads**: `Paper </pdf/46-paper.pdf>`_ 
+
+**Video**: https://media.ccc.de/v/lac2018-46-jacktools_realtime_audio_processors_as_python_classes

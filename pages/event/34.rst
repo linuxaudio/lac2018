@@ -21,4 +21,6 @@
 This workshop will be a recap and show-case on pro-audio packaging and end-user appliances on Arch Linux. The emphasis will be on direct best practices and use-cases, beginning with a short introduction to important changes applied to the [community] repository over the past months.
 The workshop is meant as an entry point for long standing, new or only interested (and maybe soon to be) Arch Linux users to the use of pro-audio software.
 
-**Downloads**: 
+**Downloads**: `Presentation </pdf/34-presentation.pdf>`_ 
+
+**Video**: https://media.ccc.de/v/lac2018-34-pro_audio_on_arch_linux_revisited

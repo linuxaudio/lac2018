@@ -56,4 +56,6 @@ https://drumkv1.sourceforge.io
 https://padthv1.sourceforge.io
 
 
-**Downloads**: 
+**Downloads**: `Presentation </pdf/33-presentation.pdf>`_ 
+
+**Video**: https://media.ccc.de/v/lac2018-33-qjackctl_considered_harmful

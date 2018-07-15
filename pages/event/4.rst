@@ -21,3 +21,5 @@
 This is a workshop for the Yoshimi soft-synth, and is intended to give an overview of ideas for using the synth at live venues.
 
 **Downloads**: 
+
+**Video**: https://media.ccc.de/v/lac2018-4-yoshimi_live

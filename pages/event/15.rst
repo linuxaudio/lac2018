@@ -31,4 +31,6 @@ This hands-on workshop is intended for Pd and Linux audio users who want to star
 - Custom graphics and data structure visualizations in Purr Data.
 
 
-**Downloads**: 
+**Downloads**: `Abstract </pdf/15-abstract.pdf>`_ `Presentation </pdf/15-presentation.pdf>`_ 
+
+**Video**: https://media.ccc.de/v/lac2018-15-getting_started_with_purr_data
