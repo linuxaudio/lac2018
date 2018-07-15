@@ -22,13 +22,14 @@ match_eol = re.compile('$|\n', flags=re.M)
 
 
 class LACEvent:
-    def __init__(self, author, type, topics, keywords, abstract, id, name,
-                 location, relative_location, start, end, duration, day,
+    def __init__(self, author, type, topics, keywords, video, abstract, id,
+                 name, location, relative_location, start, end, duration, day,
                  description):
         self.author = author
         self.type = type
         self.topics = topics
         self.keywords = keywords
+        self.video = video
         self.abstract = abstract
         self.id = id
         self.name = name
@@ -94,6 +95,14 @@ def __get_keywords_from_description(description):
         return "None"
 
 
+def __get_video_from_description(description):
+    match = re.search('Video: (.*)', description)
+    if match:
+        return match.group(1)
+    else:
+        return "None"
+
+
 def __get_abstract_from_description(description):
     match = re.search('Abstract: (.*)\nID: ', description, re.S)
     if match:
@@ -109,9 +118,24 @@ def __print_paper_link_by_id(id):
         return ""
 
 
+def __print_presentation_link_by_id(id):
+    if os.path.isfile("files/pdf/"+str(id)+"-presentation.pdf"):
+        return "`Presentation </pdf/"+str(id)+"-presentation.pdf>`_ "
+    else:
+        return ""
+
+
+def __print_abstract_link_by_id(id):
+    if os.path.isfile("files/pdf/"+str(id)+"-abstract.pdf"):
+        return "`Abstract </pdf/"+str(id)+"-abstract.pdf>`_ "
+    else:
+        return ""
+
+
 def __print_compressed_link_by_id(id):
     if os.path.isfile("files/compressed/"+str(id)+"-additional.tar.gz"):
-        return "`Archive </compressed/"+str(id)+"-additional.tar.gz>`_ "
+        return "`Additional (compressed) </compressed/"
+        +str(id)+"-additional.tar.gz>`_ "
     else:
         return ""
 
@@ -164,6 +188,7 @@ def retrieve_events_from_calendar(name, events):
                         type=__get_type_from_description(description),
                         topics=__get_topics_from_description(description),
                         keywords=__get_keywords_from_description(description),
+                        video=__get_video_from_description(description),
                         abstract=__get_abstract_from_description(description),
                         id=__get_id_from_description(description),
                         name=item.get('SUMMARY'),
@@ -255,8 +280,12 @@ def write_events(events):
         event_page.write('**Abstract**: \n'+event.abstract+'\n')
         event_page.write('\n')
         event_page.write('**Downloads**: ' +
+                         __print_abstract_link_by_id(event.id) +
+                         __print_presentation_link_by_id(event.id) +
                          __print_paper_link_by_id(event.id) +
                          __print_compressed_link_by_id(event.id)+'\n')
+        event_page.write('\n')
+        event_page.write('**Video**: ' + event.video + '\n')
 
 
 # write all events to files/fahrplan.csv, compatible with voctosched
