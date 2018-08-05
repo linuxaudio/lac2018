@@ -18,7 +18,65 @@
 **Keywords**: None
 
 **Abstract**: 
-A set of lightning talks by you!
+
+.. list-table::
+   :widths: auto
+
+   * - `A haptic instrument for digital sound synthesis. </pdf/lightningtalks/CHAIR_LAC_Berlin_small.pdf>`_
+     - chair.audio
+     - `<https://chair.audio/>`_
+
+   * - `AVIO - A highly interactive mixed media processor </pdf/lightningtalks/avio.pdf>`_
+     - riot
+     - `<https://github.com/ri0t/avio>`_
+
+   * - `DJs: Why the world's-worst turntables work wonders with xwax </pdf/lightningtalks/lac_lightning_talk_pideck_slides.pdf>`_
+     - obbardc
+     - `<http://pideck.com/>`_
+
+   * - `Hacking my hearing </pdf/lightningtalks/foaly-hacking-hearing.pdf>`_
+     - foaly
+     - `<https://github.com/Foaly/UltrasonicHearing>`_
+
+   * - `Live Surround Sound with Ambisonics </pdf/lightningtalks/surround_with_ambisonics.pdf>`_
+     - Eismann
+     - No page
+
+   * - `Linux Audio Slowdown - An Update </pdf/lightningtalks/2018-lightning-la-slowdown.pdf>`_
+     - fundamental
+     - `<http://log.fundamental-code.com/2016/01/22/linux-audio-slowdown.html>`_
+
+   * - `Live-coding audio in C </pdf/lightningtalks/claude-heiland-allen-live-coding-audio-in-c-lightning-talk.pdf>`_
+     - claude
+     - `<https://mathr.co.uk/clive/>`_
+
+   * - `MotionComposer:  a motion tracking device for persons of other abilities. </pdf/lightningtalks/lac_motioncomposer.compressed.pdf>`_
+     - motioncomposer
+     - `<http://motioncomposer.de/>`_
+
+   * - New stuff in DrumGizmo
+     - deva
+     - `<https://www.drumgizmo.org/wiki/doku.php>`_
+
+   * - `News from the SoundScape Renderer </pdf/lightningtalks/LAC2018-SSR-Lightning-Talk_final.pdf>`_
+     - geier
+     - `<http://spatialaudio.net/ssr/>`_
+
+   * - norns is many sound instruments
+     - artfwo
+     - `<https://monome.org/norns/>`_
+
+   * - `Patroneo - simple pattern sequencer </pdf/lightningtalks/patroneo_pseudo_slides.pdf>`_
+     - biCheeto
+     - `<github.com/diovudau/Patroneo>`_
+
+   * - `OpenAV Ctlra </pdf/lightningtalks/OpenAV_Ctlra_LAC18.pdf>`_
+     - Harry
+     - `<https://github.com/openAVproductions/openAV-Ctlra>`_
+
+   * - `SpectMorph </pdf/lightningtalks/>`_
+     - Stefan Westerfeld
+     - `<http://www.spectmorph.org/>`_
 
 **Downloads**: 
 

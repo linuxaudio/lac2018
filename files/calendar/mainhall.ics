@@ -752,8 +752,37 @@ CLASS:PUBLIC
 STATUS:CONFIRMED
 LOCATION:c-base\, Rungestraße 20\, 10179 Berlin
 DESCRIPTION:Author: 1:LAC team\nType: Lightning Talks\nVideo: https://media
- .ccc.de/v/lac2018-103-lightning_talks\nAbstract: A set of lightning talks 
- by you!\nID: 103
+ .ccc.de/v/lac2018-103-lightning_talks\nAbstract: \n.. list-table::\n   :wi
+ dths: auto\n\n   * - `A haptic instrument for digital sound synthesis. </p
+ df/lightningtalks/CHAIR_LAC_Berlin_small.pdf>`_\n     - chair.audio\n     
+ - `<https://chair.audio/>`_\n\n   * - `AVIO - A highly interactive mixed m
+ edia processor </pdf/lightningtalks/avio.pdf>`_\n     - riot\n     - `<htt
+ ps://github.com/ri0t/avio>`_\n\n   * - `DJs: Why the world's-worst turntab
+ les work wonders with xwax </pdf/lightningtalks/lac_lightning_talk_pideck_
+ slides.pdf>`_\n     - obbardc\n     - `<http://pideck.com/>`_\n\n   * - `H
+ acking my hearing </pdf/lightningtalks/foaly-hacking-hearing.pdf>`_\n     
+ - foaly\n     - `<https://github.com/Foaly/UltrasonicHearing>`_\n\n   * - 
+ `Live Surround Sound with Ambisonics </pdf/lightningtalks/surround_with_am
+ bisonics.pdf>`_\n     - Eismann\n     - No page\n\n   * - `Linux Audio Slo
+ wdown - An Update </pdf/lightningtalks/2018-lightning-la-slowdown.pdf>`_\n
+      - fundamental\n     - `<http://log.fundamental-code.com/2016/01/22/li
+ nux-audio-slowdown.html>`_\n\n   * - `Live-coding audio in C </pdf/lightni
+ ngtalks/claude-heiland-allen-live-coding-audio-in-c-lightning-talk.pdf>`_\
+ n     - claude\n     - `<https://mathr.co.uk/clive/>`_\n\n   * - `MotionCo
+ mposer:  a motion tracking device for persons of other abilities. </pdf/li
+ ghtningtalks/lac_motioncomposer.compressed.pdf>`_\n     - motioncomposer\n
+      - `<http://motioncomposer.de/>`_\n\n   * - New stuff in DrumGizmo\n  
+    - deva\n     - `<https://www.drumgizmo.org/wiki/doku.php>`_\n\n   * - `
+ News from the SoundScape Renderer </pdf/lightningtalks/LAC2018-SSR-Lightni
+ ng-Talk_final.pdf>`_\n     - geier\n     - `<http://spatialaudio.net/ssr/>
+ `_\n\n   * - norns is many sound instruments\n     - artfwo\n     - `<http
+ s://monome.org/norns/>`_\n\n   * - `Patroneo - simple pattern sequencer </
+ pdf/lightningtalks/patroneo_pseudo_slides.pdf>`_\n     - biCheeto\n     - 
+ `<github.com/diovudau/Patroneo>`_\n\n   * - `OpenAV Ctlra </pdf/lightningt
+ alks/OpenAV_Ctlra_LAC18.pdf>`_\n     - Harry\n     - `<https://github.com/
+ openAVproductions/openAV-Ctlra>`_\n\n   * - `SpectMorph </pdf/lightningtal
+ ks/>`_\n     - Stefan Westerfeld\n     - `<http://www.spectmorph.org/>`_\n
+ ID: 103
 DTSTART;TZID=Europe/Berlin:20180609T150000
 DTEND;TZID=Europe/Berlin:20180609T163000
 END:VEVENT
