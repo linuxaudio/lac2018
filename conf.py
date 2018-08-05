@@ -136,6 +136,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/pages/schedule", "Schedule"),
         ("https://media.ccc.de/c/lac18", "Videos"),
+        ("/pdf/LAC2018_proceedings.pdf", "Proceedings"),
         ("/pages/locations", "Locations"),
         ("/pages/travel-and-stay", "Travel & Stay"),
         ("/pages/contact", "Contact"),
