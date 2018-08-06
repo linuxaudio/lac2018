@@ -27,7 +27,7 @@ So long and until next time!
 
 .. |schedule| raw:: html
 
-  <a href="pages/schedule" target="_blank">schedule</a>
+  <a href="/pages/schedule" target="_blank">schedule</a>
 
 .. |media.ccc.de| raw:: html
 
