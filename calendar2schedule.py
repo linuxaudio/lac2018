@@ -118,6 +118,13 @@ def __print_paper_link_by_id(id):
         return ""
 
 
+def __print_poster_link_by_id(id):
+    if os.path.isfile("files/pdf/"+str(id)+"-poster.pdf"):
+        return "`Poster </pdf/"+str(id)+"-poster.pdf>`_ "
+    else:
+        return ""
+
+
 def __print_presentation_link_by_id(id):
     if os.path.isfile("files/pdf/"+str(id)+"-presentation.pdf"):
         return "`Presentation </pdf/"+str(id)+"-presentation.pdf>`_ "
@@ -283,6 +290,7 @@ def write_events(events):
                          __print_abstract_link_by_id(event.id) +
                          __print_presentation_link_by_id(event.id) +
                          __print_paper_link_by_id(event.id) +
+                         __print_poster_link_by_id(event.id) +
                          __print_compressed_link_by_id(event.id)+'\n')
         event_page.write('\n')
         event_page.write('**Video**: ' + event.video + '\n')
