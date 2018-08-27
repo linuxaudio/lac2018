@@ -7,6 +7,14 @@ This is a |nikola| based static website.
 Refer to its |handbook| to see how it works and how to add new content as blog
 posts or static pages.
 
+   .. note::
+
+    This website is now readonly and the below steps (especially the dynamic way
+    of adding information from the calendar with the python script) are not
+    valid anymore. The website can now only be changed by editing the rst files
+    directly and re-rendering the html.
+
+
 Currently, parts of the pages (*pages/event/** and *pages/schedule.rst*) are
 generated from public ics calendars. Metadata from those calendar files is used
 to populate the pages and to create a fahrplan.csv file (compatible to
